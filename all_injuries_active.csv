@@ -1,683 +1,660 @@
 ID,Organizations,ProblemDate,BodyPart,AffectedArea,Side,InjuryType,BodyPartName,CurrentStatus,Name,team_dash,season_type,SeasonStart,SeasonEnd,SeasonStatus,SeasonQuartile,Active
-FB128,Football,9/14/2025,Brain,Head,Does Not Apply,Concussion,,Not Cleared,A.J. Winders,Football,Fall,8/1/2025,12/1/2025,In Season,Early-Mid,1
-WBB1,Women's Basketball,1/27/2024,Knee,Lower Extremity,Left,Sprain,,Returned To Play As Tolerated,Abbie Westmeyer,W Basketball,Winter,9/15/2023,3/31/2024,In Season,Late-Mid,0
-WBB1,Women's Basketball,9/6/2024,Shoulder,Upper Extremity,Right,Shoulder pain (finding),,Returned To Play As Tolerated,Abbie Westmeyer,W Basketball,Winter,9/15/2024,3/31/2025,Out of Season,Early Offseason,0
+FB128,Football,9/14/2025,Brain,Head,Does Not Apply,Concussion,NA,Not Cleared,A.J. Winders,Football,Fall,8/1/2025,12/1/2025,In Season,Early-Mid,1
+WBB1,Women's Basketball,1/27/2024,Knee,Lower Extremity,Left,Sprain,NA,Returned To Play As Tolerated,Abbie Westmeyer,W Basketball,Winter,9/15/2023,3/31/2024,In Season,Late-Mid,0
+WBB1,Women's Basketball,9/6/2024,Shoulder,Upper Extremity,Right,Shoulder pain (finding),NA,Returned To Play As Tolerated,Abbie Westmeyer,W Basketball,Winter,9/15/2024,3/31/2025,Out of Season,Early Offseason,0
 WBB1,Women's Basketball,1/27/2025,Knee,Lower Extremity,Right,Contusion,Lat. Tibial Plateau,Returned To Play and Closed,Abbie Westmeyer,W Basketball,Winter,9/15/2024,3/31/2025,In Season,Late-Mid,0
-WBB2,Women's Basketball,11/19/2024,Foot,Lower Extremity,Right,Fasciitis,,Returned To Play As Tolerated,Abby Cooch,W Basketball,Winter,9/15/2024,3/31/2025,In Season,Early-Mid,1
-WBB3,Women's Basketball,2/3/2024,Ankle,Lower Extremity,,Sprain,,Returned To Play As Tolerated,Ada Taute,W Basketball,Winter,9/15/2023,3/31/2024,In Season,Late-Mid,1
-WBB3,Women's Basketball,10/25/2024,Lower Leg,Lower Extremity,Bilateral,Medial Tibial Stress Syndrome,,Returned To Play As Tolerated,Ada Taute,W Basketball,Winter,9/15/2024,3/31/2025,In Season,Early Season,1
-WBB3,Women's Basketball,11/11/2024,Knee,Lower Extremity,Right,Rupture,,Not Cleared,Ada Taute,W Basketball,Winter,9/15/2024,3/31/2025,In Season,Early-Mid,1
+WBB2,Women's Basketball,11/19/2024,Foot,Lower Extremity,Right,Fasciitis,NA,Returned To Play As Tolerated,Abby Cooch,W Basketball,Winter,9/15/2024,3/31/2025,In Season,Early-Mid,1
+WBB3,Women's Basketball,2/3/2024,Ankle,Lower Extremity,NA,Sprain,NA,Returned To Play As Tolerated,Ada Taute,W Basketball,Winter,9/15/2023,3/31/2024,In Season,Late-Mid,1
+WBB3,Women's Basketball,10/25/2024,Lower Leg,Lower Extremity,Bilateral,Medial Tibial Stress Syndrome,NA,Returned To Play As Tolerated,Ada Taute,W Basketball,Winter,9/15/2024,3/31/2025,In Season,Early Season,1
+WBB3,Women's Basketball,11/11/2024,Knee,Lower Extremity,Right,Rupture,NA,Not Cleared,Ada Taute,W Basketball,Winter,9/15/2024,3/31/2025,In Season,Early-Mid,1
 FB88,Football,8/22/2024,Knee,Lower Extremity,Right,Sprain,Posterior Cruciate Ligament,Not Cleared,Adam Clark,Football,Fall,8/1/2024,12/1/2024,In Season,Early Season,0
-WBB27,Women's Basketball,9/6/2024,Knee,Lower Extremity,Bilateral,Chondromalacia,,Returned To Play As Tolerated,Adelyn Moore,W Basketball,Winter,9/15/2024,3/31/2025,Out of Season,Early Offseason,1
-WBB27,Women's Basketball,11/22/2024,Shoulder,Upper Extremity,Right,Other Shoulder Injury,,Returned To Play As Tolerated,Adelyn Moore,W Basketball,Winter,9/15/2024,3/31/2025,In Season,Early-Mid,1
-WBB27,Women's Basketball,1/23/2025,Lower Back,Torso,Right,Other,,Returned To Play and Closed,Adelyn Moore,W Basketball,Winter,9/15/2024,3/31/2025,In Season,Late-Mid,1
-WBB27,Women's Basketball,4/1/2025,Thigh,Lower Extremity,Left,Strain,,Returned To Play and Closed,Adelyn Moore,W Basketball,Winter,9/15/2025,3/31/2026,Out of Season,Early Offseason,1
-WSOC34,Women's Soccer,9/14/2025,Ankle,Lower Extremity,Right,Ankle pain (finding),,Not Cleared,Adyson Clemen,W Soccer,Fall,8/1/2025,12/1/2025,In Season,Early-Mid,1
+WBB27,Women's Basketball,9/6/2024,Knee,Lower Extremity,Bilateral,Chondromalacia,NA,Returned To Play As Tolerated,Adelyn Moore,W Basketball,Winter,9/15/2024,3/31/2025,Out of Season,Early Offseason,1
+WBB27,Women's Basketball,11/22/2024,Shoulder,Upper Extremity,Right,Other Shoulder Injury,NA,Returned To Play As Tolerated,Adelyn Moore,W Basketball,Winter,9/15/2024,3/31/2025,In Season,Early-Mid,1
+WBB27,Women's Basketball,1/23/2025,Lower Back,Torso,Right,Other,NA,Returned To Play and Closed,Adelyn Moore,W Basketball,Winter,9/15/2024,3/31/2025,In Season,Late-Mid,1
+WBB27,Women's Basketball,4/1/2025,Thigh,Lower Extremity,Left,Strain,NA,Returned To Play and Closed,Adelyn Moore,W Basketball,Winter,9/15/2025,3/31/2026,Out of Season,Early Offseason,1
+WSOC34,Women's Soccer,9/14/2025,Ankle,Lower Extremity,Right,Ankle pain (finding),NA,Not Cleared,Adyson Clemen,W Soccer,Fall,8/1/2025,12/1/2025,In Season,Early-Mid,1
 MTE17,Men's Tennis,9/3/2025,Shoulder,Upper Extremity,Right,Strain,Pectoralis Major,Returned To Play As Tolerated,Aidan Borosko,M Tennis,Spring,1/1/2025,6/1/2025,Out of Season,Late Offseason,1
-FB21,Football,10/6/2024,Ankle,Lower Extremity,,Sprain,,Limited Activity,Aidan Brownlee,Football,Fall,8/1/2024,12/1/2024,In Season,Late-Mid,0
-MBB1,Men's Basketball,11/16/2023,Lumbar Spine,Torso,,Other Lumbar Injury,NA,-,Aidan King,M Basketball,Winter,9/15/2023,3/31/2024,In Season,Early-Mid,1
+FB21,Football,10/6/2024,Ankle,Lower Extremity,NA,Sprain,NA,Limited Activity,Aidan Brownlee,Football,Fall,8/1/2024,12/1/2024,In Season,Late-Mid,0
+MBB1,Men's Basketball,11/16/2023,Lumbar Spine,Torso,NA,Other Lumbar Injury,NA,-,Aidan King,M Basketball,Winter,9/15/2023,3/31/2024,In Season,Early-Mid,1
 MSOC45,Men's Soccer,2/13/2026,Ankle,Lower Extremity,Left,Sprain,Deltoid Ligament,Returned To Play As Tolerated,Aidan Walsh,M Soccer,Fall,8/1/2026,12/1/2026,Out of Season,Early Offseason,1
-MLAX12,Men's Lacrosse,4/12/2025,Brain,Head,Does Not Apply,Concussion,,Returned To Play and Closed,AJ Boxler,M Lacrosse,Spring,1/1/2025,6/1/2025,In Season,Late-Mid,1
-FB90,Football,8/19/2024,Knee,Lower Extremity,Left,Sprain,,Not Cleared,Alek Clark,Football,Fall,8/1/2024,12/1/2024,In Season,Early Season,0
+MLAX12,Men's Lacrosse,4/12/2025,Brain,Head,Does Not Apply,Concussion,NA,Returned To Play and Closed,AJ Boxler,M Lacrosse,Spring,1/1/2025,6/1/2025,In Season,Late-Mid,1
+FB90,Football,8/19/2024,Knee,Lower Extremity,Left,Sprain,NA,Not Cleared,Alek Clark,Football,Fall,8/1/2024,12/1/2024,In Season,Early Season,0
 FB90,Football,9/28/2025,Knee,Lower Extremity,Left,Meniscus Tear,Lateral Meniscus,Long Term Injury/Status Unknown - Closed,Alek Clark,Football,Fall,8/1/2025,12/1/2025,In Season,Early-Mid,1
-SB19,Softball,9/24/2024,Shoulder,Upper Extremity,Right,Glenoid Labrum Tear (non-SLAP),,Returned To Play As Tolerated,Alex Longstreth,Softball,Spring,1/1/2024,6/1/2024,Out of Season,Late Offseason,1
-BASEB1,Baseball,3/9/2024,Knee,Lower Extremity,Left,Fat Pad Syndrome,,Returned To Play As Tolerated,Alex Vasquez,Baseball,Spring,1/1/2024,6/1/2024,In Season,Early-Mid,1
-BASEB1,Baseball,3/29/2025,Shoulder,Upper Extremity,Left,Sprain,,Returned To Play As Tolerated,Alex Vasquez,Baseball,Spring,1/1/2025,6/1/2025,In Season,Late-Mid,1
-BASEB1,Baseball,9/1/2025,Knee,Lower Extremity,Left,Sprain,,Not Cleared,Alex Vasquez,Baseball,Spring,1/1/2025,6/1/2025,Out of Season,Late Offseason,1
+SB19,Softball,9/24/2024,Shoulder,Upper Extremity,Right,Glenoid Labrum Tear (non-SLAP),NA,Returned To Play As Tolerated,Alex Longstreth,Softball,Spring,1/1/2024,6/1/2024,Out of Season,Late Offseason,1
+BASEB1,Baseball,3/9/2024,Knee,Lower Extremity,Left,Fat Pad Syndrome,NA,Returned To Play As Tolerated,Alex Vasquez,Baseball,Spring,1/1/2024,6/1/2024,In Season,Early-Mid,1
+BASEB1,Baseball,3/29/2025,Shoulder,Upper Extremity,Left,Sprain,NA,Returned To Play As Tolerated,Alex Vasquez,Baseball,Spring,1/1/2025,6/1/2025,In Season,Late-Mid,1
+BASEB1,Baseball,9/1/2025,Knee,Lower Extremity,Left,Sprain,NA,Not Cleared,Alex Vasquez,Baseball,Spring,1/1/2025,6/1/2025,Out of Season,Late Offseason,1
 FB28,Football,8/17/2025,Hip,Lower Extremity,Right,Strain,Adductor,Returned To Play As Tolerated,Alexander Stackhouse,Football,Fall,8/1/2025,12/1/2025,In Season,Early Season,1
 FB28,Football,10/4/2025,Ankle,Lower Extremity,Right,Sprain,Anterior Tibiofibular Ligament,Returned To Play As Tolerated,Alexander Stackhouse,Football,Fall,8/1/2025,12/1/2025,In Season,Late-Mid,1
 SB20,Softball,9/24/2024,Elbow,Upper Extremity,Right,Contusion,"Med. Epicondyle, H.",Returned To Play As Tolerated,Andrea Care,Softball,Spring,1/1/2024,6/1/2024,Out of Season,Late Offseason,1
 MTE15,Men's Tennis,11/21/2024,Elbow,Upper Extremity,Right,Epicondylitis,Lateral Epicondyle,Returned To Play As Tolerated,Andreas Chapides,M Tennis,Spring,1/1/2024,6/1/2024,Out of Season,Late Offseason,1
 MTE15,Men's Tennis,4/4/2025,Thigh,Lower Extremity,Right,Strain,Hamstring (partial tear),Returned To Play and Closed,Andreas Chapides,M Tennis,Spring,1/1/2025,6/1/2025,In Season,Late-Mid,1
 MTE15,Men's Tennis,10/13/2025,Thigh,Lower Extremity,Left,Strain,"Adductor Longus, Hamstring (partial tear)",Returned To Play and Closed,Andreas Chapides,M Tennis,Spring,1/1/2025,6/1/2025,Out of Season,Late Offseason,1
-MTE15,Men's Tennis,2/25/2026,Upper arm,Upper Extremity,Right,Other Arm Injury,,Returned To Play As Tolerated,Andreas Chapides,M Tennis,Spring,1/1/2026,6/1/2026,In Season,Early-Mid,1
-MLAX9,Men's Lacrosse,2/2/2026,Lower Leg,Lower Extremity,Right,Bone Bruise,,Returned To Play and Closed,Andrew Albert,M Lacrosse,Spring,1/1/2026,6/1/2026,In Season,Early Season,1
+MTE15,Men's Tennis,2/25/2026,Upper arm,Upper Extremity,Right,Other Arm Injury,NA,Returned To Play As Tolerated,Andreas Chapides,M Tennis,Spring,1/1/2026,6/1/2026,In Season,Early-Mid,1
+MLAX9,Men's Lacrosse,2/2/2026,Lower Leg,Lower Extremity,Right,Bone Bruise,NA,Returned To Play and Closed,Andrew Albert,M Lacrosse,Spring,1/1/2026,6/1/2026,In Season,Early Season,1
 MLAX9,Men's Lacrosse,2/9/2026,Hip,Lower Extremity,Left,Piriformis Syndrome,Piriformis,Returned To Play As Tolerated,Andrew Albert,M Lacrosse,Spring,1/1/2026,6/1/2026,In Season,Early-Mid,1
 BASEB45,Baseball,9/18/2024,Knee,Lower Extremity,Left,Tendinitis,Patella Tendon,Returned To Play As Tolerated,Andrew Clifford,Baseball,Spring,1/1/2024,6/1/2024,Out of Season,Late Offseason,1
 BASEB45,Baseball,5/14/2025,Elbow,Upper Extremity,Right,Strain,"Flexor, Pronator Quadratus",Limited Activity,Andrew Clifford,Baseball,Spring,1/1/2025,6/1/2025,In Season,Late Season,1
-FB100,Football,4/15/2024,Knee,Lower Extremity,Right,Sprain,,Waiting For Assessment,Andrew Duffy,Football,Fall,8/1/2024,12/1/2024,Out of Season,Early Offseason,1
-FB100,Football,10/21/2024,Knee,Lower Extremity,Left,Sprain,,Not Cleared,Andrew Duffy,Football,Fall,8/1/2024,12/1/2024,In Season,Late-Mid,1
+FB100,Football,4/15/2024,Knee,Lower Extremity,Right,Sprain,NA,Waiting For Assessment,Andrew Duffy,Football,Fall,8/1/2024,12/1/2024,Out of Season,Early Offseason,1
+FB100,Football,10/21/2024,Knee,Lower Extremity,Left,Sprain,NA,Not Cleared,Andrew Duffy,Football,Fall,8/1/2024,12/1/2024,In Season,Late-Mid,1
 FB100,Football,11/15/2025,Knee,Lower Extremity,Right,Sprain,Medial Collateral Ligament,Not Cleared,Andrew Duffy,Football,Fall,8/1/2025,12/1/2025,In Season,Late Season,1
 BASEB42,Baseball,10/8/2024,Thigh,Lower Extremity,Right,Strain,Semitendinosus,Returned To Play As Tolerated,Andrew Fazio,Baseball,Spring,1/1/2024,6/1/2024,Out of Season,Late Offseason,1
-BASEB42,Baseball,10/8/2024,Thigh,Lower Extremity,Right,Strain,Semimembranosus,Returned To Play As Tolerated,Andrew Fazio,Baseball,Spring,1/1/2024,6/1/2024,Out of Season,Late Offseason,0
-G1,Golf,12/12/2023,Lower Back,Torso,Bilateral,Strain,,Returned To Play As Tolerated,Andrew Gallagher,Golf,Spring,1/1/2023,6/1/2023,Out of Season,Late Offseason,1
-MBB16,Men's Basketball,8/27/2025,Ankle,Lower Extremity,Left,Sprain,,Limited Activity,Andrew McDowell,M Basketball,Winter,9/15/2025,3/31/2026,Out of Season,Early Offseason,1
-MBB16,Men's Basketball,12/8/2025,Brain,Head,Does Not Apply,Concussion,,Returned To Play and Closed,Andrew McDowell,M Basketball,Winter,9/15/2025,3/31/2026,In Season,Early-Mid,1
-MSOC5,Men's Soccer,1/27/2025,Infectious Disease,General Medical,,Influenza,,Not Cleared,Andrew Nachtwey,M Soccer,Fall,8/1/2025,12/1/2025,Out of Season,Early Offseason,1
+G1,Golf,12/12/2023,Lower Back,Torso,Bilateral,Strain,NA,Returned To Play As Tolerated,Andrew Gallagher,Golf,Spring,1/1/2023,6/1/2023,Out of Season,Late Offseason,1
+MBB16,Men's Basketball,8/27/2025,Ankle,Lower Extremity,Left,Sprain,NA,Limited Activity,Andrew McDowell,M Basketball,Winter,9/15/2025,3/31/2026,Out of Season,Early Offseason,1
+MBB16,Men's Basketball,12/8/2025,Brain,Head,Does Not Apply,Concussion,NA,Returned To Play and Closed,Andrew McDowell,M Basketball,Winter,9/15/2025,3/31/2026,In Season,Early-Mid,1
+MSOC5,Men's Soccer,1/27/2025,Infectious Disease,General Medical,NA,Influenza,NA,Not Cleared,Andrew Nachtwey,M Soccer,Fall,8/1/2025,12/1/2025,Out of Season,Early Offseason,1
 MSOC5,Men's Soccer,9/7/2025,Ankle,Lower Extremity,Left,Sprain,"Calcaneofibular, Post. Talofibular",Limited Activity,Andrew Nachtwey,M Soccer,Fall,8/1/2025,12/1/2025,In Season,Early-Mid,1
-WBB24,Women's Basketball,9/9/2024,Knee,Lower Extremity,Right,Patellofemoral Pain Syndrome (PFPS),,Returned To Play As Tolerated,Anelly Mad-Toingue,W Basketball,Winter,9/15/2024,3/31/2025,Out of Season,Early Offseason,1
-WBB24,Women's Basketball,9/9/2025,Knee,Lower Extremity,Left,Patellofemoral Pain Syndrome (PFPS),,Returned To Play As Tolerated,Anelly Mad-Toingue,W Basketball,Winter,9/15/2025,3/31/2026,Out of Season,Early Offseason,0
-WLAX10,Women's Lacrosse,4/9/2025,Lower Back,Torso,Bilateral,Other,,Limited Activity,Anna DeVuono,W Lacrosse,Spring,1/1/2025,6/1/2025,In Season,Late-Mid,1
+WBB24,Women's Basketball,9/9/2024,Knee,Lower Extremity,Right,Patellofemoral Pain Syndrome (PFPS),NA,Returned To Play As Tolerated,Anelly Mad-Toingue,W Basketball,Winter,9/15/2024,3/31/2025,Out of Season,Early Offseason,1
+WBB24,Women's Basketball,9/9/2025,Knee,Lower Extremity,Left,Patellofemoral Pain Syndrome (PFPS),NA,Returned To Play As Tolerated,Anelly Mad-Toingue,W Basketball,Winter,9/15/2025,3/31/2026,Out of Season,Early Offseason,0
+WLAX10,Women's Lacrosse,4/9/2025,Lower Back,Torso,Bilateral,Other,NA,Limited Activity,Anna DeVuono,W Lacrosse,Spring,1/1/2025,6/1/2025,In Season,Late-Mid,1
 G2,Golf,9/11/2023,Foot,Lower Extremity,Left,Strain,Plantar Fascia,Returned To Play and Closed,Anna Klass,Golf,Spring,1/1/2023,6/1/2023,Out of Season,Late Offseason,1
 G2,Golf,8/20/2024,Hip,Lower Extremity,Left,Strain,Gluteus Maximus,Returned To Play As Tolerated,Anna Klass,Golf,Spring,1/1/2024,6/1/2024,Out of Season,Late Offseason,1
-G2,Golf,8/20/2024,Hip,Lower Extremity,Left,Strain,Gluteus Medius,Returned To Play As Tolerated,Anna Klass,Golf,Spring,1/1/2024,6/1/2024,Out of Season,Late Offseason,1
-G2,Golf,3/21/2025,Hip,Lower Extremity,Right,Hip pain (finding),,Returned To Play As Tolerated,Anna Klass,Golf,Spring,1/1/2025,6/1/2025,In Season,Late-Mid,1
-G2,Golf,9/18/2025,Shoulder,Upper Extremity,Right,Strain," Long Head, Bicep",Returned To Play As Tolerated,Anna Klass,Golf,Spring,1/1/2025,6/1/2025,Out of Season,Late Offseason,0
-WSD51,Women's Swimming & Diving,10/7/2025,Cardiovascular,General Medical,,Other Cardiovascular Disorder,,Limited Activity,Anna Kuhel,W Swim,Winter,9/15/2025,3/31/2026,In Season,Early Season,0
+G2,Golf,3/21/2025,Hip,Lower Extremity,Right,Hip pain (finding),NA,Returned To Play As Tolerated,Anna Klass,Golf,Spring,1/1/2025,6/1/2025,In Season,Late-Mid,1
+G2,Golf,9/18/2025,Shoulder,Upper Extremity,Right,Strain,"Long Head, Bicep",Returned To Play As Tolerated,Anna Klass,Golf,Spring,1/1/2025,6/1/2025,Out of Season,Late Offseason,0
+WSD51,Women's Swimming & Diving,10/7/2025,Cardiovascular,General Medical,NA,Other Cardiovascular Disorder,NA,Limited Activity,Anna Kuhel,W Swim,Winter,9/15/2025,3/31/2026,In Season,Early Season,0
 SB2,Softball,8/20/2023,Shoulder,Upper Extremity,Right,Strain,General Rotator Cuff,Returned To Play As Tolerated,Annabelle Calderon,Softball,Spring,1/1/2023,6/1/2023,Out of Season,Late Offseason,1
-SB2,Softball,2/22/2024,Knee,Lower Extremity,Left,Knee pain (finding),,Returned To Play As Tolerated,Annabelle Calderon,Softball,Spring,1/1/2024,6/1/2024,In Season,Early-Mid,1
-FB161,Football,11/4/2025,Knee,Lower Extremity,Left,Knee pain (finding),,Limited Activity,Anthony Dorsi,Football,Fall,8/1/2025,12/1/2025,In Season,Late Season,1
-MTE11,Men's Tennis,4/9/2024,Knee,Lower Extremity,,Contusion,General Area,Returned To Play As Tolerated,Anthony Payiavlas,M Tennis,Spring,1/1/2024,6/1/2024,In Season,Late-Mid,0
-MTE11,Men's Tennis,2/12/2024,Ankle,Lower Extremity,,Sprain,,Not Cleared,Anthony Payiavlas,M Tennis,Spring,1/1/2024,6/1/2024,In Season,Early-Mid,1
+SB2,Softball,2/22/2024,Knee,Lower Extremity,Left,Knee pain (finding),NA,Returned To Play As Tolerated,Annabelle Calderon,Softball,Spring,1/1/2024,6/1/2024,In Season,Early-Mid,1
+FB161,Football,11/4/2025,Knee,Lower Extremity,Left,Knee pain (finding),NA,Limited Activity,Anthony Dorsi,Football,Fall,8/1/2025,12/1/2025,In Season,Late Season,1
+MTE11,Men's Tennis,4/9/2024,Knee,Lower Extremity,NA,Contusion,General Area,Returned To Play As Tolerated,Anthony Payiavlas,M Tennis,Spring,1/1/2024,6/1/2024,In Season,Late-Mid,0
+MTE11,Men's Tennis,2/12/2024,Ankle,Lower Extremity,NA,Sprain,NA,Not Cleared,Anthony Payiavlas,M Tennis,Spring,1/1/2024,6/1/2024,In Season,Early-Mid,1
 MTE14,Men's Tennis,4/3/2025,Ankle,Lower Extremity,Right,Sprain,Anterior Talofibular,Returned To Play and Closed,Archie Turner,M Tennis,Spring,1/1/2025,6/1/2025,In Season,Late-Mid,1
 WTE8,Women's Tennis,9/24/2024,Knee,Lower Extremity,Right,Meniscus Tear,Lateral Meniscus,Returned To Play As Tolerated,Ariana Rodriguez,W Tennis,Spring,1/1/2024,6/1/2024,Out of Season,Late Offseason,1
-WTE8,Women's Tennis,2/12/2026,Knee,Lower Extremity,Left,Iliotibial band friction syndrome (disorder),,Returned To Play As Tolerated,Ariana Rodriguez,W Tennis,Spring,1/1/2026,6/1/2026,In Season,Early-Mid,0
-MSD60,Men's Swimming & Diving,10/1/2025,Shoulder,Upper Extremity,,Glenoid Labrum Tear (SLAP),,Returned To Play As Tolerated,Asher Cole,M Swim,Winter,9/15/2025,3/31/2026,In Season,Early Season,1
-WLAX12,Women's Lacrosse,2/6/2024,Brain,Head,,Concussion,,Returned To Play and Closed,Audrey Hughes,W Lacrosse,Spring,1/1/2024,6/1/2024,In Season,Early Season,1
+WTE8,Women's Tennis,2/12/2026,Knee,Lower Extremity,Left,Iliotibial band friction syndrome (disorder),NA,Returned To Play As Tolerated,Ariana Rodriguez,W Tennis,Spring,1/1/2026,6/1/2026,In Season,Early-Mid,0
+MSD60,Men's Swimming & Diving,10/1/2025,Shoulder,Upper Extremity,NA,Glenoid Labrum Tear (SLAP),NA,Returned To Play As Tolerated,Asher Cole,M Swim,Winter,9/15/2025,3/31/2026,In Season,Early Season,1
+WLAX12,Women's Lacrosse,2/6/2024,Brain,Head,NA,Concussion,NA,Returned To Play and Closed,Audrey Hughes,W Lacrosse,Spring,1/1/2024,6/1/2024,In Season,Early Season,1
 WTE16,Women's Tennis,12/10/2025,Elbow,Upper Extremity,Right,Tendinitis,Triceps,Returned To Play As Tolerated,Audrey Stanfield,W Tennis,Spring,1/1/2025,6/1/2025,Out of Season,Late Offseason,1
-WSOC22,Women's Soccer,10/3/2024,Hip,Lower Extremity,Right,Hip pain (finding),,Returned To Play As Tolerated,Ava Catherall,W Soccer,Fall,8/1/2024,12/1/2024,In Season,Late-Mid,1
+WSOC22,Women's Soccer,10/3/2024,Hip,Lower Extremity,Right,Hip pain (finding),NA,Returned To Play As Tolerated,Ava Catherall,W Soccer,Fall,8/1/2024,12/1/2024,In Season,Late-Mid,1
 WSOC7,Women's Soccer,8/26/2024,Hip,Lower Extremity,Left,Partial tear (morphologic abnormality),Acetabular labrum tear (disorder),Limited Activity,Ava Grim,W Soccer,Fall,8/1/2024,12/1/2024,In Season,Early Season,1
-WSOC12,Women's Soccer,11/3/2025,Finger,Upper Extremity,Left,Fracture,,Returned To Play As Tolerated,Avery Butler,W Soccer,Fall,8/1/2025,12/1/2025,In Season,Late Season,1
-VB8,Volleyball,9/1/2024,Lower Leg,Lower Extremity,Bilateral,Medial Tibial Stress Syndrome,,Returned To Play As Tolerated,Ayla Dunbar,Volleyball,Fall,8/1/2024,12/1/2024,In Season,Early-Mid,1
+WSOC12,Women's Soccer,11/3/2025,Finger,Upper Extremity,Left,Fracture,NA,Returned To Play As Tolerated,Avery Butler,W Soccer,Fall,8/1/2025,12/1/2025,In Season,Late Season,1
+VB8,Volleyball,9/1/2024,Lower Leg,Lower Extremity,Bilateral,Medial Tibial Stress Syndrome,NA,Returned To Play As Tolerated,Ayla Dunbar,Volleyball,Fall,8/1/2024,12/1/2024,In Season,Early-Mid,1
 VB8,Volleyball,10/2/2024,Hip,Lower Extremity,Right,Strain,Iliopsoas,Returned To Play As Tolerated,Ayla Dunbar,Volleyball,Fall,8/1/2024,12/1/2024,In Season,Late-Mid,1
-VB8,Volleyball,10/2/2024,Hip,Lower Extremity,Right,Strain,Rectus Femoris ,Returned To Play As Tolerated,Ayla Dunbar,Volleyball,Fall,8/1/2024,12/1/2024,In Season,Late-Mid,0
 VB8,Volleyball,9/2/2025,Ankle,Lower Extremity,Left,Strain,"Gastrocnemius, Peroneus Longus, Soleus",Returned To Play As Tolerated,Ayla Dunbar,Volleyball,Fall,8/1/2025,12/1/2025,In Season,Early-Mid,0
-MTE20,Men's Tennis,9/3/2025,Wrist,Upper Extremity,,Sprain,,Returned To Play As Tolerated,Balraj Idnani,M Tennis,Spring,1/1/2025,6/1/2025,Out of Season,Late Offseason,1
-MTE20,Men's Tennis,9/3/2025,Lumbar Spine,Torso,,Other Lumbar Injury,,Returned To Play As Tolerated,Balraj Idnani,M Tennis,Spring,1/1/2025,6/1/2025,Out of Season,Late Offseason,1
-FB131,Football,10/2/2024,Brain,Head,,Concussion,,Not Cleared,Barrett Hofffman,Football,Fall,8/1/2024,12/1/2024,In Season,Late-Mid,1
-FB131,Football,11/13/2024,Brain,Head,,Concussion,,Not Cleared,Barrett Hofffman,Football,Fall,8/1/2024,12/1/2024,In Season,Late Season,1
-MLAX70,Men's Lacrosse,9/22/2025,Foot,Lower Extremity,Right,Plantar Fasciitis,,Returned To Play As Tolerated,Beckley Waldrop,M Lacrosse,Spring,1/1/2025,6/1/2025,Out of Season,Late Offseason,0
-FH15,Field Hockey,8/22/2024,Hip,Lower Extremity,Left,Hip pain (finding),,Returned To Play As Tolerated,Bella Thoms,Field Hockey,Fall,8/1/2024,12/1/2024,In Season,Early Season,0
-FH15,Field Hockey,10/2/2024,Finger,Upper Extremity,Left,Contusion,,Returned To Play and Closed,Bella Thoms,Field Hockey,Fall,8/1/2024,12/1/2024,In Season,Late-Mid,1
-FH15,Field Hockey,8/25/2025,Thigh,Lower Extremity,Left,Tightness,,Returned To Play and Closed,Bella Thoms,Field Hockey,Fall,8/1/2025,12/1/2025,In Season,Early Season,1
+MTE20,Men's Tennis,9/3/2025,Wrist,Upper Extremity,NA,Sprain,NA,Returned To Play As Tolerated,Balraj Idnani,M Tennis,Spring,1/1/2025,6/1/2025,Out of Season,Late Offseason,1
+FB131,Football,10/2/2024,Brain,Head,NA,Concussion,NA,Not Cleared,Barrett Hofffman,Football,Fall,8/1/2024,12/1/2024,In Season,Late-Mid,1
+FB131,Football,11/13/2024,Brain,Head,NA,Concussion,NA,Not Cleared,Barrett Hofffman,Football,Fall,8/1/2024,12/1/2024,In Season,Late Season,1
+MLAX70,Men's Lacrosse,9/22/2025,Foot,Lower Extremity,Right,Plantar Fasciitis,NA,Returned To Play As Tolerated,Beckley Waldrop,M Lacrosse,Spring,1/1/2025,6/1/2025,Out of Season,Late Offseason,0
+FH15,Field Hockey,8/22/2024,Hip,Lower Extremity,Left,Hip pain (finding),NA,Returned To Play As Tolerated,Bella Thoms,Field Hockey,Fall,8/1/2024,12/1/2024,In Season,Early Season,0
+FH15,Field Hockey,10/2/2024,Finger,Upper Extremity,Left,Contusion,NA,Returned To Play and Closed,Bella Thoms,Field Hockey,Fall,8/1/2024,12/1/2024,In Season,Late-Mid,1
+FH15,Field Hockey,8/25/2025,Thigh,Lower Extremity,Left,Tightness,NA,Returned To Play and Closed,Bella Thoms,Field Hockey,Fall,8/1/2025,12/1/2025,In Season,Early Season,1
 MSOC24,Men's Soccer,10/24/2023,Hip,Lower Extremity,Right,Strain,Adductor,Limited Activity,Ben Goeller,M Soccer,Fall,8/1/2023,12/1/2023,In Season,Late-Mid,1
-MSOC24,Men's Soccer,11/2/2024,Knee,Lower Extremity,Left,Hyperextension,,Returned To Play As Tolerated,Ben Goeller,M Soccer,Fall,8/1/2024,12/1/2024,In Season,Late Season,0
-MSD53,Men's Swimming & Diving,4/2/2025,Elbow,Upper Extremity,Bilateral,Pain in elbow (finding),,Limited Activity,Ben Levai,M Swim,Winter,9/15/2025,3/31/2026,Out of Season,Early Offseason,0
+MSOC24,Men's Soccer,11/2/2024,Knee,Lower Extremity,Left,Hyperextension,NA,Returned To Play As Tolerated,Ben Goeller,M Soccer,Fall,8/1/2024,12/1/2024,In Season,Late Season,0
+MSD53,Men's Swimming & Diving,4/2/2025,Elbow,Upper Extremity,Bilateral,Pain in elbow (finding),NA,Limited Activity,Ben Levai,M Swim,Winter,9/15/2025,3/31/2026,Out of Season,Early Offseason,0
 FB60,Football,11/15/2025,Ankle,Lower Extremity,Right,Sprain,Anterior Talofibular,Not Cleared,Ben Perin,Football,Fall,8/1/2025,12/1/2025,In Season,Late Season,1
-FB16,Football,8/20/2023,Shoulder,Upper Extremity,Left,Subluxation,,Returned To Play As Tolerated,Ben Safly,Football,Fall,8/1/2023,12/1/2023,In Season,Early Season,1
+FB16,Football,8/20/2023,Shoulder,Upper Extremity,Left,Subluxation,NA,Returned To Play As Tolerated,Ben Safly,Football,Fall,8/1/2023,12/1/2023,In Season,Early Season,1
 FB2,Football,9/9/2023,Ankle,Lower Extremity,Left,Sprain,Anterior Talofibular,Returned To Play As Tolerated,Billy Guzzo,Football,Fall,8/1/2023,12/1/2023,In Season,Early-Mid,1
-FB2,Football,10/19/2024,Brain,Head,,Concussion,,Not Cleared,Billy Guzzo,Football,Fall,8/1/2024,12/1/2024,In Season,Late-Mid,0
-FB2,Football,10/19/2024,Shoulder,Upper Extremity,Left,Sprain,,Limited Activity,Billy Guzzo,Football,Fall,8/1/2024,12/1/2024,In Season,Late-Mid,1
-FB153,Football,12/17/2025,Brain,Head,Does Not Apply,Concussion,,Returned To Play and Closed,Blake Wessel,Football,Fall,8/1/2025,12/1/2025,Out of Season,Late Offseason,1
+FB2,Football,10/19/2024,Brain,Head,NA,Concussion,NA,Not Cleared,Billy Guzzo,Football,Fall,8/1/2024,12/1/2024,In Season,Late-Mid,0
+FB153,Football,12/17/2025,Brain,Head,Does Not Apply,Concussion,NA,Returned To Play and Closed,Blake Wessel,Football,Fall,8/1/2025,12/1/2025,Out of Season,Late Offseason,1
 FB48,Football,8/23/2025,Ankle,Lower Extremity,Left,Sprain,"Anterior Talofibular, Calcaneofibular",Returned To Play and Closed,Blayton Reid,Football,Fall,8/1/2025,12/1/2025,In Season,Early Season,1
 BASEB2,Baseball,10/4/2024,Thigh,Lower Extremity,Right,Strain,Hamstring (partial tear),Returned To Play As Tolerated,Bobby Haarde,Baseball,Spring,1/1/2024,6/1/2024,Out of Season,Late Offseason,1
-MLAX27,Men's Lacrosse,2/5/2024,Knee,Lower Extremity,Right,Tendinosis (finding),,Not Cleared,Boden Bounds,M Lacrosse,Spring,1/1/2024,6/1/2024,In Season,Early Season,1
-FB82,Football,4/5/2025,Foot,Lower Extremity,Right,Contusion,,Returned To Play and Closed,Brady Moffitt,Football,Fall,8/1/2025,12/1/2025,Out of Season,Early Offseason,1
+MLAX27,Men's Lacrosse,2/5/2024,Knee,Lower Extremity,Right,Tendinosis (finding),NA,Not Cleared,Boden Bounds,M Lacrosse,Spring,1/1/2024,6/1/2024,In Season,Early Season,1
+FB82,Football,4/5/2025,Foot,Lower Extremity,Right,Contusion,NA,Returned To Play and Closed,Brady Moffitt,Football,Fall,8/1/2025,12/1/2025,Out of Season,Early Offseason,1
 FB82,Football,8/19/2025,Upper arm,Upper Extremity,Right,Strain,Biceps (partial tear),Returned To Play As Tolerated,Brady Moffitt,Football,Fall,8/1/2025,12/1/2025,In Season,Early Season,1
-MSD2,Men's Swimming & Diving,12/4/2023,Foot,Lower Extremity,,Stress Fracture,,Returned To Play As Tolerated,Brendan Stanley,M Swim,Winter,9/15/2023,3/31/2024,In Season,Early-Mid,1
-MSD2,Men's Swimming & Diving,10/12/2025,Brain,Head,,Concussion,,Limited Activity,Brendan Stanley,M Swim,Winter,9/15/2025,3/31/2026,In Season,Early Season,1
-SB4,Softball,2/10/2024,Brain,Head,,Concussion,,Returned To Play As Tolerated,Bri Gonzalez,Softball,Spring,1/1/2024,6/1/2024,In Season,Early-Mid,1
-SB25,Softball,1/27/2025,Lumbar Spine,Torso,,Herniation,,Returned To Play As Tolerated,Bridget Haller,Softball,Spring,1/1/2025,6/1/2025,In Season,Early Season,1
+MSD2,Men's Swimming & Diving,12/4/2023,Foot,Lower Extremity,NA,Stress Fracture,NA,Returned To Play As Tolerated,Brendan Stanley,M Swim,Winter,9/15/2023,3/31/2024,In Season,Early-Mid,1
+MSD2,Men's Swimming & Diving,10/12/2025,Brain,Head,NA,Concussion,NA,Limited Activity,Brendan Stanley,M Swim,Winter,9/15/2025,3/31/2026,In Season,Early Season,1
+SB4,Softball,2/10/2024,Brain,Head,NA,Concussion,NA,Returned To Play As Tolerated,Bri Gonzalez,Softball,Spring,1/1/2024,6/1/2024,In Season,Early-Mid,1
+SB25,Softball,1/27/2025,Lumbar Spine,Torso,NA,Herniation,NA,Returned To Play As Tolerated,Bridget Haller,Softball,Spring,1/1/2025,6/1/2025,In Season,Early Season,1
 WLAX27,Women's Lacrosse,12/4/2023,Thigh,Lower Extremity,Left,Strain,Semimembranosus,Limited Activity,Bridget Sheehy,W Lacrosse,Spring,1/1/2023,6/1/2023,Out of Season,Late Offseason,1
 WLAX27,Women's Lacrosse,8/25/2025,Ankle,Lower Extremity,Right,Sprain,"Anterior Talofibular, Calcaneofibular",Limited Activity,Bridget Sheehy,W Lacrosse,Spring,1/1/2025,6/1/2025,Out of Season,Late Offseason,1
 WLAX27,Women's Lacrosse,11/6/2025,Thigh,Lower Extremity,Right,Strain,"Hamstring (partial tear), Quadricep (partial tear)",Limited Activity,Bridget Sheehy,W Lacrosse,Spring,1/1/2025,6/1/2025,Out of Season,Late Offseason,1
-WLAX27,Women's Lacrosse,2/25/2026,Brain,Head,Does Not Apply,Concussion,,Limited Activity,Bridget Sheehy,W Lacrosse,Spring,1/1/2026,6/1/2026,In Season,Early-Mid,1
+WLAX27,Women's Lacrosse,2/25/2026,Brain,Head,Does Not Apply,Concussion,NA,Limited Activity,Bridget Sheehy,W Lacrosse,Spring,1/1/2026,6/1/2026,In Season,Early-Mid,1
 MSD44,Men's Swimming & Diving,9/19/2024,Lower Leg,Lower Extremity,Bilateral,Strain,Tibialis Anterior Tendon,Returned To Play As Tolerated,Brock Butchko,M Swim,Winter,9/15/2024,3/31/2025,In Season,Early Season,1
-SB5,Softball,2/7/2024,Infectious Disease,General Medical,,COVID-19,,Returned To Play and Closed,Brooke Surbaugh,Softball,Spring,1/1/2024,6/1/2024,In Season,Early Season,0
-SB5,Softball,1/25/2024,Lumbar Spine,Torso,Right,Non-Specific Low Back Pain (mechanical),,Returned To Play As Tolerated,Brooke Surbaugh,Softball,Spring,1/1/2024,6/1/2024,In Season,Early Season,0
-WBB28,Women's Basketball,9/17/2024,Lumbar Spine,Torso,Right,Tightness,,Returned To Play As Tolerated,Brooke Toigo,W Basketball,Winter,9/15/2024,3/31/2025,In Season,Early Season,0
-WBB28,Women's Basketball,10/14/2024,Infectious Disease,General Medical,,Mononucleosis,,Limited Activity,Brooke Toigo,W Basketball,Winter,9/15/2024,3/31/2025,In Season,Early Season,1
+SB5,Softball,2/7/2024,Infectious Disease,General Medical,NA,COVID-19,NA,Returned To Play and Closed,Brooke Surbaugh,Softball,Spring,1/1/2024,6/1/2024,In Season,Early Season,0
+SB5,Softball,1/25/2024,Lumbar Spine,Torso,Right,Non-Specific Low Back Pain (mechanical),NA,Returned To Play As Tolerated,Brooke Surbaugh,Softball,Spring,1/1/2024,6/1/2024,In Season,Early Season,0
+WBB28,Women's Basketball,9/17/2024,Lumbar Spine,Torso,Right,Tightness,NA,Returned To Play As Tolerated,Brooke Toigo,W Basketball,Winter,9/15/2024,3/31/2025,In Season,Early Season,0
+WBB28,Women's Basketball,10/14/2024,Infectious Disease,General Medical,NA,Mononucleosis,NA,Limited Activity,Brooke Toigo,W Basketball,Winter,9/15/2024,3/31/2025,In Season,Early Season,1
 WBB28,Women's Basketball,2/4/2026,Shoulder,Upper Extremity,Left,Strain,General Rotator Cuff,Returned To Play and Closed,Brooke Toigo,W Basketball,Winter,9/15/2025,3/31/2026,In Season,Late-Mid,1
-WBB7,Women's Basketball,12/18/2023,Body part,General Medical,Midline,Other,,Returned To Play As Tolerated,Bryana Woodard,W Basketball,Winter,9/15/2023,3/31/2024,In Season,Early-Mid,1
-WBB7,Women's Basketball,10/21/2024,Lumbar Spine,Torso,,Herniation,,Not Cleared,Bryana Woodard,W Basketball,Winter,9/15/2024,3/31/2025,In Season,Early Season,0
-WBB7,Women's Basketball,1/7/2025,Knee,Lower Extremity,Right,Tendinosis (finding),,Returned To Play As Tolerated,Bryana Woodard,W Basketball,Winter,9/15/2024,3/31/2025,In Season,Late-Mid,0
-BASEB3,Baseball,10/17/2024,Knee,Lower Extremity,Left,Sprain,,Limited Activity,Cade Nowik,Baseball,Spring,1/1/2024,6/1/2024,Out of Season,Late Offseason,1
-BASEB3,Football,10/17/2024,Knee,Lower Extremity,Left,Sprain,,Limited Activity,Cade Nowik,Football,Fall,8/1/2024,12/1/2024,In Season,Late-Mid,1
+WBB7,Women's Basketball,12/18/2023,Body part,General Medical,Midline,Other,NA,Returned To Play As Tolerated,Bryana Woodard,W Basketball,Winter,9/15/2023,3/31/2024,In Season,Early-Mid,1
+WBB7,Women's Basketball,10/21/2024,Lumbar Spine,Torso,NA,Herniation,NA,Not Cleared,Bryana Woodard,W Basketball,Winter,9/15/2024,3/31/2025,In Season,Early Season,0
+WBB7,Women's Basketball,1/7/2025,Knee,Lower Extremity,Right,Tendinosis (finding),NA,Returned To Play As Tolerated,Bryana Woodard,W Basketball,Winter,9/15/2024,3/31/2025,In Season,Late-Mid,0
+BASEB3,Baseball,10/17/2024,Knee,Lower Extremity,Left,Sprain,NA,Limited Activity,Cade Nowik,Baseball,Spring,1/1/2024,6/1/2024,Out of Season,Late Offseason,1
 BASEB3,Baseball,11/9/2024,Ankle,Lower Extremity,Right,Sprain,Deltoid Ligament,Returned To Play As Tolerated,Cade Nowik,Baseball,Spring,1/1/2024,6/1/2024,Out of Season,Late Offseason,0
-BASEB3,Football,11/9/2024,Ankle,Lower Extremity,Right,Sprain,Deltoid Ligament,Returned To Play As Tolerated,Cade Nowik,Football,Fall,8/1/2024,12/1/2024,In Season,Late Season,0
 BASEB3,Baseball,9/2/2025,Thigh,Lower Extremity,Right,Strain,Hamstring (partial tear),"Not Cleared, Returned To Play As Tolerated",Cade Nowik,Baseball,Spring,1/1/2025,6/1/2025,Out of Season,Late Offseason,1
 VB5,Volleyball,9/9/2023,Hip,Lower Extremity,Right,Strain,Iliopsoas,Returned To Play As Tolerated,Cailey Johns,Volleyball,Fall,8/1/2023,12/1/2023,In Season,Early-Mid,1
-VB5,Volleyball,9/30/2023,Knee,Lower Extremity,Right,Knee pain (finding),,Returned To Play As Tolerated,Cailey Johns,Volleyball,Fall,8/1/2023,12/1/2023,In Season,Early-Mid,1
-WTE12,Women's Tennis,10/24/2024,Knee,Lower Extremity,Right,Patellofemoral Pain Syndrome (PFPS),,Limited Activity,Caitlin VanWinkle,W Tennis,Spring,1/1/2024,6/1/2024,Out of Season,Late Offseason,1
-WSOC24,Women's Soccer,8/29/2023,Thigh,Lower Extremity,Bilateral,Tightness,,Returned To Play and Closed,Caleigh Renzella,W Soccer,Fall,8/1/2023,12/1/2023,In Season,Early Season,1
-MLAX17,Men's Lacrosse,2/1/2024,Shoulder,Upper Extremity,,Glenoid Labrum Tear (SLAP),,Limited Activity,Cameron Donovan,M Lacrosse,Spring,1/1/2024,6/1/2024,In Season,Early Season,1
-MLAX17,Men's Lacrosse,5/8/2025,Brain,Head,,Concussion,,Limited Activity,Cameron Donovan,M Lacrosse,Spring,1/1/2025,6/1/2025,In Season,Late Season,0
-MSD3,Men's Swimming & Diving,1/12/2024,Shoulder,Upper Extremity,,Impingement,,Returned To Play As Tolerated,Cameron Noble,M Swim,Winter,9/15/2023,3/31/2024,In Season,Late-Mid,0
-MSD3,Men's Swimming & Diving,1/7/2025,Infectious Disease,General Medical,Does Not Apply,Mononucleosis,,Returned To Play As Tolerated,Cameron Noble,M Swim,Winter,9/15/2024,3/31/2025,In Season,Late-Mid,0
-FB73,Football,11/6/2025,Abdomen,Torso,Bilateral,Other,,Returned To Play and Closed,Canyon Schneider,Football,Fall,8/1/2025,12/1/2025,In Season,Late Season,0
+VB5,Volleyball,9/30/2023,Knee,Lower Extremity,Right,Knee pain (finding),NA,Returned To Play As Tolerated,Cailey Johns,Volleyball,Fall,8/1/2023,12/1/2023,In Season,Early-Mid,1
+WTE12,Women's Tennis,10/24/2024,Knee,Lower Extremity,Right,Patellofemoral Pain Syndrome (PFPS),NA,Limited Activity,Caitlin VanWinkle,W Tennis,Spring,1/1/2024,6/1/2024,Out of Season,Late Offseason,1
+WSOC24,Women's Soccer,8/29/2023,Thigh,Lower Extremity,Bilateral,Tightness,NA,Returned To Play and Closed,Caleigh Renzella,W Soccer,Fall,8/1/2023,12/1/2023,In Season,Early Season,1
+MLAX17,Men's Lacrosse,2/1/2024,Shoulder,Upper Extremity,NA,Glenoid Labrum Tear (SLAP),NA,Limited Activity,Cameron Donovan,M Lacrosse,Spring,1/1/2024,6/1/2024,In Season,Early Season,1
+MLAX17,Men's Lacrosse,5/8/2025,Brain,Head,NA,Concussion,NA,Limited Activity,Cameron Donovan,M Lacrosse,Spring,1/1/2025,6/1/2025,In Season,Late Season,0
+MSD3,Men's Swimming & Diving,1/12/2024,Shoulder,Upper Extremity,NA,Impingement,NA,Returned To Play As Tolerated,Cameron Noble,M Swim,Winter,9/15/2023,3/31/2024,In Season,Late-Mid,0
+MSD3,Men's Swimming & Diving,1/7/2025,Infectious Disease,General Medical,Does Not Apply,Mononucleosis,NA,Returned To Play As Tolerated,Cameron Noble,M Swim,Winter,9/15/2024,3/31/2025,In Season,Late-Mid,0
+FB73,Football,11/6/2025,Abdomen,Torso,Bilateral,Other,NA,Returned To Play and Closed,Canyon Schneider,Football,Fall,8/1/2025,12/1/2025,In Season,Late Season,0
 SB21,Softball,9/1/2025,Thoracic Spine,Torso,Midline,Strain,Spinalis Thoracis,Returned To Play As Tolerated,Carley Melton,Softball,Spring,1/1/2025,6/1/2025,Out of Season,Late Offseason,0
-VB20,Volleyball,8/19/2025,Knee,Lower Extremity,Right,Hyperextension,,Returned To Play and Closed,Carolina Parkhurst,Volleyball,Fall,8/1/2025,12/1/2025,In Season,Early Season,0
+VB20,Volleyball,8/19/2025,Knee,Lower Extremity,Right,Hyperextension,NA,Returned To Play and Closed,Carolina Parkhurst,Volleyball,Fall,8/1/2025,12/1/2025,In Season,Early Season,0
 VB20,Volleyball,11/8/2025,Thumb,Upper Extremity,Right,Sprain,"Radial Collateral Ligament (partial tear), Ulnar Collateral Ligament (partial tear)",Returned To Play As Tolerated,Carolina Parkhurst,Volleyball,Fall,8/1/2025,12/1/2025,In Season,Late Season,0
 WSOC18,Women's Soccer,10/7/2023,Ankle,Lower Extremity,Right,Sprain,Anterior Talofibular,Returned To Play As Tolerated,Caroline Flynn,W Soccer,Fall,8/1/2023,12/1/2023,In Season,Late-Mid,0
-WTE2,Women's Tennis,10/2/2023,Brain,Head,,Concussion,,Returned To Play and Closed,Caroline Kittle,W Tennis,Spring,1/1/2023,6/1/2023,Out of Season,Late Offseason,0
-WTE2,Women's Tennis,2/12/2024,Hip,Lower Extremity,Right,Tightness,,Returned To Play As Tolerated,Caroline Kittle,W Tennis,Spring,1/1/2024,6/1/2024,In Season,Early-Mid,0
-WTE2,Women's Tennis,3/20/2024,Thigh,Lower Extremity,Left,Tightness,,Returned To Play and Closed,Caroline Kittle,W Tennis,Spring,1/1/2024,6/1/2024,In Season,Late-Mid,1
-WTE4,Women's Tennis,3/28/2024,Hip,Lower Extremity,,Piriformis Syndrome,,Returned To Play As Tolerated,Caroline Lopez,W Tennis,Spring,1/1/2024,6/1/2024,In Season,Late-Mid,1
-WTE4,Women's Tennis,3/26/2024,Ankle,Lower Extremity,,Sprain,,Returned To Play As Tolerated,Caroline Lopez,W Tennis,Spring,1/1/2024,6/1/2024,In Season,Late-Mid,1
-WTE4,Women's Tennis,3/21/2024,Lower Leg,Lower Extremity,,Shin Splints,,Returned To Play As Tolerated,Caroline Lopez,W Tennis,Spring,1/1/2024,6/1/2024,In Season,Late-Mid,1
+WTE2,Women's Tennis,10/2/2023,Brain,Head,NA,Concussion,NA,Returned To Play and Closed,Caroline Kittle,W Tennis,Spring,1/1/2023,6/1/2023,Out of Season,Late Offseason,0
+WTE2,Women's Tennis,2/12/2024,Hip,Lower Extremity,Right,Tightness,NA,Returned To Play As Tolerated,Caroline Kittle,W Tennis,Spring,1/1/2024,6/1/2024,In Season,Early-Mid,0
+WTE2,Women's Tennis,3/20/2024,Thigh,Lower Extremity,Left,Tightness,NA,Returned To Play and Closed,Caroline Kittle,W Tennis,Spring,1/1/2024,6/1/2024,In Season,Late-Mid,1
+WTE4,Women's Tennis,3/28/2024,Hip,Lower Extremity,NA,Piriformis Syndrome,NA,Returned To Play As Tolerated,Caroline Lopez,W Tennis,Spring,1/1/2024,6/1/2024,In Season,Late-Mid,1
+WTE4,Women's Tennis,3/26/2024,Ankle,Lower Extremity,NA,Sprain,NA,Returned To Play As Tolerated,Caroline Lopez,W Tennis,Spring,1/1/2024,6/1/2024,In Season,Late-Mid,1
+WTE4,Women's Tennis,3/21/2024,Lower Leg,Lower Extremity,NA,Shin Splints,NA,Returned To Play As Tolerated,Caroline Lopez,W Tennis,Spring,1/1/2024,6/1/2024,In Season,Late-Mid,1
 WTE4,Women's Tennis,3/4/2024,Thigh,Lower Extremity,Right,Strain,Adductor Longus,Returned To Play and Closed,Caroline Lopez,W Tennis,Spring,1/1/2024,6/1/2024,In Season,Early-Mid,1
-WTE4,Women's Tennis,9/6/2024,Respirology,General Medical,,Asthma,,Returned To Play As Tolerated,Caroline Lopez,W Tennis,Spring,1/1/2024,6/1/2024,Out of Season,Late Offseason,1
-WTE4,Women's Tennis,11/19/2024,Brain,Head,,Concussion,,Not Cleared,Caroline Lopez,W Tennis,Spring,1/1/2024,6/1/2024,Out of Season,Late Offseason,0
+WTE4,Women's Tennis,9/6/2024,Respirology,General Medical,NA,Asthma,NA,Returned To Play As Tolerated,Caroline Lopez,W Tennis,Spring,1/1/2024,6/1/2024,Out of Season,Late Offseason,1
+WTE4,Women's Tennis,11/19/2024,Brain,Head,NA,Concussion,NA,Not Cleared,Caroline Lopez,W Tennis,Spring,1/1/2024,6/1/2024,Out of Season,Late Offseason,0
 BASEB4,Baseball,10/13/2024,Thigh,Lower Extremity,Right,Strain,Semimembranosus,Returned To Play As Tolerated,Carson Herman,Baseball,Spring,1/1/2024,6/1/2024,Out of Season,Late Offseason,0
-BASEB4,Baseball,10/13/2024,Thigh,Lower Extremity,Right,Strain,Semitendinosus,Returned To Play As Tolerated,Carson Herman,Baseball,Spring,1/1/2024,6/1/2024,Out of Season,Late Offseason,1
 FB99,Football,8/16/2024,Thigh,Lower Extremity,Right,Strain,Hamstring (partial tear),Waiting For Assessment,Casper Rublowsky,Football,Fall,8/1/2024,12/1/2024,In Season,Early Season,1
 SB22,Softball,2/13/2026,Finger,Upper Extremity,Right,Contusion,5th Phalange,Returned To Play and Closed,Cassandra Heinauer,Softball,Spring,1/1/2026,6/1/2026,In Season,Early-Mid,0
-WLAX32,Women's Lacrosse,9/3/2024,Cardiovascular,General Medical,,Other Cardiovascular Disorder,,Returned To Play As Tolerated,Cate Dannahey,W Lacrosse,Spring,1/1/2024,6/1/2024,Out of Season,Late Offseason,0
+WLAX32,Women's Lacrosse,9/3/2024,Cardiovascular,General Medical,NA,Other Cardiovascular Disorder,NA,Returned To Play As Tolerated,Cate Dannahey,W Lacrosse,Spring,1/1/2024,6/1/2024,Out of Season,Late Offseason,0
 FB59,Football,10/7/2025,Shoulder,Upper Extremity,Right,Sprain,Acromioclavicular Ligament (I or II),Returned To Play As Tolerated,Charles Daniel,Football,Fall,8/1/2025,12/1/2025,In Season,Late-Mid,1
-MLAX30,Men's Lacrosse,10/8/2025,Larynx,Neck,Right,Other,,Waiting For Assessment,Charles Pellegrino,M Lacrosse,Spring,1/1/2025,6/1/2025,Out of Season,Late Offseason,1
-FB63,Football,10/8/2023,Brain,Head,Does Not Apply,Concussion,,Returned To Play and Closed,Charlie Cunningham,Football,Fall,8/1/2023,12/1/2023,In Season,Late-Mid,1
-FB63,Football,1/19/2025,Brain,Head,,Concussion,,Not Cleared,Charlie Cunningham,Football,Fall,8/1/2025,12/1/2025,Out of Season,Early Offseason,0
+MLAX30,Men's Lacrosse,10/8/2025,Larynx,Neck,Right,Other,NA,Waiting For Assessment,Charles Pellegrino,M Lacrosse,Spring,1/1/2025,6/1/2025,Out of Season,Late Offseason,1
+FB63,Football,10/8/2023,Brain,Head,Does Not Apply,Concussion,NA,Returned To Play and Closed,Charlie Cunningham,Football,Fall,8/1/2023,12/1/2023,In Season,Late-Mid,1
+FB63,Football,1/19/2025,Brain,Head,NA,Concussion,NA,Not Cleared,Charlie Cunningham,Football,Fall,8/1/2025,12/1/2025,Out of Season,Early Offseason,0
 MLAX35,Men's Lacrosse,5/10/2025,Shoulder,Upper Extremity,Right,Sprain,Acromioclavicular Ligament (I or II),Not Cleared,Charlie Haight,M Lacrosse,Spring,1/1/2025,6/1/2025,In Season,Late Season,1
 MLAX59,Men's Lacrosse,9/21/2024,Shoulder,Upper Extremity,Left,Sprain,Acromioclavicular Ligament (I or II),Limited Activity,Charlie Maloney,M Lacrosse,Spring,1/1/2024,6/1/2024,Out of Season,Late Offseason,1
-WTE9,Women's Tennis,4/14/2024,Brain,Head,,Concussion,,Not Cleared,Charlotte Johns,W Tennis,Spring,1/1/2024,6/1/2024,In Season,Late-Mid,1
-WTE9,Women's Tennis,2/22/2024,Brain,Head,Does Not Apply,Concussion,,Limited Activity,Charlotte Johns,W Tennis,Spring,1/1/2024,6/1/2024,In Season,Early-Mid,1
-MTE12,Men's Tennis,10/8/2024,Lumbar Spine,Torso,Right,Spasm,,Returned To Play and Closed,Chika Nwaozuzu,M Tennis,Spring,1/1/2024,6/1/2024,Out of Season,Late Offseason,0
+WTE9,Women's Tennis,4/14/2024,Brain,Head,NA,Concussion,NA,Not Cleared,Charlotte Johns,W Tennis,Spring,1/1/2024,6/1/2024,In Season,Late-Mid,1
+WTE9,Women's Tennis,2/22/2024,Brain,Head,Does Not Apply,Concussion,NA,Limited Activity,Charlotte Johns,W Tennis,Spring,1/1/2024,6/1/2024,In Season,Early-Mid,1
+MTE12,Men's Tennis,10/8/2024,Lumbar Spine,Torso,Right,Spasm,NA,Returned To Play and Closed,Chika Nwaozuzu,M Tennis,Spring,1/1/2024,6/1/2024,Out of Season,Late Offseason,0
 MTE12,Men's Tennis,10/2/2024,Lower Leg,Lower Extremity,Left,Spasm,General Calf,Returned To Play and Closed,Chika Nwaozuzu,M Tennis,Spring,1/1/2024,6/1/2024,Out of Season,Late Offseason,0
-FB35,Football,9/2/2023,Brain,Head,,Concussion,,Returned To Play and Closed,Christian Lariviere,Football,Fall,8/1/2023,12/1/2023,In Season,Early-Mid,1
+FB35,Football,9/2/2023,Brain,Head,NA,Concussion,NA,Returned To Play and Closed,Christian Lariviere,Football,Fall,8/1/2023,12/1/2023,In Season,Early-Mid,1
 FB51,Football,4/10/2024,Knee,Lower Extremity,Right,Rupture,Anterior Cruciate Ligament,Returned To Play As Tolerated,CJ Geier,Football,Fall,8/1/2024,12/1/2024,Out of Season,Early Offseason,1
 VB9,Volleyball,9/14/2023,Abdomen,Torso,Left,Strain,Internal Oblique,Returned To Play As Tolerated,Claire Hamilton,Volleyball,Fall,8/1/2023,12/1/2023,In Season,Early-Mid,0
-FH2,Field Hockey,8/26/2024,Ankle,Lower Extremity,Right,Sprain,,Limited Activity,Claire Willoughby,Field Hockey,Fall,8/1/2024,12/1/2024,In Season,Early Season,0
-FH2,Field Hockey,11/3/2025,Wrist,Upper Extremity,Right,Sprain,,Limited Activity,Claire Willoughby,Field Hockey,Fall,8/1/2025,12/1/2025,In Season,Late Season,0
-WSOC3,Women's Soccer,4/4/2024,Knee,Lower Extremity,Left,Discomfort (finding),,Limited Activity,Clare Mone,W Soccer,Fall,8/1/2024,12/1/2024,Out of Season,Early Offseason,0
-FB22,Football,12/15/2023,Knee,Lower Extremity,Left,Sprain,,Not Cleared,Clay Denstorff,Football,Fall,8/1/2023,12/1/2023,Out of Season,Late Offseason,0
+FH2,Field Hockey,8/26/2024,Ankle,Lower Extremity,Right,Sprain,NA,Limited Activity,Claire Willoughby,Field Hockey,Fall,8/1/2024,12/1/2024,In Season,Early Season,0
+FH2,Field Hockey,11/3/2025,Wrist,Upper Extremity,Right,Sprain,NA,Limited Activity,Claire Willoughby,Field Hockey,Fall,8/1/2025,12/1/2025,In Season,Late Season,0
+WSOC3,Women's Soccer,4/4/2024,Knee,Lower Extremity,Left,Discomfort (finding),NA,Limited Activity,Clare Mone,W Soccer,Fall,8/1/2024,12/1/2024,Out of Season,Early Offseason,0
+FB22,Football,12/15/2023,Knee,Lower Extremity,Left,Sprain,NA,Not Cleared,Clay Denstorff,Football,Fall,8/1/2023,12/1/2023,Out of Season,Late Offseason,0
 MLAX7,Men's Lacrosse,3/6/2024,Foot,Lower Extremity,Left,Fracture,5th Metatarsal,Not Cleared,Clyde Bresnahan,M Lacrosse,Spring,1/1/2024,6/1/2024,In Season,Early-Mid,0
-FB129,Football,8/22/2025,Shoulder,Upper Extremity,Right,Subluxation," Ant., Glenohumeral",Limited Activity,Cole Harris,Football,Fall,8/1/2025,12/1/2025,In Season,Early Season,0
+FB129,Football,8/22/2025,Shoulder,Upper Extremity,Right,Subluxation,"Ant., Glenohumeral",Limited Activity,Cole Harris,Football,Fall,8/1/2025,12/1/2025,In Season,Early Season,0
 FB129,Football,10/25/2025,Thigh,Lower Extremity,Left,Strain,Hamstring (partial tear),Limited Activity,Cole Harris,Football,Fall,8/1/2025,12/1/2025,In Season,Late-Mid,0
-MSOC18,Men's Soccer,9/14/2024,Brain,Head,,Concussion,,Not Cleared,Cole Trigg,M Soccer,Fall,8/1/2024,12/1/2024,In Season,Early-Mid,0
-MTE2,Men's Tennis,2/26/2024,Ankle,Lower Extremity,Right,Bursitis,,Returned To Play As Tolerated,Colin Gramley,M Tennis,Spring,1/1/2024,6/1/2024,In Season,Early-Mid,1
-MTE2,Men's Tennis,1/26/2024,Elbow,Upper Extremity,Right,Epicondylitis,,Returned To Play As Tolerated,Colin Gramley,M Tennis,Spring,1/1/2024,6/1/2024,In Season,Early Season,1
-MTE2,Men's Tennis,9/6/2024,Upper arm,Upper Extremity,Right,Strain,,Returned To Play As Tolerated,Colin Gramley,M Tennis,Spring,1/1/2024,6/1/2024,Out of Season,Late Offseason,0
-MLAX44,Men's Lacrosse,3/6/2024,Shoulder,Upper Extremity,Right,Dislocation,,Returned To Play As Tolerated,Colin MacLean,M Lacrosse,Spring,1/1/2024,6/1/2024,In Season,Early-Mid,0
+MSOC18,Men's Soccer,9/14/2024,Brain,Head,NA,Concussion,NA,Not Cleared,Cole Trigg,M Soccer,Fall,8/1/2024,12/1/2024,In Season,Early-Mid,0
+MTE2,Men's Tennis,2/26/2024,Ankle,Lower Extremity,Right,Bursitis,NA,Returned To Play As Tolerated,Colin Gramley,M Tennis,Spring,1/1/2024,6/1/2024,In Season,Early-Mid,1
+MTE2,Men's Tennis,1/26/2024,Elbow,Upper Extremity,Right,Epicondylitis,NA,Returned To Play As Tolerated,Colin Gramley,M Tennis,Spring,1/1/2024,6/1/2024,In Season,Early Season,1
+MTE2,Men's Tennis,9/6/2024,Upper arm,Upper Extremity,Right,Strain,NA,Returned To Play As Tolerated,Colin Gramley,M Tennis,Spring,1/1/2024,6/1/2024,Out of Season,Late Offseason,0
+MLAX44,Men's Lacrosse,3/6/2024,Shoulder,Upper Extremity,Right,Dislocation,NA,Returned To Play As Tolerated,Colin MacLean,M Lacrosse,Spring,1/1/2024,6/1/2024,In Season,Early-Mid,0
 MLAX44,Men's Lacrosse,3/18/2025,Shoulder,Upper Extremity,Right,Sprain,Acromioclavicular Ligament (I or II),Limited Activity,Colin MacLean,M Lacrosse,Spring,1/1/2025,6/1/2025,In Season,Late-Mid,1
 FB20,Football,10/14/2023,Knee,Lower Extremity,Left,Subluxation,Patella,Limited Activity,Collin Murphy,Football,Fall,8/1/2023,12/1/2023,In Season,Late-Mid,0
-FB20,Football,1/25/2024,Knee,Lower Extremity,Left,Strain,,Returned To Play As Tolerated,Collin Murphy,Football,Fall,8/1/2024,12/1/2024,Out of Season,Early Offseason,0
-MLAX48,Football,11/6/2024,Shoulder,Upper Extremity,Right,Sprain,,Returned To Play As Tolerated,Collin Murphy,Football,Fall,8/1/2024,12/1/2024,In Season,Late Season,0
-MLAX48,Men's Lacrosse,11/6/2024,Shoulder,Upper Extremity,Right,Sprain,,Returned To Play As Tolerated,Collin Murphy,M Lacrosse,Spring,1/1/2024,6/1/2024,Out of Season,Late Offseason,0
-FB47,Football,4/13/2024,Wrist,Upper Extremity,,Fracture,Scaphoid,Not Cleared,Colton Morrow,Football,Fall,8/1/2024,12/1/2024,Out of Season,Early Offseason,1
+FB20,Football,1/25/2024,Knee,Lower Extremity,Left,Strain,NA,Returned To Play As Tolerated,Collin Murphy,Football,Fall,8/1/2024,12/1/2024,Out of Season,Early Offseason,0
+MLAX48,Football,11/6/2024,Shoulder,Upper Extremity,Right,Sprain,NA,Returned To Play As Tolerated,Collin Murphy,Football,Fall,8/1/2024,12/1/2024,In Season,Late Season,0
+FB47,Football,4/13/2024,Wrist,Upper Extremity,NA,Fracture,Scaphoid,Not Cleared,Colton Morrow,Football,Fall,8/1/2024,12/1/2024,Out of Season,Early Offseason,1
 BASEB7,Baseball,1/10/2024,Elbow,Upper Extremity,Right,Sprain,Ulnar Collateral Ligament (partial tear),Limited Activity,Connor Remley,Baseball,Spring,1/1/2024,6/1/2024,In Season,Early Season,1
 FB24,Football,8/17/2023,Knee,Lower Extremity,Right,Sprain,Anterior Cruciate Ligament,Not Cleared,Daniel DeSantis,Football,Fall,8/1/2023,12/1/2023,In Season,Early Season,1
-FB24,Football,1/23/2025,Knee,Lower Extremity,Right,Meniscus Tear,,Limited Activity,Daniel DeSantis,Football,Fall,8/1/2025,12/1/2025,Out of Season,Early Offseason,1
+FB24,Football,1/23/2025,Knee,Lower Extremity,Right,Meniscus Tear,NA,Limited Activity,Daniel DeSantis,Football,Fall,8/1/2025,12/1/2025,Out of Season,Early Offseason,1
 MSD51,Men's Swimming & Diving,10/1/2024,Hip,Lower Extremity,Right,Strain,Adductor,Returned To Play As Tolerated,Daniel Garza,M Swim,Winter,9/15/2024,3/31/2025,In Season,Early Season,1
-MBB3,Men's Basketball,1/16/2024,Lumbar Spine,Torso,,Spasm,,Not Cleared,Darren Rubin,M Basketball,Winter,9/15/2023,3/31/2024,In Season,Late-Mid,1
+MBB3,Men's Basketball,1/16/2024,Lumbar Spine,Torso,NA,Spasm,NA,Not Cleared,Darren Rubin,M Basketball,Winter,9/15/2023,3/31/2024,In Season,Late-Mid,1
 MBB3,Men's Basketball,9/12/2024,Lower Leg,Lower Extremity,Right,Strain,Gastrocsoleus Complex (partial tear),Limited Activity,Darren Rubin,M Basketball,Winter,9/15/2024,3/31/2025,Out of Season,Early Offseason,1
 MBB3,Men's Basketball,1/2/2025,Ankle,Lower Extremity,Left,Sprain,"Anterior Talofibular, Lateral Talofibular",Returned To Play and Closed,Darren Rubin,M Basketball,Winter,9/15/2024,3/31/2025,In Season,Late-Mid,1
 FB101,Football,4/12/2024,Shoulder,Upper Extremity,Right,Strain,Pectoralis Major,Not Cleared,Davidson Jump,Football,Fall,8/1/2024,12/1/2024,Out of Season,Early Offseason,1
-WSOC33,Women's Soccer,11/17/2025,Hip,Lower Extremity,Left,Impingement,,Returned To Play As Tolerated,Della Hawkins,W Soccer,Fall,8/1/2025,12/1/2025,In Season,Late Season,1
-VB14,Volleyball,8/21/2024,Lower Back,Torso,Bilateral,Other,,Returned To Play As Tolerated,Devon Moore,Volleyball,Fall,8/1/2024,12/1/2024,In Season,Early Season,0
+WSOC33,Women's Soccer,11/17/2025,Hip,Lower Extremity,Left,Impingement,NA,Returned To Play As Tolerated,Della Hawkins,W Soccer,Fall,8/1/2025,12/1/2025,In Season,Late Season,1
+VB14,Volleyball,8/21/2024,Lower Back,Torso,Bilateral,Other,NA,Returned To Play As Tolerated,Devon Moore,Volleyball,Fall,8/1/2024,12/1/2024,In Season,Early Season,0
 G5,Golf,2/22/2024,Shoulder,Upper Extremity,Right,Strain,Pectoralis Minor,Returned To Play As Tolerated,Drew Brasky,Golf,Spring,1/1/2024,6/1/2024,In Season,Early-Mid,0
-G5,Golf,2/22/2024,Shoulder,Upper Extremity,Right,Strain,Pectoralis Major,Returned To Play As Tolerated,Drew Brasky,Golf,Spring,1/1/2024,6/1/2024,In Season,Early-Mid,1
-G5,Golf,2/2/2024,Elbow,Upper Extremity,Left,Inflammation,,Returned To Play and Closed,Drew Brasky,Golf,Spring,1/1/2024,6/1/2024,In Season,Early Season,1
-MLAX24,Men's Lacrosse,3/27/2024,Shoulder,Upper Extremity,,Strain,,Returned To Play As Tolerated,Drew Merschel,M Lacrosse,Spring,1/1/2024,6/1/2024,In Season,Late-Mid,1
-MLAX24,Men's Lacrosse,4/5/2025,Thigh,Lower Extremity,Left,Strain,,Returned To Play As Tolerated,Drew Merschel,M Lacrosse,Spring,1/1/2025,6/1/2025,In Season,Late-Mid,1
-WSD8,Women's Swimming & Diving,4/14/2025,Shoulder,Upper Extremity,Left,Inflammation,,Returned To Play As Tolerated,Drue Thielking,W Swim,Winter,9/15/2025,3/31/2026,Out of Season,Early Offseason,0
-MSD9,Men's Swimming & Diving,1/9/2024,Knee,Lower Extremity,Left,Knee pain (finding),,Returned To Play As Tolerated,Dylan Escano,M Swim,Winter,9/15/2023,3/31/2024,In Season,Late-Mid,0
-BASEB53,Baseball,9/3/2024,Lumbar Spine,Torso,Left,Spasm,,Returned To Play As Tolerated,Dylan Wells,Baseball,Spring,1/1/2024,6/1/2024,Out of Season,Late Offseason,0
+G5,Golf,2/2/2024,Elbow,Upper Extremity,Left,Inflammation,NA,Returned To Play and Closed,Drew Brasky,Golf,Spring,1/1/2024,6/1/2024,In Season,Early Season,1
+MLAX24,Men's Lacrosse,3/27/2024,Shoulder,Upper Extremity,NA,Strain,NA,Returned To Play As Tolerated,Drew Merschel,M Lacrosse,Spring,1/1/2024,6/1/2024,In Season,Late-Mid,1
+MLAX24,Men's Lacrosse,4/5/2025,Thigh,Lower Extremity,Left,Strain,NA,Returned To Play As Tolerated,Drew Merschel,M Lacrosse,Spring,1/1/2025,6/1/2025,In Season,Late-Mid,1
+WSD8,Women's Swimming & Diving,4/14/2025,Shoulder,Upper Extremity,Left,Inflammation,NA,Returned To Play As Tolerated,Drue Thielking,W Swim,Winter,9/15/2025,3/31/2026,Out of Season,Early Offseason,0
+MSD9,Men's Swimming & Diving,1/9/2024,Knee,Lower Extremity,Left,Knee pain (finding),NA,Returned To Play As Tolerated,Dylan Escano,M Swim,Winter,9/15/2023,3/31/2024,In Season,Late-Mid,0
+BASEB53,Baseball,9/3/2024,Lumbar Spine,Torso,Left,Spasm,NA,Returned To Play As Tolerated,Dylan Wells,Baseball,Spring,1/1/2024,6/1/2024,Out of Season,Late Offseason,0
 VB22,Volleyball,8/19/2025,Lower Leg,Lower Extremity,Left,Strain,Achilles Tendon,Returned To Play As Tolerated,Elena Armstrong,Volleyball,Fall,8/1/2025,12/1/2025,In Season,Early Season,1
 BASEB8,Baseball,9/17/2024,Ankle,Lower Extremity,Left,Sprain,Anterior Talofibular,Returned To Play As Tolerated,Eli Aronson,Baseball,Spring,1/1/2024,6/1/2024,Out of Season,Late Offseason,0
-BASEB8,Baseball,4/21/2025,Hand,Upper Extremity,Right,Hand pain (finding),,Returned To Play As Tolerated,Eli Aronson,Baseball,Spring,1/1/2025,6/1/2025,In Season,Late-Mid,1
+BASEB8,Baseball,4/21/2025,Hand,Upper Extremity,Right,Hand pain (finding),NA,Returned To Play As Tolerated,Eli Aronson,Baseball,Spring,1/1/2025,6/1/2025,In Season,Late-Mid,1
 MSOC7,Men's Soccer,8/19/2023,Hip,Lower Extremity,Left,Strain,Psoas major,Returned To Play and Closed,Eli Taylor,M Soccer,Fall,8/1/2023,12/1/2023,In Season,Early Season,1
-MSOC7,Men's Soccer,8/16/2024,Hip,Lower Extremity,Left,Impingement,,Returned To Play As Tolerated,Eli Taylor,M Soccer,Fall,8/1/2024,12/1/2024,In Season,Early Season,1
+MSOC7,Men's Soccer,8/16/2024,Hip,Lower Extremity,Left,Impingement,NA,Returned To Play As Tolerated,Eli Taylor,M Soccer,Fall,8/1/2024,12/1/2024,In Season,Early Season,1
 MSOC7,Men's Soccer,10/9/2024,Ankle,Lower Extremity,Right,Sprain,Calcaneofibular,Limited Activity,Eli Taylor,M Soccer,Fall,8/1/2024,12/1/2024,In Season,Late-Mid,0
-MSOC7,Men's Soccer,10/9/2024,Ankle,Lower Extremity,Right,Sprain,Anterior Talofibular,Limited Activity,Eli Taylor,M Soccer,Fall,8/1/2024,12/1/2024,In Season,Late-Mid,0
-MSOC7,Men's Soccer,1/27/2025,Infectious Disease,General Medical,,Influenza,,Not Cleared,Eli Taylor,M Soccer,Fall,8/1/2025,12/1/2025,Out of Season,Early Offseason,0
-MSD10,Men's Swimming & Diving,4/15/2024,Wrist,Upper Extremity,Right,Contusion,,Limited Activity,Elijah Venos,M Swim,Winter,9/15/2024,3/31/2025,Out of Season,Early Offseason,0
-MSD10,Men's Swimming & Diving,9/13/2023,Shoulder,Upper Extremity,Bilateral,Spasms,,Returned To Play As Tolerated,Elijah Venos,M Swim,Winter,9/15/2023,3/31/2024,Out of Season,Early Offseason,0
+MSOC7,Men's Soccer,1/27/2025,Infectious Disease,General Medical,NA,Influenza,NA,Not Cleared,Eli Taylor,M Soccer,Fall,8/1/2025,12/1/2025,Out of Season,Early Offseason,0
+MSD10,Men's Swimming & Diving,4/15/2024,Wrist,Upper Extremity,Right,Contusion,NA,Limited Activity,Elijah Venos,M Swim,Winter,9/15/2024,3/31/2025,Out of Season,Early Offseason,0
+MSD10,Men's Swimming & Diving,9/13/2023,Shoulder,Upper Extremity,Bilateral,Spasms,NA,Returned To Play As Tolerated,Elijah Venos,M Swim,Winter,9/15/2023,3/31/2024,Out of Season,Early Offseason,0
 WSD9,Women's Swimming & Diving,9/24/2023,Upper arm,Upper Extremity,Right,Strain,Triceps Brachii (partial tear),Limited Activity,Elisabeth Nesta,W Swim,Winter,9/15/2023,3/31/2024,In Season,Early Season,0
-WLAX43,Women's Lacrosse,4/18/2025,Knee,Lower Extremity,Right,Plica,,Returned To Play As Tolerated,Eliza Chapman,W Lacrosse,Spring,1/1/2025,6/1/2025,In Season,Late-Mid,0
+WLAX43,Women's Lacrosse,4/18/2025,Knee,Lower Extremity,Right,Plica,NA,Returned To Play As Tolerated,Eliza Chapman,W Lacrosse,Spring,1/1/2025,6/1/2025,In Season,Late-Mid,0
 WSOC19,Women's Soccer,8/18/2024,Foot,Lower Extremity,Left,Fracture,5th Metatarsal (Jones' Fracture),Limited Activity,Eliza Roach,W Soccer,Fall,8/1/2024,12/1/2024,In Season,Early Season,1
-SB23,Softball,10/11/2024,Shoulder,Upper Extremity,Right,Discomfort (finding),,Returned To Play As Tolerated,Elizabeth Allen,Softball,Spring,1/1/2024,6/1/2024,Out of Season,Late Offseason,1
-SB23,Softball,3/19/2025,Knee,Lower Extremity,Bilateral,Patellofemoral Pain Syndrome (PFPS),,Returned To Play As Tolerated,Elizabeth Allen,Softball,Spring,1/1/2025,6/1/2025,In Season,Late-Mid,1
-SB23,Softball,10/23/2025,Thigh,Lower Extremity,Left,Thigh pain (finding),,Returned To Play As Tolerated,Elizabeth Allen,Softball,Spring,1/1/2025,6/1/2025,Out of Season,Late Offseason,1
-WTE10,Women's Tennis,2/9/2024,Wrist,Upper Extremity,Left,Pain in wrist (finding),,Returned To Play As Tolerated,Elizabeth Hoo,W Tennis,Spring,1/1/2024,6/1/2024,In Season,Early-Mid,1
-WTE10,Women's Tennis,3/5/2024,Knee,Lower Extremity,Left,Meniscus Tear,,Returned To Play As Tolerated,Elizabeth Hoo,W Tennis,Spring,1/1/2024,6/1/2024,In Season,Early-Mid,1
+SB23,Softball,10/11/2024,Shoulder,Upper Extremity,Right,Discomfort (finding),NA,Returned To Play As Tolerated,Elizabeth Allen,Softball,Spring,1/1/2024,6/1/2024,Out of Season,Late Offseason,1
+SB23,Softball,3/19/2025,Knee,Lower Extremity,Bilateral,Patellofemoral Pain Syndrome (PFPS),NA,Returned To Play As Tolerated,Elizabeth Allen,Softball,Spring,1/1/2025,6/1/2025,In Season,Late-Mid,1
+SB23,Softball,10/23/2025,Thigh,Lower Extremity,Left,Thigh pain (finding),NA,Returned To Play As Tolerated,Elizabeth Allen,Softball,Spring,1/1/2025,6/1/2025,Out of Season,Late Offseason,1
+WTE10,Women's Tennis,2/9/2024,Wrist,Upper Extremity,Left,Pain in wrist (finding),NA,Returned To Play As Tolerated,Elizabeth Hoo,W Tennis,Spring,1/1/2024,6/1/2024,In Season,Early-Mid,1
+WTE10,Women's Tennis,3/5/2024,Knee,Lower Extremity,Left,Meniscus Tear,NA,Returned To Play As Tolerated,Elizabeth Hoo,W Tennis,Spring,1/1/2024,6/1/2024,In Season,Early-Mid,1
 WTE10,Women's Tennis,10/8/2024,Thigh,Lower Extremity,Left,Strain,Hamstring (partial tear),Limited Activity,Elizabeth Hoo,W Tennis,Spring,1/1/2024,6/1/2024,Out of Season,Late Offseason,1
-WTE10,Women's Tennis,4/24/2025,Wrist,Upper Extremity,Left,Pain in wrist (finding),,Returned To Play As Tolerated,Elizabeth Hoo,W Tennis,Spring,1/1/2025,6/1/2025,In Season,Late-Mid,1
-G7,Golf,3/15/2024,Wrist,Upper Extremity,Right,Pain in wrist (finding),,Returned To Play As Tolerated,Ella McRoberts,Golf,Spring,1/1/2024,6/1/2024,In Season,Early-Mid,1
-G7,Golf,11/30/2023,Shoulder,Upper Extremity,Left,Other Shoulder Injury,,Returned To Play As Tolerated,Ella McRoberts,Golf,Spring,1/1/2023,6/1/2023,Out of Season,Late Offseason,1
-WBB23,Women's Basketball,9/19/2024,Lumbar Spine,Torso,Bilateral,Stress Fracture,,Limited Activity,Elliana Baker,W Basketball,Winter,9/15/2024,3/31/2025,In Season,Early Season,1
-MBB22,Men's Basketball,9/23/2025,Foot,Lower Extremity,Right,Plantar Fasciitis,,Returned To Play As Tolerated,Ellis Appiah,M Basketball,Winter,9/15/2025,3/31/2026,In Season,Early Season,1
+WTE10,Women's Tennis,4/24/2025,Wrist,Upper Extremity,Left,Pain in wrist (finding),NA,Returned To Play As Tolerated,Elizabeth Hoo,W Tennis,Spring,1/1/2025,6/1/2025,In Season,Late-Mid,1
+G7,Golf,3/15/2024,Wrist,Upper Extremity,Right,Pain in wrist (finding),NA,Returned To Play As Tolerated,Ella McRoberts,Golf,Spring,1/1/2024,6/1/2024,In Season,Early-Mid,1
+G7,Golf,11/30/2023,Shoulder,Upper Extremity,Left,Other Shoulder Injury,NA,Returned To Play As Tolerated,Ella McRoberts,Golf,Spring,1/1/2023,6/1/2023,Out of Season,Late Offseason,1
+WBB23,Women's Basketball,9/19/2024,Lumbar Spine,Torso,Bilateral,Stress Fracture,NA,Limited Activity,Elliana Baker,W Basketball,Winter,9/15/2024,3/31/2025,In Season,Early Season,1
+MBB22,Men's Basketball,9/23/2025,Foot,Lower Extremity,Right,Plantar Fasciitis,NA,Returned To Play As Tolerated,Ellis Appiah,M Basketball,Winter,9/15/2025,3/31/2026,In Season,Early Season,1
 MLAX80,Men's Lacrosse,12/9/2025,Shoulder,Upper Extremity,Left,Strain,Pectoralis Major,Not Cleared,Ellis Halpin,M Lacrosse,Spring,1/1/2025,6/1/2025,Out of Season,Late Offseason,1
-SB7,Softball,1/16/2025,Infectious Disease,General Medical,,Mononucleosis,,Limited Activity,Emerson Seevers,Softball,Spring,1/1/2025,6/1/2025,In Season,Early Season,1
+SB7,Softball,1/16/2025,Infectious Disease,General Medical,NA,Mononucleosis,NA,Limited Activity,Emerson Seevers,Softball,Spring,1/1/2025,6/1/2025,In Season,Early Season,1
 SB7,Softball,3/2/2025,Knee,Lower Extremity,Right,Rupture,Anterior Cruciate Ligament,Not Cleared,Emerson Seevers,Softball,Spring,1/1/2025,6/1/2025,In Season,Early-Mid,0
-WSD10,Women's Swimming & Diving,1/30/2025,Shoulder,Upper Extremity,Left,Discomfort (finding),,Returned To Play As Tolerated,Emily Harris,W Swim,Winter,9/15/2024,3/31/2025,In Season,Late-Mid,0
-WSD10,Women's Swimming & Diving,2/18/2026,Shoulder,Upper Extremity,,Thoracic Outlet Syndrome,,Returned To Play As Tolerated,Emily Harris,W Swim,Winter,9/15/2025,3/31/2026,In Season,Late Season,1
-SB8,Softball,9/12/2023,Hip,Lower Extremity,Bilateral,Other Hip Injury,,Returned To Play As Tolerated,Emily Orsini,Softball,Spring,1/1/2023,6/1/2023,Out of Season,Late Offseason,0
-SB8,Softball,1/29/2024,Lower Back,Torso,Bilateral,Chronic back pain (finding),,Returned To Play As Tolerated,Emily Orsini,Softball,Spring,1/1/2024,6/1/2024,In Season,Early Season,1
-SB8,Softball,3/14/2024,Thigh,Lower Extremity,Left,Strain,,Returned To Play As Tolerated,Emily Orsini,Softball,Spring,1/1/2024,6/1/2024,In Season,Early-Mid,1
-FH3,Field Hockey,10/23/2023,Brain,Head,,Concussion,,Limited Activity,Emma Gebhart,Field Hockey,Fall,8/1/2023,12/1/2023,In Season,Late-Mid,1
-FH3,Field Hockey,8/19/2024,Lower Leg,Lower Extremity,Bilateral,Medial Tibial Stress Syndrome,,Returned To Play and Closed,Emma Gebhart,Field Hockey,Fall,8/1/2024,12/1/2024,In Season,Early Season,1
+WSD10,Women's Swimming & Diving,1/30/2025,Shoulder,Upper Extremity,Left,Discomfort (finding),NA,Returned To Play As Tolerated,Emily Harris,W Swim,Winter,9/15/2024,3/31/2025,In Season,Late-Mid,0
+WSD10,Women's Swimming & Diving,2/18/2026,Shoulder,Upper Extremity,NA,Thoracic Outlet Syndrome,NA,Returned To Play As Tolerated,Emily Harris,W Swim,Winter,9/15/2025,3/31/2026,In Season,Late Season,1
+SB8,Softball,9/12/2023,Hip,Lower Extremity,Bilateral,Other Hip Injury,NA,Returned To Play As Tolerated,Emily Orsini,Softball,Spring,1/1/2023,6/1/2023,Out of Season,Late Offseason,0
+SB8,Softball,1/29/2024,Lower Back,Torso,Bilateral,Chronic back pain (finding),NA,Returned To Play As Tolerated,Emily Orsini,Softball,Spring,1/1/2024,6/1/2024,In Season,Early Season,1
+SB8,Softball,3/14/2024,Thigh,Lower Extremity,Left,Strain,NA,Returned To Play As Tolerated,Emily Orsini,Softball,Spring,1/1/2024,6/1/2024,In Season,Early-Mid,1
+FH3,Field Hockey,10/23/2023,Brain,Head,NA,Concussion,NA,Limited Activity,Emma Gebhart,Field Hockey,Fall,8/1/2023,12/1/2023,In Season,Late-Mid,1
+FH3,Field Hockey,8/19/2024,Lower Leg,Lower Extremity,Bilateral,Medial Tibial Stress Syndrome,NA,Returned To Play and Closed,Emma Gebhart,Field Hockey,Fall,8/1/2024,12/1/2024,In Season,Early Season,1
 FH3,Field Hockey,4/7/2025,Elbow,Upper Extremity,Right,Fracture,Head of Radius,Returned To Play and Closed,Emma Gebhart,Field Hockey,Fall,8/1/2025,12/1/2025,Out of Season,Early Offseason,1
 VB23,Volleyball,9/1/2025,Ankle,Lower Extremity,Right,Sprain,"Anterior Talofibular, Lateral Talofibular",Returned To Play As Tolerated,Emma Hampton,Volleyball,Fall,8/1/2025,12/1/2025,In Season,Early-Mid,1
-WSOC28,Women's Soccer,9/23/2024,Knee,Lower Extremity,Left,Knee pain (finding),,Waiting For Assessment,Emma Lloyd,W Soccer,Fall,8/1/2024,12/1/2024,In Season,Early-Mid,1
-WSD11,Women's Swimming & Diving,11/10/2024,Nervous System,General Medical,Does Not Apply,Other Nervous System Disorder,,Returned To Play As Tolerated,Emma Pritchett,W Swim,Winter,9/15/2024,3/31/2025,In Season,Early-Mid,1
+WSOC28,Women's Soccer,9/23/2024,Knee,Lower Extremity,Left,Knee pain (finding),NA,Waiting For Assessment,Emma Lloyd,W Soccer,Fall,8/1/2024,12/1/2024,In Season,Early-Mid,1
+WSD11,Women's Swimming & Diving,11/10/2024,Nervous System,General Medical,Does Not Apply,Other Nervous System Disorder,NA,Returned To Play As Tolerated,Emma Pritchett,W Swim,Winter,9/15/2024,3/31/2025,In Season,Early-Mid,1
 WSOC21,Women's Soccer,3/20/2024,Ankle,Lower Extremity,Right,Sprain,Lateral Talofibular,Limited Activity,Emma Wecht,W Soccer,Fall,8/1/2024,12/1/2024,Out of Season,Early Offseason,1
-MSD11,Men's Swimming & Diving,9/26/2025,Thoracic Spine,Torso,,Strain,,Returned To Play As Tolerated,Emmett Harmon,M Swim,Winter,9/15/2025,3/31/2026,In Season,Early Season,1
+MSD11,Men's Swimming & Diving,9/26/2025,Thoracic Spine,Torso,NA,Strain,NA,Returned To Play As Tolerated,Emmett Harmon,M Swim,Winter,9/15/2025,3/31/2026,In Season,Early Season,1
 BASEB9,Baseball,9/2/2024,Ankle,Lower Extremity,Left,Sprain,Anterior Talofibular,Returned To Play and Closed,Eric Colaco,Baseball,Spring,1/1/2024,6/1/2024,Out of Season,Late Offseason,1
 BASEB10,Baseball,4/13/2024,Shoulder,Upper Extremity,Left,Subluxation,"Glenohumeral, Down",Returned To Play As Tolerated,Erik Sundgren,Baseball,Spring,1/1/2024,6/1/2024,In Season,Late-Mid,1
-BASEB10,Baseball,9/24/2024,Elbow,Upper Extremity,Right,Discomfort (finding),,Returned To Play As Tolerated,Erik Sundgren,Baseball,Spring,1/1/2024,6/1/2024,Out of Season,Late Offseason,1
-BASEB10,Baseball,10/24/2024,Rib,Torso,Right,Discomfort (finding),,Returned To Play As Tolerated,Erik Sundgren,Baseball,Spring,1/1/2024,6/1/2024,Out of Season,Late Offseason,1
-WSD12,Women's Swimming & Diving,11/6/2024,Shoulder,Upper Extremity,Left,Scapulothoracic Dysfunction,,Returned To Play As Tolerated,Erika Schraber,W Swim,Winter,9/15/2024,3/31/2025,In Season,Early-Mid,1
-BASEB44,Baseball,2/11/2026,Abdomen,Torso,Left,Contusion,,Returned To Play As Tolerated,Eron Vega,Baseball,Spring,1/1/2026,6/1/2026,In Season,Early-Mid,1
-MTE3,Men's Tennis,2/19/2024,Shoulder,Upper Extremity,,Tendinitis,,Returned To Play As Tolerated,Ethan Green,M Tennis,Spring,1/1/2024,6/1/2024,In Season,Early-Mid,1
-MTE3,Men's Tennis,10/31/2025,Respirology,General Medical,,Pneumonia,,Returned To Play and Closed,Ethan Green,M Tennis,Spring,1/1/2025,6/1/2025,Out of Season,Late Offseason,1
-MSD66,Men's Swimming & Diving,9/4/2025,Hip,Lower Extremity,Left,Other Hip Injury,,Returned To Play As Tolerated,Ethan Killam,M Swim,Winter,9/15/2025,3/31/2026,Out of Season,Early Offseason,0
+BASEB10,Baseball,9/24/2024,Elbow,Upper Extremity,Right,Discomfort (finding),NA,Returned To Play As Tolerated,Erik Sundgren,Baseball,Spring,1/1/2024,6/1/2024,Out of Season,Late Offseason,1
+BASEB10,Baseball,10/24/2024,Rib,Torso,Right,Discomfort (finding),NA,Returned To Play As Tolerated,Erik Sundgren,Baseball,Spring,1/1/2024,6/1/2024,Out of Season,Late Offseason,1
+WSD12,Women's Swimming & Diving,11/6/2024,Shoulder,Upper Extremity,Left,Scapulothoracic Dysfunction,NA,Returned To Play As Tolerated,Erika Schraber,W Swim,Winter,9/15/2024,3/31/2025,In Season,Early-Mid,1
+BASEB44,Baseball,2/11/2026,Abdomen,Torso,Left,Contusion,NA,Returned To Play As Tolerated,Eron Vega,Baseball,Spring,1/1/2026,6/1/2026,In Season,Early-Mid,1
+MTE3,Men's Tennis,2/19/2024,Shoulder,Upper Extremity,NA,Tendinitis,NA,Returned To Play As Tolerated,Ethan Green,M Tennis,Spring,1/1/2024,6/1/2024,In Season,Early-Mid,1
+MTE3,Men's Tennis,10/31/2025,Respirology,General Medical,NA,Pneumonia,NA,Returned To Play and Closed,Ethan Green,M Tennis,Spring,1/1/2025,6/1/2025,Out of Season,Late Offseason,1
+MSD66,Men's Swimming & Diving,9/4/2025,Hip,Lower Extremity,Left,Other Hip Injury,NA,Returned To Play As Tolerated,Ethan Killam,M Swim,Winter,9/15/2025,3/31/2026,Out of Season,Early Offseason,0
 BASEB11,Baseball,11/15/2024,Shoulder,Upper Extremity,Right,Tendinitis,"Bicep, Long Head",Returned To Play As Tolerated,Evan Cerretani,Baseball,Spring,1/1/2024,6/1/2024,Out of Season,Late Offseason,1
-BASEB11,Baseball,11/15/2024,Shoulder,Upper Extremity,Right,Tendinitis,"Bicep, Short Head",Returned To Play As Tolerated,Evan Cerretani,Baseball,Spring,1/1/2024,6/1/2024,Out of Season,Late Offseason,0
-WLAX26,Women's Lacrosse,2/17/2024,Brain,Head,,Concussion,,Not Cleared,Evy Palmer,W Lacrosse,Spring,1/1/2024,6/1/2024,In Season,Early-Mid,1
-WLAX26,Women's Lacrosse,11/3/2025,Knee,Lower Extremity,Left,Strain,,Returned To Play As Tolerated,Evy Palmer,W Lacrosse,Spring,1/1/2025,6/1/2025,Out of Season,Late Offseason,1
+WLAX26,Women's Lacrosse,2/17/2024,Brain,Head,NA,Concussion,NA,Not Cleared,Evy Palmer,W Lacrosse,Spring,1/1/2024,6/1/2024,In Season,Early-Mid,1
+WLAX26,Women's Lacrosse,11/3/2025,Knee,Lower Extremity,Left,Strain,NA,Returned To Play As Tolerated,Evy Palmer,W Lacrosse,Spring,1/1/2025,6/1/2025,Out of Season,Late Offseason,1
 WSD14,Women's Swimming & Diving,10/12/2023,Ankle,Lower Extremity,Right,Sprain,Calcaneofibular,Limited Activity,Fernanda Anzures,W Swim,Winter,9/15/2023,3/31/2024,In Season,Early Season,1
-WSD14,Women's Swimming & Diving,9/12/2024,Brain,Head,,Concussion,,Limited Activity,Fernanda Anzures,W Swim,Winter,9/15/2024,3/31/2025,Out of Season,Early Offseason,1
-WSD14,Women's Swimming & Diving,11/13/2024,Rib,Torso,,Discomfort (finding),,Returned To Play As Tolerated,Fernanda Anzures,W Swim,Winter,9/15/2024,3/31/2025,In Season,Early-Mid,1
-FB103,Football,8/16/2023,Brain,Head,,Concussion,,Not Cleared,Flo Feldman,Football,Fall,8/1/2023,12/1/2023,In Season,Early Season,1
+WSD14,Women's Swimming & Diving,9/12/2024,Brain,Head,NA,Concussion,NA,Limited Activity,Fernanda Anzures,W Swim,Winter,9/15/2024,3/31/2025,Out of Season,Early Offseason,1
+WSD14,Women's Swimming & Diving,11/13/2024,Rib,Torso,NA,Discomfort (finding),NA,Returned To Play As Tolerated,Fernanda Anzures,W Swim,Winter,9/15/2024,3/31/2025,In Season,Early-Mid,1
+FB103,Football,8/16/2023,Brain,Head,NA,Concussion,NA,Not Cleared,Flo Feldman,Football,Fall,8/1/2023,12/1/2023,In Season,Early Season,1
 FB103,Football,4/5/2025,Shoulder,Upper Extremity,Left,Strain,Pectoralis Major,Limited Activity,Flo Feldman,Football,Fall,8/1/2025,12/1/2025,Out of Season,Early Offseason,0
 BASEB49,Baseball,4/3/2025,Thumb,Upper Extremity,Left,Sprain,PIP Joint,Returned To Play and Closed,Flynn Shoop,Baseball,Spring,1/1/2025,6/1/2025,In Season,Late-Mid,0
 FB141,Football,12/8/2025,Ankle,Lower Extremity,Left,Sprain,"Anterior Talofibular, Calcaneofibular",Limited Activity,Gabriel Burkett,Football,Fall,8/1/2025,12/1/2025,Out of Season,Late Offseason,1
-FB81,Football,9/19/2023,Cervical Segment,Neck,,Spasm,,Limited Activity,Garrett McClung,Football,Fall,8/1/2023,12/1/2023,In Season,Early-Mid,1
+FB81,Football,9/19/2023,Cervical Segment,Neck,NA,Spasm,NA,Limited Activity,Garrett McClung,Football,Fall,8/1/2023,12/1/2023,In Season,Early-Mid,1
 BASEB12,Baseball,11/11/2024,Hand,Upper Extremity,Left,Contusion,Metacarpal 2nd,Returned To Play and Closed,Garrett Smith,Baseball,Spring,1/1/2024,6/1/2024,Out of Season,Late Offseason,1
-MBB7,Men's Basketball,10/3/2023,Ankle,Lower Extremity,Left,Sprain,,Limited Activity,Gates Flynn,M Basketball,Winter,9/15/2023,3/31/2024,In Season,Early Season,1
+MBB7,Men's Basketball,10/3/2023,Ankle,Lower Extremity,Left,Sprain,NA,Limited Activity,Gates Flynn,M Basketball,Winter,9/15/2023,3/31/2024,In Season,Early Season,1
 MSD13,Men's Swimming & Diving,12/4/2023,Hip,Lower Extremity,Left,Strain,Adductor,Returned To Play As Tolerated,George Wang,M Swim,Winter,9/15/2023,3/31/2024,In Season,Early-Mid,1
 MSD13,Men's Swimming & Diving,8/22/2025,Hip,Lower Extremity,Right,Strain,"Gluteus Maximus, Gluteus Medius, Gluteus Minimus, Piriformis",Returned To Play As Tolerated,George Wang,M Swim,Winter,9/15/2025,3/31/2026,Out of Season,Early Offseason,1
-WBB22,Women's Basketball,10/21/2024,Knee,Lower Extremity,Left,Sprain,,Limited Activity,Gillian Magner,W Basketball,Winter,9/15/2024,3/31/2025,In Season,Early Season,0
-WBB22,Women's Basketball,9/8/2025,Wrist,Upper Extremity,Left,Pain in wrist (finding),,Returned To Play and Closed,Gillian Magner,W Basketball,Winter,9/15/2025,3/31/2026,Out of Season,Early Offseason,1
-WBB26,Women's Basketball,11/11/2024,Ankle,Lower Extremity,Right,Ankle pain (finding),,Not Cleared,Grace Dressell,W Basketball,Winter,9/15/2024,3/31/2025,In Season,Early-Mid,1
-WBB26,Women's Basketball,12/9/2025,Shoulder,Upper Extremity,Right,Impingement,,Returned To Play As Tolerated,Grace Dressell,W Basketball,Winter,9/15/2025,3/31/2026,In Season,Early-Mid,1
+WBB22,Women's Basketball,10/21/2024,Knee,Lower Extremity,Left,Sprain,NA,Limited Activity,Gillian Magner,W Basketball,Winter,9/15/2024,3/31/2025,In Season,Early Season,0
+WBB22,Women's Basketball,9/8/2025,Wrist,Upper Extremity,Left,Pain in wrist (finding),NA,Returned To Play and Closed,Gillian Magner,W Basketball,Winter,9/15/2025,3/31/2026,Out of Season,Early Offseason,1
+WBB26,Women's Basketball,11/11/2024,Ankle,Lower Extremity,Right,Ankle pain (finding),NA,Not Cleared,Grace Dressell,W Basketball,Winter,9/15/2024,3/31/2025,In Season,Early-Mid,1
+WBB26,Women's Basketball,12/9/2025,Shoulder,Upper Extremity,Right,Impingement,NA,Returned To Play As Tolerated,Grace Dressell,W Basketball,Winter,9/15/2025,3/31/2026,In Season,Early-Mid,1
 SB10,Softball,11/14/2023,Lower Leg,Lower Extremity,Left,Pain in lower limb (finding),NA,-,Grace Goodin,Softball,Spring,1/1/2023,6/1/2023,Out of Season,Late Offseason,1
 WSD15,Women's Swimming & Diving,10/26/2023,Thigh,Lower Extremity,Right,Strain,Groin,Returned To Play As Tolerated,Grace Kadlecik,W Swim,Winter,9/15/2023,3/31/2024,In Season,Early Season,1
-MLAX58,Men's Lacrosse,10/20/2025,Brain,Head,Does Not Apply,Concussion,,Not Cleared,Graham Harris,M Lacrosse,Spring,1/1/2025,6/1/2025,Out of Season,Late Offseason,1
-MLAX25,Men's Lacrosse,3/19/2024,Brain,Head,,Concussion,,Not Cleared,Graham Michener,M Lacrosse,Spring,1/1/2024,6/1/2024,In Season,Late-Mid,1
-MLAX25,Men's Lacrosse,10/12/2024,Brain,Head,,Concussion,,Limited Activity,Graham Michener,M Lacrosse,Spring,1/1/2024,6/1/2024,Out of Season,Late Offseason,1
-FB122,Football,8/18/2025,Foot,Lower Extremity,Left,Plantar Fasciitis,,Returned To Play and Closed,Graham Tonkonogy,Football,Fall,8/1/2025,12/1/2025,In Season,Early Season,1
+MLAX58,Men's Lacrosse,10/20/2025,Brain,Head,Does Not Apply,Concussion,NA,Not Cleared,Graham Harris,M Lacrosse,Spring,1/1/2025,6/1/2025,Out of Season,Late Offseason,1
+MLAX25,Men's Lacrosse,3/19/2024,Brain,Head,NA,Concussion,NA,Not Cleared,Graham Michener,M Lacrosse,Spring,1/1/2024,6/1/2024,In Season,Late-Mid,1
+MLAX25,Men's Lacrosse,10/12/2024,Brain,Head,NA,Concussion,NA,Limited Activity,Graham Michener,M Lacrosse,Spring,1/1/2024,6/1/2024,Out of Season,Late Offseason,1
+FB122,Football,8/18/2025,Foot,Lower Extremity,Left,Plantar Fasciitis,NA,Returned To Play and Closed,Graham Tonkonogy,Football,Fall,8/1/2025,12/1/2025,In Season,Early Season,1
 MLAX33,Men's Lacrosse,10/1/2023,Abdomen,Torso,Right,Strain,External Oblique,Returned To Play As Tolerated,Grant Larson,M Lacrosse,Spring,1/1/2023,6/1/2023,Out of Season,Late Offseason,1
-MLAX33,Men's Lacrosse,3/21/2025,Shoulder,Upper Extremity,,Discomfort (finding),,Returned To Play As Tolerated,Grant Larson,M Lacrosse,Spring,1/1/2025,6/1/2025,In Season,Late-Mid,1
-FB98,Football,3/27/2024,Thigh,Lower Extremity,Right,Strain,,Returned To Play As Tolerated,Grant Webb,Football,Fall,8/1/2024,12/1/2024,Out of Season,Early Offseason,1
+MLAX33,Men's Lacrosse,3/21/2025,Shoulder,Upper Extremity,NA,Discomfort (finding),NA,Returned To Play As Tolerated,Grant Larson,M Lacrosse,Spring,1/1/2025,6/1/2025,In Season,Late-Mid,1
+FB98,Football,3/27/2024,Thigh,Lower Extremity,Right,Strain,NA,Returned To Play As Tolerated,Grant Webb,Football,Fall,8/1/2024,12/1/2024,Out of Season,Early Offseason,1
 FB19,Football,8/21/2025,Wrist,Upper Extremity,Left,Sprain,Ulnar collateral,Returned To Play and Closed,Grayson Kerscher,Football,Fall,8/1/2025,12/1/2025,In Season,Early Season,1
-WLAX18,Women's Lacrosse,12/1/2023,Lower Leg,Lower Extremity,Bilateral,Other Leg Injury,,Returned To Play As Tolerated,Grayson O'Marra,W Lacrosse,Spring,1/1/2023,6/1/2023,Out of Season,Late Offseason,0
-MLAX28,Men's Lacrosse,2/16/2026,Brain,Head,,Concussion,,Returned To Play and Closed,Gunnar Young,M Lacrosse,Spring,1/1/2026,6/1/2026,In Season,Early-Mid,1
-WSD54,Women's Swimming & Diving,10/30/2025,Lumbar Spine,Torso,,Pain in lumbar spine (finding),,Returned To Play As Tolerated,Gwen Bakker,W Swim,Winter,9/15/2025,3/31/2026,In Season,Early Season,1
-WLAX45,Women's Lacrosse,8/28/2025,Knee,Lower Extremity,Left,Cartilage Injury,,Limited Activity,Hana Asghari,W Lacrosse,Spring,1/1/2025,6/1/2025,Out of Season,Late Offseason,1
-WBB29,Women's Basketball,9/1/2025,Knee,Lower Extremity,Bilateral,Other Knee Injury,,Returned To Play As Tolerated,Hannah Grudzien,W Basketball,Winter,9/15/2025,3/31/2026,Out of Season,Early Offseason,1
-WBB29,Women's Basketball,12/11/2025,Thumb,Upper Extremity,Left,Contusion,,Returned To Play and Closed,Hannah Grudzien,W Basketball,Winter,9/15/2025,3/31/2026,In Season,Early-Mid,1
+WLAX18,Women's Lacrosse,12/1/2023,Lower Leg,Lower Extremity,Bilateral,Other Leg Injury,NA,Returned To Play As Tolerated,Grayson O'Marra,W Lacrosse,Spring,1/1/2023,6/1/2023,Out of Season,Late Offseason,0
+MLAX28,Men's Lacrosse,2/16/2026,Brain,Head,NA,Concussion,NA,Returned To Play and Closed,Gunnar Young,M Lacrosse,Spring,1/1/2026,6/1/2026,In Season,Early-Mid,1
+WSD54,Women's Swimming & Diving,10/30/2025,Lumbar Spine,Torso,NA,Pain in lumbar spine (finding),NA,Returned To Play As Tolerated,Gwen Bakker,W Swim,Winter,9/15/2025,3/31/2026,In Season,Early Season,1
+WLAX45,Women's Lacrosse,8/28/2025,Knee,Lower Extremity,Left,Cartilage Injury,NA,Limited Activity,Hana Asghari,W Lacrosse,Spring,1/1/2025,6/1/2025,Out of Season,Late Offseason,1
+WBB29,Women's Basketball,9/1/2025,Knee,Lower Extremity,Bilateral,Other Knee Injury,NA,Returned To Play As Tolerated,Hannah Grudzien,W Basketball,Winter,9/15/2025,3/31/2026,Out of Season,Early Offseason,1
+WBB29,Women's Basketball,12/11/2025,Thumb,Upper Extremity,Left,Contusion,NA,Returned To Play and Closed,Hannah Grudzien,W Basketball,Winter,9/15/2025,3/31/2026,In Season,Early-Mid,1
 MSD52,Men's Swimming & Diving,9/27/2024,Shoulder,Upper Extremity,Left,Strain,General Rotator Cuff,Returned To Play As Tolerated,Harry Parsons,M Swim,Winter,9/15/2024,3/31/2025,In Season,Early Season,1
-WTE 11,Women's Tennis,9/16/2024,Wrist,Upper Extremity,Left,Pain in wrist (finding),,Returned To Play As Tolerated,Hayley Shay,W Tennis,Spring,1/1/2024,6/1/2024,Out of Season,Late Offseason,1
-FH4,Field Hockey,2/28/2024,Hip,Lower Extremity,Right,Other Hip Injury,,Limited Activity,Helen Breen,Field Hockey,Fall,8/1/2024,12/1/2024,Out of Season,Early Offseason,1
-FH4,Field Hockey,8/26/2024,Thigh,Lower Extremity,Bilateral,Tightness,,Limited Activity,Helen Breen,Field Hockey,Fall,8/1/2024,12/1/2024,In Season,Early Season,1
-FH4,Field Hockey,5/21/2025,Shoulder,Upper Extremity,,Glenoid Labrum Tear (SLAP),,Waiting For Assessment,Helen Breen,Field Hockey,Fall,8/1/2025,12/1/2025,Out of Season,Early Offseason,1
-FH4,Field Hockey,10/13/2025,Lumbar Spine,Torso,Right,Non-Specific Low Back Pain (mechanical),,Returned To Play As Tolerated,Helen Breen,Field Hockey,Fall,8/1/2025,12/1/2025,In Season,Late-Mid,1
+WTE 11,Women's Tennis,9/16/2024,Wrist,Upper Extremity,Left,Pain in wrist (finding),NA,Returned To Play As Tolerated,Hayley Shay,W Tennis,Spring,1/1/2024,6/1/2024,Out of Season,Late Offseason,1
+FH4,Field Hockey,2/28/2024,Hip,Lower Extremity,Right,Other Hip Injury,NA,Limited Activity,Helen Breen,Field Hockey,Fall,8/1/2024,12/1/2024,Out of Season,Early Offseason,1
+FH4,Field Hockey,8/26/2024,Thigh,Lower Extremity,Bilateral,Tightness,NA,Limited Activity,Helen Breen,Field Hockey,Fall,8/1/2024,12/1/2024,In Season,Early Season,1
+FH4,Field Hockey,5/21/2025,Shoulder,Upper Extremity,NA,Glenoid Labrum Tear (SLAP),NA,Waiting For Assessment,Helen Breen,Field Hockey,Fall,8/1/2025,12/1/2025,Out of Season,Early Offseason,1
+FH4,Field Hockey,10/13/2025,Lumbar Spine,Torso,Right,Non-Specific Low Back Pain (mechanical),NA,Returned To Play As Tolerated,Helen Breen,Field Hockey,Fall,8/1/2025,12/1/2025,In Season,Late-Mid,1
 FB80,Football,9/2/2023,Knee,Lower Extremity,Left,Rupture,Anterior Cruciate Ligament,Not Cleared,Holston Slack,Football,Fall,8/1/2023,12/1/2023,In Season,Early-Mid,1
 BASEB14,Baseball,9/20/2025,Knee,Lower Extremity,Left,Subluxation,Patella,Returned To Play As Tolerated,Hugh Sullivan,Baseball,Spring,1/1/2025,6/1/2025,Out of Season,Late Offseason,1
 SB11,Softball,9/22/2023,Shoulder,Upper Extremity,Left,Subluxation,"Glenohumeral, Down",Returned To Play As Tolerated,Indy Workman,Softball,Spring,1/1/2023,6/1/2023,Out of Season,Late Offseason,1
-SB11,Softball,2/9/2024,Lower Leg,Lower Extremity,Left,Medial Tibial Stress Syndrome,,Returned To Play As Tolerated,Indy Workman,Softball,Spring,1/1/2024,6/1/2024,In Season,Early-Mid,0
+SB11,Softball,2/9/2024,Lower Leg,Lower Extremity,Left,Medial Tibial Stress Syndrome,NA,Returned To Play As Tolerated,Indy Workman,Softball,Spring,1/1/2024,6/1/2024,In Season,Early-Mid,0
 SB11,Softball,3/3/2025,Hand,Upper Extremity,Right,Contusion,Soft Tissue,Returned To Play As Tolerated,Indy Workman,Softball,Spring,1/1/2025,6/1/2025,In Season,Early-Mid,1
-SB11,Softball,3/31/2025,Brain,Head,,Concussion,,Not Cleared,Indy Workman,Softball,Spring,1/1/2025,6/1/2025,In Season,Late-Mid,1
+SB11,Softball,3/31/2025,Brain,Head,NA,Concussion,NA,Not Cleared,Indy Workman,Softball,Spring,1/1/2025,6/1/2025,In Season,Late-Mid,1
 WSOC2,Women's Soccer,8/16/2025,Foot,Lower Extremity,Left,Strain,Muscles,Limited Activity,Isabella Bazant,W Soccer,Fall,8/1/2025,12/1/2025,In Season,Early Season,1
 VB4,Volleyball,8/30/2023,Lower Leg,Lower Extremity,Right,Strain,Tibialis Anterior Tendon,Returned To Play and Closed,Isabella Bergeron,Volleyball,Fall,8/1/2023,12/1/2023,In Season,Early Season,1
-VB4,Volleyball,4/2/2025,Knee,Lower Extremity,Right,Patellofemoral Pain Syndrome (PFPS),,Returned To Play As Tolerated,Isabella Bergeron,Volleyball,Fall,8/1/2025,12/1/2025,Out of Season,Early Offseason,1
-VB4,Volleyball,9/8/2025,Knee,Lower Extremity,Left,Patellofemoral Pain Syndrome (PFPS),,Returned To Play As Tolerated,Isabella Bergeron,Volleyball,Fall,8/1/2025,12/1/2025,In Season,Early-Mid,1
-WSOC15,Women's Soccer,9/8/2024,Lower Back,Torso,Bilateral,Soreness,,Returned To Play As Tolerated,Isabella Guzman,W Soccer,Fall,8/1/2024,12/1/2024,In Season,Early-Mid,1
-WBB31,Women's Basketball,9/19/2025,Thigh,Lower Extremity,,Strain,Hamstring (partial tear),Limited Activity,Isabelle McFadden,W Basketball,Winter,9/15/2025,3/31/2026,In Season,Early Season,1
+VB4,Volleyball,4/2/2025,Knee,Lower Extremity,Right,Patellofemoral Pain Syndrome (PFPS),NA,Returned To Play As Tolerated,Isabella Bergeron,Volleyball,Fall,8/1/2025,12/1/2025,Out of Season,Early Offseason,1
+VB4,Volleyball,9/8/2025,Knee,Lower Extremity,Left,Patellofemoral Pain Syndrome (PFPS),NA,Returned To Play As Tolerated,Isabella Bergeron,Volleyball,Fall,8/1/2025,12/1/2025,In Season,Early-Mid,1
+WSOC15,Women's Soccer,9/8/2024,Lower Back,Torso,Bilateral,Soreness,NA,Returned To Play As Tolerated,Isabella Guzman,W Soccer,Fall,8/1/2024,12/1/2024,In Season,Early-Mid,1
+WBB31,Women's Basketball,9/19/2025,Thigh,Lower Extremity,NA,Strain,Hamstring (partial tear),Limited Activity,Isabelle McFadden,W Basketball,Winter,9/15/2025,3/31/2026,In Season,Early Season,1
 WBB31,Women's Basketball,12/5/2025,Ankle,Lower Extremity,Left,Sprain,"Anterior Tibiofibular Ligament, Calcaneofibular, Post. Talofibular",Returned To Play and Closed,Isabelle McFadden,W Basketball,Winter,9/15/2025,3/31/2026,In Season,Early-Mid,1
 WLAX35,Women's Lacrosse,3/29/2025,Ankle,Lower Extremity,Left,Sprain,Anterior Talofibular,Returned To Play As Tolerated,J Henigan,W Lacrosse,Spring,1/1/2025,6/1/2025,In Season,Late-Mid,1
-MSD14,Men's Swimming & Diving,9/21/2023,Shoulder,Upper Extremity,Left,Thoracic Outlet Syndrome,,Returned To Play As Tolerated,Jack Curtin,M Swim,Winter,9/15/2023,3/31/2024,In Season,Early Season,1
-MLAX43,Men's Lacrosse,4/26/2025,Foot,Lower Extremity,Right,Contusion,,Returned To Play As Tolerated,Jack Hines,M Lacrosse,Spring,1/1/2025,6/1/2025,In Season,Late Season,1
-MSD15,Men's Swimming & Diving,1/18/2024,Shoulder,Upper Extremity,Right,Shoulder pain (finding),,Returned To Play As Tolerated,Jack Johnson,M Swim,Winter,9/15/2023,3/31/2024,In Season,Late-Mid,1
+MSD14,Men's Swimming & Diving,9/21/2023,Shoulder,Upper Extremity,Left,Thoracic Outlet Syndrome,NA,Returned To Play As Tolerated,Jack Curtin,M Swim,Winter,9/15/2023,3/31/2024,In Season,Early Season,1
+MLAX43,Men's Lacrosse,4/26/2025,Foot,Lower Extremity,Right,Contusion,NA,Returned To Play As Tolerated,Jack Hines,M Lacrosse,Spring,1/1/2025,6/1/2025,In Season,Late Season,1
+MSD15,Men's Swimming & Diving,1/18/2024,Shoulder,Upper Extremity,Right,Shoulder pain (finding),NA,Returned To Play As Tolerated,Jack Johnson,M Swim,Winter,9/15/2023,3/31/2024,In Season,Late-Mid,1
 BASEB55,Baseball,4/3/2025,Elbow,Upper Extremity,Right,Sprain,Ulnar Collateral Ligament (partial tear),Limited Activity,Jack Loughren,Baseball,Spring,1/1/2025,6/1/2025,In Season,Late-Mid,1
-BASEB15,Baseball,9/27/2023,Lower Back,Torso,Bilateral,Discomfort (finding),,Returned To Play and Closed,Jack Lutte,Baseball,Spring,1/1/2023,6/1/2023,Out of Season,Late Offseason,1
-BASEB15,Baseball,9/21/2024,Shoulder,Upper Extremity,Left,Contusion,,Limited Activity,Jack Lutte,Baseball,Spring,1/1/2024,6/1/2024,Out of Season,Late Offseason,1
-BASEB15,Baseball,8/1/2025,Lower Back,Torso,Midline,Chronic back pain (finding),,Returned To Play As Tolerated,Jack Lutte,Baseball,Spring,1/1/2025,6/1/2025,Out of Season,Late Offseason,1
-MLAX61,Men's Lacrosse,3/30/2025,Brain,Head,,Concussion,,Not Cleared,Jack Moellering,M Lacrosse,Spring,1/1/2025,6/1/2025,In Season,Late-Mid,1
-FB49,Football,4/7/2024,Thigh,Lower Extremity,Left,Strain,,Not Cleared,Jack O'Callaghan,Football,Fall,8/1/2024,12/1/2024,Out of Season,Early Offseason,0
-FB49,Football,8/31/2025,Knee,Lower Extremity,Left,Hyperextension,,Not Cleared,Jack O'Callaghan,Football,Fall,8/1/2025,12/1/2025,In Season,Early Season,1
-G26,Golf,2/2/2026,Forearm,Upper Extremity,Right,Inflammation,,Returned To Play As Tolerated,Jack Pelletier,Golf,Spring,1/1/2026,6/1/2026,In Season,Early Season,0
+BASEB15,Baseball,9/27/2023,Lower Back,Torso,Bilateral,Discomfort (finding),NA,Returned To Play and Closed,Jack Lutte,Baseball,Spring,1/1/2023,6/1/2023,Out of Season,Late Offseason,1
+BASEB15,Baseball,9/21/2024,Shoulder,Upper Extremity,Left,Contusion,NA,Limited Activity,Jack Lutte,Baseball,Spring,1/1/2024,6/1/2024,Out of Season,Late Offseason,1
+BASEB15,Baseball,8/1/2025,Lower Back,Torso,Midline,Chronic back pain (finding),NA,Returned To Play As Tolerated,Jack Lutte,Baseball,Spring,1/1/2025,6/1/2025,Out of Season,Late Offseason,1
+MLAX61,Men's Lacrosse,3/30/2025,Brain,Head,NA,Concussion,NA,Not Cleared,Jack Moellering,M Lacrosse,Spring,1/1/2025,6/1/2025,In Season,Late-Mid,1
+FB49,Football,4/7/2024,Thigh,Lower Extremity,Left,Strain,NA,Not Cleared,Jack O'Callaghan,Football,Fall,8/1/2024,12/1/2024,Out of Season,Early Offseason,0
+FB49,Football,8/31/2025,Knee,Lower Extremity,Left,Hyperextension,NA,Not Cleared,Jack O'Callaghan,Football,Fall,8/1/2025,12/1/2025,In Season,Early Season,1
+G26,Golf,2/2/2026,Forearm,Upper Extremity,Right,Inflammation,NA,Returned To Play As Tolerated,Jack Pelletier,Golf,Spring,1/1/2026,6/1/2026,In Season,Early Season,0
 MSOC1,Men's Soccer,4/4/2024,Foot,Lower Extremity,Left,Sprain,Ligaments Mid-foot,Returned To Play As Tolerated,Jack Rice,M Soccer,Fall,8/1/2024,12/1/2024,Out of Season,Early Offseason,0
-MSOC1,Men's Soccer,9/13/2024,Brain,Head,,Concussion,,Not Cleared,Jack Rice,M Soccer,Fall,8/1/2024,12/1/2024,In Season,Early-Mid,1
+MSOC1,Men's Soccer,9/13/2024,Brain,Head,NA,Concussion,NA,Not Cleared,Jack Rice,M Soccer,Fall,8/1/2024,12/1/2024,In Season,Early-Mid,1
 BASEB16,Baseball,9/13/2023,Ankle,Lower Extremity,Left,Sprain,Anterior Talofibular,Returned To Play and Closed,Jack Rollo,Baseball,Spring,1/1/2023,6/1/2023,Out of Season,Late Offseason,1
 BASEB16,Baseball,9/20/2025,Thigh,Lower Extremity,Right,Strain,"Rectus Femoris, Vastus Medialis",Returned To Play As Tolerated,Jack Rollo,Baseball,Spring,1/1/2025,6/1/2025,Out of Season,Late Offseason,1
-BASEB16,Baseball,2/23/2026,Elbow,Upper Extremity,Right,Pain in elbow (finding),,Limited Activity,Jack Rollo,Baseball,Spring,1/1/2026,6/1/2026,In Season,Early-Mid,0
+BASEB16,Baseball,2/23/2026,Elbow,Upper Extremity,Right,Pain in elbow (finding),NA,Limited Activity,Jack Rollo,Baseball,Spring,1/1/2026,6/1/2026,In Season,Early-Mid,0
 BASEB17,Baseball,10/22/2024,Thigh,Lower Extremity,Right,Strain,Semitendinosus,Returned To Play As Tolerated,Jack Steel,Baseball,Spring,1/1/2024,6/1/2024,Out of Season,Late Offseason,1
-BASEB17,Baseball,10/22/2024,Thigh,Lower Extremity,Right,Strain,Semimembranosus,Returned To Play As Tolerated,Jack Steel,Baseball,Spring,1/1/2024,6/1/2024,Out of Season,Late Offseason,0
 BASEB17,Baseball,3/1/2025,Thumb,Upper Extremity,Left,Sprain,DIP Joint,Returned To Play As Tolerated,Jack Steel,Baseball,Spring,1/1/2025,6/1/2025,In Season,Early-Mid,1
 BASEB17,Baseball,10/23/2025,Thigh,Lower Extremity,Left,Strain,Biceps Femoris,Returned To Play As Tolerated,Jack Steel,Baseball,Spring,1/1/2025,6/1/2025,Out of Season,Late Offseason,0
-MBB8,Men's Basketball,1/15/2024,Ankle,Lower Extremity,,Sprain,,Returned To Play and Closed,Jack Steinbach,M Basketball,Winter,9/15/2023,3/31/2024,In Season,Late-Mid,0
+MBB8,Men's Basketball,1/15/2024,Ankle,Lower Extremity,NA,Sprain,NA,Returned To Play and Closed,Jack Steinbach,M Basketball,Winter,9/15/2023,3/31/2024,In Season,Late-Mid,0
 MTE16,Men's Tennis,9/27/2024,Finger,Upper Extremity,Right,Dislocation,Thumb,Returned To Play As Tolerated,Jack Thompson,M Tennis,Spring,1/1/2024,6/1/2024,Out of Season,Late Offseason,1
-G10,Golf,4/2/2024,Knee,Lower Extremity,Left,Knee pain (finding),,Returned To Play As Tolerated,Jack Yurosek,Golf,Spring,1/1/2024,6/1/2024,In Season,Late-Mid,1
-MLAX4,Men's Lacrosse,2/5/2024,Infectious Disease,General Medical,,COVID-19,,Returned To Play and Closed,Jackson Erdmann,M Lacrosse,Spring,1/1/2024,6/1/2024,In Season,Early Season,0
+G10,Golf,4/2/2024,Knee,Lower Extremity,Left,Knee pain (finding),NA,Returned To Play As Tolerated,Jack Yurosek,Golf,Spring,1/1/2024,6/1/2024,In Season,Late-Mid,1
+MLAX4,Men's Lacrosse,2/5/2024,Infectious Disease,General Medical,NA,COVID-19,NA,Returned To Play and Closed,Jackson Erdmann,M Lacrosse,Spring,1/1/2024,6/1/2024,In Season,Early Season,0
 FB56,Football,11/6/2024,Knee,Lower Extremity,Left,Meniscus Tear,Medial Meniscus,Not Cleared,Jackson Moore,Football,Fall,8/1/2024,12/1/2024,In Season,Late Season,1
-FB94,Football,4/12/2025,Knee,Lower Extremity,Left,Knee pain (finding),,Limited Activity,Jackson Williams,Football,Fall,8/1/2025,12/1/2025,Out of Season,Early Offseason,1
-FB94,Football,11/8/2025,Knee,Lower Extremity,Right,Knee pain (finding),,Returned To Play and Closed,Jackson Williams,Football,Fall,8/1/2025,12/1/2025,In Season,Late Season,1
-MLAX54,Men's Lacrosse,9/11/2025,Abdomen,Torso,Left,Strain,,Returned To Play As Tolerated,Jacob Campen,M Lacrosse,Spring,1/1/2025,6/1/2025,Out of Season,Late Offseason,1
+FB94,Football,4/12/2025,Knee,Lower Extremity,Left,Knee pain (finding),NA,Limited Activity,Jackson Williams,Football,Fall,8/1/2025,12/1/2025,Out of Season,Early Offseason,1
+FB94,Football,11/8/2025,Knee,Lower Extremity,Right,Knee pain (finding),NA,Returned To Play and Closed,Jackson Williams,Football,Fall,8/1/2025,12/1/2025,In Season,Late Season,1
+MLAX54,Men's Lacrosse,9/11/2025,Abdomen,Torso,Left,Strain,NA,Returned To Play As Tolerated,Jacob Campen,M Lacrosse,Spring,1/1/2025,6/1/2025,Out of Season,Late Offseason,1
 SB12,Softball,10/3/2024,Hip,Lower Extremity,Right,Strain,Gluteus Maximus,Limited Activity,Jacqui Abogado,Softball,Spring,1/1/2024,6/1/2024,Out of Season,Late Offseason,1
 MLAX52,Men's Lacrosse,2/23/2026,Lower Leg,Lower Extremity,Left,Strain,Gastrocnemius,Not Cleared,Jaden Goodsell,M Lacrosse,Spring,1/1/2026,6/1/2026,In Season,Early-Mid,1
 BASEB19,Baseball,1/16/2024,Thigh,Lower Extremity,Right,Strain,Vastus Medialis,Returned To Play As Tolerated,Jake Blozy,Baseball,Spring,1/1/2024,6/1/2024,In Season,Early Season,0
 MSOC39,Men's Soccer,8/19/2025,Hip,Lower Extremity,Left,Strain,Adductor,Returned To Play As Tolerated,Jake Krikorian,M Soccer,Fall,8/1/2025,12/1/2025,In Season,Early Season,0
-MSOC20,Men's Soccer,4/3/2024,Thoracic Spine,Torso,Bilateral,Spasm,,Returned To Play As Tolerated,Jake Krueger,M Soccer,Fall,8/1/2024,12/1/2024,Out of Season,Early Offseason,0
-FB113,Football,8/17/2024,Lower Leg,Lower Extremity,Right,Fracture,,Not Cleared,Jake Leverone,Football,Fall,8/1/2024,12/1/2024,In Season,Early Season,0
+MSOC20,Men's Soccer,4/3/2024,Thoracic Spine,Torso,Bilateral,Spasm,NA,Returned To Play As Tolerated,Jake Krueger,M Soccer,Fall,8/1/2024,12/1/2024,Out of Season,Early Offseason,0
+FB113,Football,8/17/2024,Lower Leg,Lower Extremity,Right,Fracture,NA,Not Cleared,Jake Leverone,Football,Fall,8/1/2024,12/1/2024,In Season,Early Season,0
 MTE10,Men's Tennis,9/16/2025,Elbow,Upper Extremity,Right,Tendinitis,Triceps,Returned To Play As Tolerated,Jake Patterson,M Tennis,Spring,1/1/2025,6/1/2025,Out of Season,Late Offseason,0
-MSOC34,Men's Soccer,9/9/2025,Shoulder,Upper Extremity,Left,Subluxation,,Returned To Play As Tolerated,James Kropp,M Soccer,Fall,8/1/2025,12/1/2025,In Season,Early-Mid,0
+MSOC34,Men's Soccer,9/9/2025,Shoulder,Upper Extremity,Left,Subluxation,NA,Returned To Play As Tolerated,James Kropp,M Soccer,Fall,8/1/2025,12/1/2025,In Season,Early-Mid,0
 MSD16,Men's Swimming & Diving,10/3/2023,Hip,Lower Extremity,Left,Strain,Iliopsoas,Returned To Play As Tolerated,James Pastore,M Swim,Winter,9/15/2023,3/31/2024,In Season,Early Season,0
-WBB25,Women's Basketball,10/2/2024,Cervical Segment,Neck,Right,Spasm,,Returned To Play and Closed,Jamie Elliot,W Basketball,Winter,9/15/2024,3/31/2025,In Season,Early Season,0
-WLAX22,Women's Lacrosse,4/9/2025,Knee,Lower Extremity,Right,Patellofemoral Pain Syndrome (PFPS),,Returned To Play and Closed,Jamie Epstein,W Lacrosse,Spring,1/1/2025,6/1/2025,In Season,Late-Mid,0
-WLAX22,Women's Lacrosse,10/30/2025,Thoracic Spine,Torso,,Discomfort (finding),,Returned To Play As Tolerated,Jamie Epstein,W Lacrosse,Spring,1/1/2025,6/1/2025,Out of Season,Late Offseason,1
-FB134,Football,9/26/2024,Hip,Lower Extremity,,Strain,,Limited Activity,Jared Smith,Football,Fall,8/1/2024,12/1/2024,In Season,Early-Mid,1
-FH26,Field Hockey,10/29/2025,Brain,Head,,Concussion,,Not Cleared,Jasmijn van Wijk,Field Hockey,Fall,8/1/2025,12/1/2025,In Season,Late-Mid,0
-WSD17,Women's Swimming & Diving,1/1/2025,Shoulder,Upper Extremity,Right,Impingement,,Returned To Play As Tolerated,Jassy Park,W Swim,Winter,9/15/2024,3/31/2025,In Season,Late-Mid,0
-MBB9,Men's Basketball,11/1/2023,Abdomen,Torso,,Strain,,Not Cleared,Jay Jackson,M Basketball,Winter,9/15/2023,3/31/2024,In Season,Early Season,0
+WBB25,Women's Basketball,10/2/2024,Cervical Segment,Neck,Right,Spasm,NA,Returned To Play and Closed,Jamie Elliot,W Basketball,Winter,9/15/2024,3/31/2025,In Season,Early Season,0
+WLAX22,Women's Lacrosse,4/9/2025,Knee,Lower Extremity,Right,Patellofemoral Pain Syndrome (PFPS),NA,Returned To Play and Closed,Jamie Epstein,W Lacrosse,Spring,1/1/2025,6/1/2025,In Season,Late-Mid,0
+WLAX22,Women's Lacrosse,10/30/2025,Thoracic Spine,Torso,NA,Discomfort (finding),NA,Returned To Play As Tolerated,Jamie Epstein,W Lacrosse,Spring,1/1/2025,6/1/2025,Out of Season,Late Offseason,1
+FB134,Football,9/26/2024,Hip,Lower Extremity,NA,Strain,NA,Limited Activity,Jared Smith,Football,Fall,8/1/2024,12/1/2024,In Season,Early-Mid,1
+FH26,Field Hockey,10/29/2025,Brain,Head,NA,Concussion,NA,Not Cleared,Jasmijn van Wijk,Field Hockey,Fall,8/1/2025,12/1/2025,In Season,Late-Mid,0
+WSD17,Women's Swimming & Diving,1/1/2025,Shoulder,Upper Extremity,Right,Impingement,NA,Returned To Play As Tolerated,Jassy Park,W Swim,Winter,9/15/2024,3/31/2025,In Season,Late-Mid,0
+MBB9,Men's Basketball,11/1/2023,Abdomen,Torso,NA,Strain,NA,Not Cleared,Jay Jackson,M Basketball,Winter,9/15/2023,3/31/2024,In Season,Early Season,0
 MBB9,Men's Basketball,2/7/2024,Shoulder,Upper Extremity,Left,Strain,Supraspinatus,Returned To Play As Tolerated,Jay Jackson,M Basketball,Winter,9/15/2023,3/31/2024,In Season,Late-Mid,1
 MBB9,Men's Basketball,10/16/2024,Finger,Upper Extremity,Left,Fracture,5th Middle Phalanx,Limited Activity,Jay Jackson,M Basketball,Winter,9/15/2024,3/31/2025,In Season,Early Season,1
-FB64,Football,8/10/2023,Shoulder,Upper Extremity,Left,Other Shoulder Injury,,Not Cleared,Jesse Kaminskas,Football,Fall,8/1/2023,12/1/2023,In Season,Early Season,1
-G11,Golf,9/17/2023,Shoulder,Upper Extremity,Left,Inflammation,,Returned To Play and Closed,Johnny Yavari,Golf,Spring,1/1/2023,6/1/2023,Out of Season,Late Offseason,1
-G11,Golf,9/17/2023,Elbow,Upper Extremity,Right,Medial Epicondylitis (Golfer's Elbow),,Returned To Play and Closed,Johnny Yavari,Golf,Spring,1/1/2023,6/1/2023,Out of Season,Late Offseason,1
-G11,Golf,3/17/2024,Abdomen,Torso,,Appendicitis,,Not Cleared,Johnny Yavari,Golf,Spring,1/1/2024,6/1/2024,In Season,Early-Mid,1
+FB64,Football,8/10/2023,Shoulder,Upper Extremity,Left,Other Shoulder Injury,NA,Not Cleared,Jesse Kaminskas,Football,Fall,8/1/2023,12/1/2023,In Season,Early Season,1
+G11,Golf,9/17/2023,Shoulder,Upper Extremity,Left,Inflammation,NA,Returned To Play and Closed,Johnny Yavari,Golf,Spring,1/1/2023,6/1/2023,Out of Season,Late Offseason,1
+G11,Golf,3/17/2024,Abdomen,Torso,NA,Appendicitis,NA,Not Cleared,Johnny Yavari,Golf,Spring,1/1/2024,6/1/2024,In Season,Early-Mid,1
 G11,Golf,10/18/2024,Wrist,Upper Extremity,Right,Sprain,Transverse carpal,Returned To Play As Tolerated,Johnny Yavari,Golf,Spring,1/1/2024,6/1/2024,Out of Season,Late Offseason,1
-FB3,Football,10/6/2024,Shoulder,Upper Extremity,Left,Fracture,,Not Cleared,Jonathon Hallett,Football,Fall,8/1/2024,12/1/2024,In Season,Late-Mid,1
+FB3,Football,10/6/2024,Shoulder,Upper Extremity,Left,Fracture,NA,Not Cleared,Jonathon Hallett,Football,Fall,8/1/2024,12/1/2024,In Season,Late-Mid,1
 FB3,Football,4/12/2025,Knee,Lower Extremity,Left,Sprain,Medial Collateral Ligament,Returned To Play As Tolerated,Jonathon Hallett,Football,Fall,8/1/2025,12/1/2025,Out of Season,Early Offseason,1
 FB3,Football,10/1/2025,Ankle,Lower Extremity,Right,Sprain,"Anterior Talofibular, Calcaneofibular",Returned To Play and Closed,Jonathon Hallett,Football,Fall,8/1/2025,12/1/2025,In Season,Early-Mid,1
-FB23,Football,10/18/2025,Brain,Head,Does Not Apply,Concussion,,Returned To Play and Closed,Jonathon Higle,Football,Fall,8/1/2025,12/1/2025,In Season,Late-Mid,1
+FB23,Football,10/18/2025,Brain,Head,Does Not Apply,Concussion,NA,Returned To Play and Closed,Jonathon Higle,Football,Fall,8/1/2025,12/1/2025,In Season,Late-Mid,1
 SB13,Softball,4/5/2024,Shoulder,Upper Extremity,Right,Strain,General Rotator Cuff,Returned To Play As Tolerated,Jordyn Maurer,Softball,Spring,1/1/2024,6/1/2024,In Season,Late-Mid,0
 SB13,Softball,10/23/2024,Thigh,Lower Extremity,Left,Strain,Rectus Femoris,Returned To Play As Tolerated,Jordyn Maurer,Softball,Spring,1/1/2024,6/1/2024,Out of Season,Late Offseason,1
-MSD47,Men's Swimming & Diving,9/5/2024,Elbow,Upper Extremity,Right,Medial Epicondylitis (Golfer's Elbow),,Limited Activity,Josh Song,M Swim,Winter,9/15/2024,3/31/2025,Out of Season,Early Offseason,1
-WLAX46,Women's Lacrosse,3/1/2025,Lower Leg,Lower Extremity,Left,Stress Fracture,,Not Cleared,Josie Pruss,W Lacrosse,Spring,1/1/2025,6/1/2025,In Season,Early-Mid,1
-MSOC37,Men's Soccer,10/18/2025,Thigh,Lower Extremity,,Strain,Biceps Femoris,Returned To Play and Closed,Julian Bozzolo,M Soccer,Fall,8/1/2025,12/1/2025,In Season,Late-Mid,1
+MSD47,Men's Swimming & Diving,9/5/2024,Elbow,Upper Extremity,Right,Medial Epicondylitis (Golfer's Elbow),NA,Limited Activity,Josh Song,M Swim,Winter,9/15/2024,3/31/2025,Out of Season,Early Offseason,1
+WLAX46,Women's Lacrosse,3/1/2025,Lower Leg,Lower Extremity,Left,Stress Fracture,NA,Not Cleared,Josie Pruss,W Lacrosse,Spring,1/1/2025,6/1/2025,In Season,Early-Mid,1
+MSOC37,Men's Soccer,10/18/2025,Thigh,Lower Extremity,NA,Strain,Biceps Femoris,Returned To Play and Closed,Julian Bozzolo,M Soccer,Fall,8/1/2025,12/1/2025,In Season,Late-Mid,1
 MSOC37,Men's Soccer,10/25/2025,Thigh,Lower Extremity,Left,Strain,Biceps Femoris,Limited Activity,Julian Bozzolo,M Soccer,Fall,8/1/2025,12/1/2025,In Season,Late-Mid,1
-MSOC8,Men's Soccer,9/30/2023,Lower Leg,Lower Extremity,Right,Sprain,,Limited Activity,Justin Crow,M Soccer,Fall,8/1/2023,12/1/2023,In Season,Early-Mid,1
-MSOC8,Men's Soccer,12/5/2023,Hip,Lower Extremity,,Tightness,,Returned To Play As Tolerated,Justin Crow,M Soccer,Fall,8/1/2023,12/1/2023,Out of Season,Late Offseason,1
+MSOC8,Men's Soccer,9/30/2023,Lower Leg,Lower Extremity,Right,Sprain,NA,Limited Activity,Justin Crow,M Soccer,Fall,8/1/2023,12/1/2023,In Season,Early-Mid,1
+MSOC8,Men's Soccer,12/5/2023,Hip,Lower Extremity,NA,Tightness,NA,Returned To Play As Tolerated,Justin Crow,M Soccer,Fall,8/1/2023,12/1/2023,Out of Season,Late Offseason,1
 MSOC8,Men's Soccer,9/10/2025,Thigh,Lower Extremity,Right,Strain,Hamstring (partial tear),Returned To Play As Tolerated,Justin Crow,M Soccer,Fall,8/1/2025,12/1/2025,In Season,Early-Mid,1
 BASEB22,Baseball,9/1/2025,Knee,Lower Extremity,Left,Meniscus Tear,Lateral Meniscus,Returned To Play As Tolerated,Kade Keown,Baseball,Spring,1/1/2025,6/1/2025,Out of Season,Late Offseason,1
 MSOC29,Men's Soccer,1/17/2025,Ankle,Lower Extremity,Left,Sprain,Anterior Talofibular,Returned To Play As Tolerated,Kaden Kist,M Soccer,Fall,8/1/2025,12/1/2025,Out of Season,Early Offseason,1
-MTE13,Men's Tennis,1/23/2024,Abdomen,Torso,Left,Strain,,Returned To Play As Tolerated,Kael Shah,M Tennis,Spring,1/1/2024,6/1/2024,In Season,Early Season,1
+MTE13,Men's Tennis,1/23/2024,Abdomen,Torso,Left,Strain,NA,Returned To Play As Tolerated,Kael Shah,M Tennis,Spring,1/1/2024,6/1/2024,In Season,Early Season,1
 MSOC14,Men's Soccer,11/10/2024,Abdomen,Torso,Left,Strain,Internal Oblique,Returned To Play As Tolerated,Kameron Kist,M Soccer,Fall,8/1/2024,12/1/2024,In Season,Late Season,1
 MSOC14,Men's Soccer,1/30/2025,Knee,Lower Extremity,Left,Meniscus Tear,Lateral Meniscus,Limited Activity,Kameron Kist,M Soccer,Fall,8/1/2025,12/1/2025,Out of Season,Early Offseason,1
-WSOC17,Women's Soccer,9/3/2024,Toes,Lower Extremity,Right,Complaining of pain in toe (finding),,Returned To Play As Tolerated,Kate Dalimonte,W Soccer,Fall,8/1/2024,12/1/2024,In Season,Early-Mid,1
-VB13,Volleyball,8/18/2023,Wrist,Upper Extremity,Left,Triangular Fibrocartilage Complex Tear,,Returned To Play As Tolerated,Kate Sicklick,Volleyball,Fall,8/1/2023,12/1/2023,In Season,Early Season,1
-VB13,Volleyball,9/16/2024,Lower Back,Torso,Right,Sprain,,Returned To Play As Tolerated,Kate Sicklick,Volleyball,Fall,8/1/2024,12/1/2024,In Season,Early-Mid,1
-VB7,Volleyball,9/2/2024,Shoulder,Upper Extremity,Left,Other Shoulder Injury,,Returned To Play and Closed,Katelyn Chiu,Volleyball,Fall,8/1/2024,12/1/2024,In Season,Early-Mid,1
-FH7,Field Hockey,8/22/2024,Hip,Lower Extremity,,Tightness,,Returned To Play and Closed,Katherine Flanagan,Field Hockey,Fall,8/1/2024,12/1/2024,In Season,Early Season,0
+WSOC17,Women's Soccer,9/3/2024,Toes,Lower Extremity,Right,Complaining of pain in toe (finding),NA,Returned To Play As Tolerated,Kate Dalimonte,W Soccer,Fall,8/1/2024,12/1/2024,In Season,Early-Mid,1
+VB13,Volleyball,8/18/2023,Wrist,Upper Extremity,Left,Triangular Fibrocartilage Complex Tear,NA,Returned To Play As Tolerated,Kate Sicklick,Volleyball,Fall,8/1/2023,12/1/2023,In Season,Early Season,1
+VB13,Volleyball,9/16/2024,Lower Back,Torso,Right,Sprain,NA,Returned To Play As Tolerated,Kate Sicklick,Volleyball,Fall,8/1/2024,12/1/2024,In Season,Early-Mid,1
+VB7,Volleyball,9/2/2024,Shoulder,Upper Extremity,Left,Other Shoulder Injury,NA,Returned To Play and Closed,Katelyn Chiu,Volleyball,Fall,8/1/2024,12/1/2024,In Season,Early-Mid,1
+FH7,Field Hockey,8/22/2024,Hip,Lower Extremity,NA,Tightness,NA,Returned To Play and Closed,Katherine Flanagan,Field Hockey,Fall,8/1/2024,12/1/2024,In Season,Early Season,0
 VB16,Volleyball,8/22/2024,Knee,Lower Extremity,Right,Contusion,Lat. Femoral Condyle,Returned To Play As Tolerated,Kathryn McCaffrey,Volleyball,Fall,8/1/2024,12/1/2024,In Season,Early Season,1
-VB16,Volleyball,8/22/2024,Knee,Lower Extremity,Right,Contusion,Lat. Tibial Plateau,Returned To Play As Tolerated,Kathryn McCaffrey,Volleyball,Fall,8/1/2024,12/1/2024,In Season,Early Season,0
-VB16,Volleyball,8/22/2024,Knee,Lower Extremity,Right,Contusion,Fibula head,Returned To Play As Tolerated,Kathryn McCaffrey,Volleyball,Fall,8/1/2024,12/1/2024,In Season,Early Season,1
-VB16,Volleyball,9/11/2024,Brain,Head,Does Not Apply,Concussion,,Returned To Play and Closed,Kathryn McCaffrey,Volleyball,Fall,8/1/2024,12/1/2024,In Season,Early-Mid,0
-VB16,Volleyball,9/21/2025,Brain,Head,Does Not Apply,Concussion,,Not Cleared,Kathryn McCaffrey,Volleyball,Fall,8/1/2025,12/1/2025,In Season,Early-Mid,0
-WSD42,Women's Swimming & Diving,11/13/2024,Lower Back,Torso,,Chronic back pain (finding),,Returned To Play As Tolerated,Kayla Tehrani,W Swim,Winter,9/15/2024,3/31/2025,In Season,Early-Mid,0
+VB16,Volleyball,9/11/2024,Brain,Head,Does Not Apply,Concussion,NA,Returned To Play and Closed,Kathryn McCaffrey,Volleyball,Fall,8/1/2024,12/1/2024,In Season,Early-Mid,0
+VB16,Volleyball,9/21/2025,Brain,Head,Does Not Apply,Concussion,NA,Not Cleared,Kathryn McCaffrey,Volleyball,Fall,8/1/2025,12/1/2025,In Season,Early-Mid,0
+WSD42,Women's Swimming & Diving,11/13/2024,Lower Back,Torso,NA,Chronic back pain (finding),NA,Returned To Play As Tolerated,Kayla Tehrani,W Swim,Winter,9/15/2024,3/31/2025,In Season,Early-Mid,0
 WSD42,Women's Swimming & Diving,1/14/2025,Ankle,Lower Extremity,Left,Strain,Tibialis Posterior,Returned To Play As Tolerated,Kayla Tehrani,W Swim,Winter,9/15/2024,3/31/2025,In Season,Late-Mid,1
-WLAX47,Women's Lacrosse,10/15/2024,Brain,Head,,Concussion,,Not Cleared,Kaylyn Kirrane,W Lacrosse,Spring,1/1/2024,6/1/2024,Out of Season,Late Offseason,1
+WLAX47,Women's Lacrosse,10/15/2024,Brain,Head,NA,Concussion,NA,Not Cleared,Kaylyn Kirrane,W Lacrosse,Spring,1/1/2024,6/1/2024,Out of Season,Late Offseason,1
 WLAX47,Women's Lacrosse,3/8/2025,Thigh,Lower Extremity,Right,Strain,"Adductor Brevis, Adductor Longus, Adductor Magnus",Not Cleared,Kaylyn Kirrane,W Lacrosse,Spring,1/1/2025,6/1/2025,In Season,Early-Mid,1
 WSOC9,Women's Soccer,8/22/2025,Thigh,Lower Extremity,Right,Strain,Rectus Femoris,Limited Activity,Keaton Rahman,W Soccer,Fall,8/1/2025,12/1/2025,In Season,Early Season,1
 MBB10,Men's Basketball,11/2/2024,Thigh,Lower Extremity,Left,Strain,Quadricep (partial tear),Returned To Play and Closed,Kellon Smith,M Basketball,Winter,9/15/2024,3/31/2025,In Season,Early Season,1
 WSOC14,Women's Soccer,11/2/2023,Knee,Lower Extremity,Left,Discomfort (finding),NA,-,Kendall Sierens,W Soccer,Fall,8/1/2023,12/1/2023,In Season,Late Season,0
 WSOC14,Women's Soccer,9/23/2024,Knee,Lower Extremity,Left,Partial tear (morphologic abnormality),Anterior Cruciate Ligament,Not Cleared,Kendall Sierens,W Soccer,Fall,8/1/2024,12/1/2024,In Season,Early-Mid,1
-MSD50,Men's Swimming & Diving,9/5/2024,Shoulder,Upper Extremity,Left,Shoulder pain (finding),,Returned To Play As Tolerated,Kenny You,M Swim,Winter,9/15/2024,3/31/2025,Out of Season,Early Offseason,1
-MSD50,Men's Swimming & Diving,11/7/2024,Knee,Lower Extremity,Right,Tendinosis (finding),,Returned To Play and Closed,Kenny You,M Swim,Winter,9/15/2024,3/31/2025,In Season,Early-Mid,1
-WSD21,Women's Swimming & Diving,11/19/2024,Lumbar Spine,Torso,,Herniation,,Returned To Play As Tolerated,Kerstyn Johnson,W Swim,Winter,9/15/2024,3/31/2025,In Season,Early-Mid,1
+MSD50,Men's Swimming & Diving,9/5/2024,Shoulder,Upper Extremity,Left,Shoulder pain (finding),NA,Returned To Play As Tolerated,Kenny You,M Swim,Winter,9/15/2024,3/31/2025,Out of Season,Early Offseason,1
+MSD50,Men's Swimming & Diving,11/7/2024,Knee,Lower Extremity,Right,Tendinosis (finding),NA,Returned To Play and Closed,Kenny You,M Swim,Winter,9/15/2024,3/31/2025,In Season,Early-Mid,1
+WSD21,Women's Swimming & Diving,11/19/2024,Lumbar Spine,Torso,NA,Herniation,NA,Returned To Play As Tolerated,Kerstyn Johnson,W Swim,Winter,9/15/2024,3/31/2025,In Season,Early-Mid,1
 MLAX49,Men's Lacrosse,2/14/2026,Ankle,Lower Extremity,Left,Sprain,Anterior Tibiofibular Ligament,Returned To Play As Tolerated,Kevin Berutich,M Lacrosse,Spring,1/1/2026,6/1/2026,In Season,Early-Mid,1
 FB76,Football,9/28/2023,Knee,Lower Extremity,Right,Rupture,Anterior Cruciate Ligament,Waiting For Assessment,Kevin Stone,Football,Fall,8/1/2023,12/1/2023,In Season,Early-Mid,1
-MLAX56,Men's Lacrosse,9/18/2025,Thigh,Lower Extremity,Right,Strain,,Returned To Play As Tolerated,Khari Freeman,M Lacrosse,Spring,1/1/2025,6/1/2025,Out of Season,Late Offseason,0
-FH8,Field Hockey,10/28/2023,Brain,Head,,Concussion,,Not Cleared,Kristin Kelley,Field Hockey,Fall,8/1/2023,12/1/2023,In Season,Late-Mid,1
-FH8,Field Hockey,8/22/2024,Hip,Lower Extremity,Bilateral,Hip pain (finding),,Returned To Play As Tolerated,Kristin Kelley,Field Hockey,Fall,8/1/2024,12/1/2024,In Season,Early Season,1
-FH8,Field Hockey,9/7/2024,Brain,Head,,Concussion,,Returned To Play and Closed,Kristin Kelley,Field Hockey,Fall,8/1/2024,12/1/2024,In Season,Early-Mid,0
+MLAX56,Men's Lacrosse,9/18/2025,Thigh,Lower Extremity,Right,Strain,NA,Returned To Play As Tolerated,Khari Freeman,M Lacrosse,Spring,1/1/2025,6/1/2025,Out of Season,Late Offseason,0
+FH8,Field Hockey,10/28/2023,Brain,Head,NA,Concussion,NA,Not Cleared,Kristin Kelley,Field Hockey,Fall,8/1/2023,12/1/2023,In Season,Late-Mid,1
+FH8,Field Hockey,8/22/2024,Hip,Lower Extremity,Bilateral,Hip pain (finding),NA,Returned To Play As Tolerated,Kristin Kelley,Field Hockey,Fall,8/1/2024,12/1/2024,In Season,Early Season,1
+FH8,Field Hockey,9/7/2024,Brain,Head,NA,Concussion,NA,Returned To Play and Closed,Kristin Kelley,Field Hockey,Fall,8/1/2024,12/1/2024,In Season,Early-Mid,0
 MSOC15,Men's Soccer,8/27/2024,Knee,Lower Extremity,Left,Sprain,Anterior Cruciate Ligament,Not Cleared,Kurby Brown,M Soccer,Fall,8/1/2024,12/1/2024,In Season,Early Season,1
 BASEB23,Baseball,9/7/2023,Elbow,Upper Extremity,Right,Sprain,Ulnar Collateral Ligament (partial tear),Returned To Play As Tolerated,Kuyper Lashutka,Baseball,Spring,1/1/2023,6/1/2023,Out of Season,Late Offseason,1
 BASEB23,Baseball,11/10/2023,Thigh,Lower Extremity,Right,Strain,NA,-,Kuyper Lashutka,Baseball,Spring,1/1/2023,6/1/2023,Out of Season,Late Offseason,1
-MTE8,Men's Tennis,1/24/2024,Elbow,Upper Extremity,Right,Epicondylitis,,Limited Activity,Kyle Patrick,M Tennis,Spring,1/1/2024,6/1/2024,In Season,Early Season,1
-FB139,Football,9/10/2025,Knee,Lower Extremity,Right,Meniscus Tear,,Not Cleared,Kyler Coe,Football,Fall,8/1/2025,12/1/2025,In Season,Early-Mid,1
-G29,Golf,10/23/2025,Lower Back,Torso,Midline,Other,,Returned To Play As Tolerated,Lai Kei Wang,Golf,Spring,1/1/2025,6/1/2025,Out of Season,Late Offseason,1
-WSOC1,Women's Soccer,4/16/2024,Thigh,Lower Extremity,Right,Strain,,Returned To Play As Tolerated,Lauren Jensen,W Soccer,Fall,8/1/2024,12/1/2024,Out of Season,Early Offseason,1
-WSOC1,Women's Soccer,9/8/2024,Brain,Head,Does Not Apply,Concussion,,Returned To Play and Closed,Lauren Jensen,W Soccer,Fall,8/1/2024,12/1/2024,In Season,Early-Mid,1
+MTE8,Men's Tennis,1/24/2024,Elbow,Upper Extremity,Right,Epicondylitis,NA,Limited Activity,Kyle Patrick,M Tennis,Spring,1/1/2024,6/1/2024,In Season,Early Season,1
+FB139,Football,9/10/2025,Knee,Lower Extremity,Right,Meniscus Tear,NA,Not Cleared,Kyler Coe,Football,Fall,8/1/2025,12/1/2025,In Season,Early-Mid,1
+G29,Golf,10/23/2025,Lower Back,Torso,Midline,Other,NA,Returned To Play As Tolerated,Lai Kei Wang,Golf,Spring,1/1/2025,6/1/2025,Out of Season,Late Offseason,1
+WSOC1,Women's Soccer,4/16/2024,Thigh,Lower Extremity,Right,Strain,NA,Returned To Play As Tolerated,Lauren Jensen,W Soccer,Fall,8/1/2024,12/1/2024,Out of Season,Early Offseason,1
+WSOC1,Women's Soccer,9/8/2024,Brain,Head,Does Not Apply,Concussion,NA,Returned To Play and Closed,Lauren Jensen,W Soccer,Fall,8/1/2024,12/1/2024,In Season,Early-Mid,1
 WSOC1,Women's Soccer,10/16/2024,Knee,Lower Extremity,Right,Subluxation,Patella,Not Cleared,Lauren Jensen,W Soccer,Fall,8/1/2024,12/1/2024,In Season,Late-Mid,1
-FH18,Field Hockey,8/19/2024,Thigh,Lower Extremity,Left,Tightness,,Returned To Play and Closed,Lauren Proicou,Field Hockey,Fall,8/1/2024,12/1/2024,In Season,Early Season,1
-FH18,Field Hockey,10/24/2024,Knee,Lower Extremity,Left,Knee pain (finding),,Returned To Play As Tolerated,Lauren Proicou,Field Hockey,Fall,8/1/2024,12/1/2024,In Season,Late-Mid,1
-FH18,Field Hockey,11/4/2024,Finger,Upper Extremity,Right,Contusion,,Returned To Play and Closed,Lauren Proicou,Field Hockey,Fall,8/1/2024,12/1/2024,In Season,Late Season,1
-FH18,Field Hockey,11/4/2024,Knee,Lower Extremity,Left,Rupture,Anterior Cruciate Ligament,Not Cleared,Lauren Proicou,Field Hockey,Fall,8/1/2024,12/1/2024,In Season,Late Season,0
+FH18,Field Hockey,8/19/2024,Thigh,Lower Extremity,Left,Tightness,NA,Returned To Play and Closed,Lauren Proicou,Field Hockey,Fall,8/1/2024,12/1/2024,In Season,Early Season,1
+FH18,Field Hockey,10/24/2024,Knee,Lower Extremity,Left,Knee pain (finding),NA,Returned To Play As Tolerated,Lauren Proicou,Field Hockey,Fall,8/1/2024,12/1/2024,In Season,Late-Mid,1
+FH18,Field Hockey,11/4/2024,Finger,Upper Extremity,Right,Contusion,NA,Returned To Play and Closed,Lauren Proicou,Field Hockey,Fall,8/1/2024,12/1/2024,In Season,Late Season,1
 MLAX41,Men's Lacrosse,1/26/2024,Ankle,Lower Extremity,Left,Strain,Tibialis Posterior,Returned To Play As Tolerated,Lawton Corrigan,M Lacrosse,Spring,1/1/2024,6/1/2024,In Season,Early Season,0
 SB14,Softball,4/21/2025,Knee,Lower Extremity,Right,Tendinitis,Patella Tendon,Long Term Injury/Status Unknown - Closed,Leilah Ferrari,Softball,Spring,1/1/2025,6/1/2025,In Season,Late-Mid,0
-SB14,Softball,9/19/2025,Shoulder,Upper Extremity,Right,Impingement,,Returned To Play As Tolerated,Leilah Ferrari,Softball,Spring,1/1/2025,6/1/2025,Out of Season,Late Offseason,0
-WTE5,Women's Tennis,1/12/2024,Shoulder,Upper Extremity,Right,Glenoid Labrum Tear (SLAP),,Returned To Play and Closed,Lexi McCall,W Tennis,Spring,1/1/2024,6/1/2024,In Season,Early Season,0
-MLAX23,Men's Lacrosse,5/3/2025,Brain,Head,,Concussion,,Returned To Play and Closed,Liam Gillard,M Lacrosse,Spring,1/1/2025,6/1/2025,In Season,Late Season,1
+SB14,Softball,9/19/2025,Shoulder,Upper Extremity,Right,Impingement,NA,Returned To Play As Tolerated,Leilah Ferrari,Softball,Spring,1/1/2025,6/1/2025,Out of Season,Late Offseason,0
+WTE5,Women's Tennis,1/12/2024,Shoulder,Upper Extremity,Right,Glenoid Labrum Tear (SLAP),NA,Returned To Play and Closed,Lexi McCall,W Tennis,Spring,1/1/2024,6/1/2024,In Season,Early Season,0
+MLAX23,Men's Lacrosse,5/3/2025,Brain,Head,NA,Concussion,NA,Returned To Play and Closed,Liam Gillard,M Lacrosse,Spring,1/1/2025,6/1/2025,In Season,Late Season,1
 FB105,Football,9/10/2023,Shoulder,Upper Extremity,Left,Strain,General Rotator Cuff,Returned To Play As Tolerated,Liam Mendham,Football,Fall,8/1/2023,12/1/2023,In Season,Early-Mid,1
-FB105,Football,8/17/2025,Knee,Lower Extremity,Right,Fat Pad Syndrome,,Returned To Play As Tolerated,Liam Mendham,Football,Fall,8/1/2025,12/1/2025,In Season,Early Season,1
-MSD19,Men's Swimming & Diving,8/31/2023,Hip,Lower Extremity,Bilateral,Tightness,,Returned To Play As Tolerated,Liam Nelson,M Swim,Winter,9/15/2023,3/31/2024,Out of Season,Early Offseason,1
-MSD19,Men's Swimming & Diving,12/7/2023,Shoulder,Upper Extremity,,Shoulder pain (finding),,Returned To Play As Tolerated,Liam Nelson,M Swim,Winter,9/15/2023,3/31/2024,In Season,Early-Mid,1
-MSD19,Men's Swimming & Diving,2/18/2026,Shoulder,Upper Extremity,Left,Inflammation,,Returned To Play As Tolerated,Liam Nelson,M Swim,Winter,9/15/2025,3/31/2026,In Season,Late Season,1
-FB127,Football,8/16/2025,Brain,Head,,Concussion,,Returned To Play and Closed,Liam Smith,Football,Fall,8/1/2025,12/1/2025,In Season,Early Season,1
-MSOC9,Men's Soccer,9/1/2023,Lower Leg,Lower Extremity,Right,Stress Reaction,,Limited Activity,Liam Walsh,M Soccer,Fall,8/1/2023,12/1/2023,In Season,Early-Mid,1
+FB105,Football,8/17/2025,Knee,Lower Extremity,Right,Fat Pad Syndrome,NA,Returned To Play As Tolerated,Liam Mendham,Football,Fall,8/1/2025,12/1/2025,In Season,Early Season,1
+MSD19,Men's Swimming & Diving,8/31/2023,Hip,Lower Extremity,Bilateral,Tightness,NA,Returned To Play As Tolerated,Liam Nelson,M Swim,Winter,9/15/2023,3/31/2024,Out of Season,Early Offseason,1
+MSD19,Men's Swimming & Diving,12/7/2023,Shoulder,Upper Extremity,NA,Shoulder pain (finding),NA,Returned To Play As Tolerated,Liam Nelson,M Swim,Winter,9/15/2023,3/31/2024,In Season,Early-Mid,1
+MSD19,Men's Swimming & Diving,2/18/2026,Shoulder,Upper Extremity,Left,Inflammation,NA,Returned To Play As Tolerated,Liam Nelson,M Swim,Winter,9/15/2025,3/31/2026,In Season,Late Season,1
+FB127,Football,8/16/2025,Brain,Head,NA,Concussion,NA,Returned To Play and Closed,Liam Smith,Football,Fall,8/1/2025,12/1/2025,In Season,Early Season,1
+MSOC9,Men's Soccer,9/1/2023,Lower Leg,Lower Extremity,Right,Stress Reaction,NA,Limited Activity,Liam Walsh,M Soccer,Fall,8/1/2023,12/1/2023,In Season,Early-Mid,1
 MSOC9,Men's Soccer,8/17/2024,Thigh,Lower Extremity,Right,Contusion,Lateral Condyle Femur,Limited Activity,Liam Walsh,M Soccer,Fall,8/1/2024,12/1/2024,In Season,Early Season,1
-SB24,Softball,2/12/2026,Ankle,Lower Extremity,Right,Sprain,,Returned To Play As Tolerated,Liana Su,Softball,Spring,1/1/2026,6/1/2026,In Season,Early-Mid,1
-FH9,Field Hockey,12/6/2023,Lower Back,Torso,Right,Strain,,Limited Activity,Lila Smith,Field Hockey,Fall,8/1/2023,12/1/2023,Out of Season,Late Offseason,1
-FH9,Field Hockey,5/3/2025,Knee,Lower Extremity,Right,Iliotibial band friction syndrome (disorder),,Returned To Play As Tolerated,Lila Smith,Field Hockey,Fall,8/1/2025,12/1/2025,Out of Season,Early Offseason,1
-G13,Golf,9/21/2023,Lower Back,Torso,Bilateral,Chronic back pain (finding),,Limited Activity,Lindsey Byer,Golf,Spring,1/1/2023,6/1/2023,Out of Season,Late Offseason,1
+SB24,Softball,2/12/2026,Ankle,Lower Extremity,Right,Sprain,NA,Returned To Play As Tolerated,Liana Su,Softball,Spring,1/1/2026,6/1/2026,In Season,Early-Mid,1
+FH9,Field Hockey,12/6/2023,Lower Back,Torso,Right,Strain,NA,Limited Activity,Lila Smith,Field Hockey,Fall,8/1/2023,12/1/2023,Out of Season,Late Offseason,1
+FH9,Field Hockey,5/3/2025,Knee,Lower Extremity,Right,Iliotibial band friction syndrome (disorder),NA,Returned To Play As Tolerated,Lila Smith,Field Hockey,Fall,8/1/2025,12/1/2025,Out of Season,Early Offseason,1
+G13,Golf,9/21/2023,Lower Back,Torso,Bilateral,Chronic back pain (finding),NA,Limited Activity,Lindsey Byer,Golf,Spring,1/1/2023,6/1/2023,Out of Season,Late Offseason,1
 WLAX11,Women's Lacrosse,4/12/2025,Thigh,Lower Extremity,Right,Tendinitis,"Semimembranosus, Semitendinosus",Limited Activity,Liz Hinton,W Lacrosse,Spring,1/1/2025,6/1/2025,In Season,Late-Mid,1
-FH20,Field Hockey,8/19/2024,Knee,Lower Extremity,Bilateral,Tendinitis,,Returned To Play and Closed,Lizzie Karnofel,Field Hockey,Fall,8/1/2024,12/1/2024,In Season,Early Season,1
-FB26,Football,4/12/2025,Foot,Lower Extremity,Right,Lisfrancs,,Limited Activity,Logan Baker,Football,Fall,8/1/2025,12/1/2025,Out of Season,Early Offseason,1
+FH20,Field Hockey,8/19/2024,Knee,Lower Extremity,Bilateral,Tendinitis,NA,Returned To Play and Closed,Lizzie Karnofel,Field Hockey,Fall,8/1/2024,12/1/2024,In Season,Early Season,1
+FB26,Football,4/12/2025,Foot,Lower Extremity,Right,Lisfrancs,NA,Limited Activity,Logan Baker,Football,Fall,8/1/2025,12/1/2025,Out of Season,Early Offseason,1
 WSOC27,Women's Soccer,9/3/2024,Thigh,Lower Extremity,Left,Strain,Groin,Returned To Play As Tolerated,Lola Tirabassi,W Soccer,Fall,8/1/2024,12/1/2024,In Season,Early-Mid,1
-FB163,Football,9/14/2025,Brain,Head,Does Not Apply,Concussion,,Not Cleared,Luc Madesclaire,Football,Fall,8/1/2025,12/1/2025,In Season,Early-Mid,1
+FB163,Football,9/14/2025,Brain,Head,Does Not Apply,Concussion,NA,Not Cleared,Luc Madesclaire,Football,Fall,8/1/2025,12/1/2025,In Season,Early-Mid,1
 MBB25,Men's Basketball,12/15/2025,Knee,Lower Extremity,Left,Sprain,Anterior Cruciate Ligament,Not Cleared,Lucas Dickinson,M Basketball,Winter,9/15/2025,3/31/2026,In Season,Early-Mid,1
-WSD25,Women's Swimming & Diving,9/20/2024,Shoulder,Upper Extremity,Left,Discomfort (finding),,Returned To Play As Tolerated,Lucy Hardart,W Swim,Winter,9/15/2024,3/31/2025,In Season,Early Season,1
-MSD72,Men's Swimming & Diving,10/30/2025,Hip,Lower Extremity,Left,Strain,Rectus Femoris ,Returned To Play As Tolerated,Lukas Shafer,M Swim,Winter,9/15/2025,3/31/2026,In Season,Early Season,1
+WSD25,Women's Swimming & Diving,9/20/2024,Shoulder,Upper Extremity,Left,Discomfort (finding),NA,Returned To Play As Tolerated,Lucy Hardart,W Swim,Winter,9/15/2024,3/31/2025,In Season,Early Season,1
+MSD72,Men's Swimming & Diving,10/30/2025,Hip,Lower Extremity,Left,Strain,Rectus Femoris,Returned To Play As Tolerated,Lukas Shafer,M Swim,Winter,9/15/2025,3/31/2026,In Season,Early Season,1
 FB37,Football,11/13/2024,Finger,Upper Extremity,Left,Fracture,Thumb,Returned To Play As Tolerated,Luke Millowitz,Football,Fall,8/1/2024,12/1/2024,In Season,Late Season,0
-FB37,Football,10/12/2025,Shoulder,Upper Extremity,Left,Dislocation," Ant., Glenohumeral",Returned To Play As Tolerated,Luke Millowitz,Football,Fall,8/1/2025,12/1/2025,In Season,Late-Mid,0
+FB37,Football,10/12/2025,Shoulder,Upper Extremity,Left,Dislocation,"Ant., Glenohumeral",Returned To Play As Tolerated,Luke Millowitz,Football,Fall,8/1/2025,12/1/2025,In Season,Late-Mid,0
 FB173,Football,8/16/2025,Shoulder,Upper Extremity,Right,Strain,"General Deltoid, Supraspinatus",Returned To Play As Tolerated,Luke Reed,Football,Fall,8/1/2025,12/1/2025,In Season,Early Season,0
 MBB19,Men's Basketball,11/5/2024,Ankle,Lower Extremity,Right,Sprain,Anterior Talofibular,Not Cleared,Luke Salkowski,M Basketball,Winter,9/15/2024,3/31/2025,In Season,Early-Mid,1
-MBB19,Men's Basketball,1/22/2025,Abdomen,Torso,Left,Kidney Injury,,Not Cleared,Luke Salkowski,M Basketball,Winter,9/15/2024,3/31/2025,In Season,Late-Mid,1
-MBB19,Men's Basketball,11/19/2025,Brain,Head,Does Not Apply,Concussion,,Limited Activity,Luke Salkowski,M Basketball,Winter,9/15/2025,3/31/2026,In Season,Early-Mid,1
-MSD23,Men's Swimming & Diving,10/30/2023,Knee,Lower Extremity,Bilateral,Discomfort (finding),,Returned To Play As Tolerated,Luke Swiggett,M Swim,Winter,9/15/2023,3/31/2024,In Season,Early Season,1
-FH24,Field Hockey,2/12/2026,Cervical Segment,Neck,Bilateral,Strain,,Limited Activity,Lulu Keil,Field Hockey,Fall,8/1/2026,12/1/2026,Out of Season,Early Offseason,1
+MBB19,Men's Basketball,1/22/2025,Abdomen,Torso,Left,Kidney Injury,NA,Not Cleared,Luke Salkowski,M Basketball,Winter,9/15/2024,3/31/2025,In Season,Late-Mid,1
+MBB19,Men's Basketball,11/19/2025,Brain,Head,Does Not Apply,Concussion,NA,Limited Activity,Luke Salkowski,M Basketball,Winter,9/15/2025,3/31/2026,In Season,Early-Mid,1
+MSD23,Men's Swimming & Diving,10/30/2023,Knee,Lower Extremity,Bilateral,Discomfort (finding),NA,Returned To Play As Tolerated,Luke Swiggett,M Swim,Winter,9/15/2023,3/31/2024,In Season,Early Season,1
+FH24,Field Hockey,2/12/2026,Cervical Segment,Neck,Bilateral,Strain,NA,Limited Activity,Lulu Keil,Field Hockey,Fall,8/1/2026,12/1/2026,Out of Season,Early Offseason,1
 MLAX31,Men's Lacrosse,1/14/2025,Knee,Lower Extremity,Left,Contusion,Soft Tissue,Returned To Play As Tolerated,Mac Upton,M Lacrosse,Spring,1/1/2025,6/1/2025,In Season,Early Season,1
-MLAX34,Men's Lacrosse,10/1/2023,Brain,Head,,Concussion,,Returned To Play As Tolerated,Macky Peck,M Lacrosse,Spring,1/1/2023,6/1/2023,Out of Season,Late Offseason,1
+MLAX34,Men's Lacrosse,10/1/2023,Brain,Head,NA,Concussion,NA,Returned To Play As Tolerated,Macky Peck,M Lacrosse,Spring,1/1/2023,6/1/2023,Out of Season,Late Offseason,1
 MLAX34,Men's Lacrosse,10/6/2025,Rib,Torso,Right,Fracture,"R8 & Costochondral, R9 & Costochondral",Limited Activity,Macky Peck,M Lacrosse,Spring,1/1/2025,6/1/2025,Out of Season,Late Offseason,1
 MLAX34,Men's Lacrosse,2/24/2026,Rib,Torso,Right,Fracture,Rib 12,Waiting For Assessment,Macky Peck,M Lacrosse,Spring,1/1/2026,6/1/2026,In Season,Early-Mid,1
-FH19,Field Hockey,8/26/2024,Finger,Upper Extremity,Right,Contusion,,Limited Activity,Madden Phelps,Field Hockey,Fall,8/1/2024,12/1/2024,In Season,Early Season,1
+FH19,Field Hockey,8/26/2024,Finger,Upper Extremity,Right,Contusion,NA,Limited Activity,Madden Phelps,Field Hockey,Fall,8/1/2024,12/1/2024,In Season,Early Season,1
 FH19,Field Hockey,8/31/2025,Finger,Upper Extremity,Left,Contusion,2nd Phalange,Returned To Play As Tolerated,Madden Phelps,Field Hockey,Fall,8/1/2025,12/1/2025,In Season,Early Season,0
 FH19,Field Hockey,2/20/2026,Shoulder,Upper Extremity,Right,Strain,General Rotator Cuff,Returned To Play As Tolerated,Madden Phelps,Field Hockey,Fall,8/1/2026,12/1/2026,Out of Season,Early Offseason,1
-FH14,Field Hockey,10/2/2024,Nose,Head,,Fracture,,Returned To Play and Closed,Maddie Gaines,Field Hockey,Fall,8/1/2024,12/1/2024,In Season,Late-Mid,1
-FH14,Field Hockey,8/12/2025,Hip,Lower Extremity,,Other Hip Injury,,Returned To Play As Tolerated,Maddie Gaines,Field Hockey,Fall,8/1/2025,12/1/2025,In Season,Early Season,1
+FH14,Field Hockey,10/2/2024,Nose,Head,NA,Fracture,NA,Returned To Play and Closed,Maddie Gaines,Field Hockey,Fall,8/1/2024,12/1/2024,In Season,Late-Mid,1
+FH14,Field Hockey,8/12/2025,Hip,Lower Extremity,NA,Other Hip Injury,NA,Returned To Play As Tolerated,Maddie Gaines,Field Hockey,Fall,8/1/2025,12/1/2025,In Season,Early Season,1
 WBB12,Women's Basketball,12/19/2023,Ankle,Lower Extremity,Left,Sprain,Anterior Talofibular,Returned To Play As Tolerated,Maddie Goodman,W Basketball,Winter,9/15/2023,3/31/2024,In Season,Early-Mid,0
-WLAX15,Women's Lacrosse,9/3/2024,Lower Leg,Lower Extremity,Bilateral,Shin Splints,,Returned To Play As Tolerated,Maddie Van Slyke,W Lacrosse,Spring,1/1/2024,6/1/2024,Out of Season,Late Offseason,0
+WLAX15,Women's Lacrosse,9/3/2024,Lower Leg,Lower Extremity,Bilateral,Shin Splints,NA,Returned To Play As Tolerated,Maddie Van Slyke,W Lacrosse,Spring,1/1/2024,6/1/2024,Out of Season,Late Offseason,0
 BASEB24,Baseball,2/11/2024,Upper arm,Upper Extremity,Right,Strain,Biceps Brachii,Returned To Play As Tolerated,Maddox Burnworth,Baseball,Spring,1/1/2024,6/1/2024,In Season,Early-Mid,1
 SB15,Softball,3/6/2024,Hip,Lower Extremity,Left,Strain,Iliopsoas,Returned To Play As Tolerated,Madilyn Moffitt,Softball,Spring,1/1/2024,6/1/2024,In Season,Early-Mid,1
 SB15,Softball,9/11/2024,Thigh,Lower Extremity,Right,Strain,General Area,Returned To Play As Tolerated,Madilyn Moffitt,Softball,Spring,1/1/2024,6/1/2024,Out of Season,Late Offseason,1
-WBB21,Women's Basketball,10/14/2023,Knee,Lower Extremity,,Sprain,Anterior Cruciate Ligament,Limited Activity,Maeve Gaffney,W Basketball,Winter,9/15/2023,3/31/2024,In Season,Early Season,1
-BASEB43,Baseball,9/21/2024,Shoulder,Upper Extremity,Right,Shoulder pain (finding),,Returned To Play As Tolerated,Mahoney Daunic,Baseball,Spring,1/1/2024,6/1/2024,Out of Season,Late Offseason,1
-BASEB43,Baseball,2/4/2026,Elbow,Upper Extremity,Right,Inflammation,,Returned To Play As Tolerated,Mahoney Daunic,Baseball,Spring,1/1/2026,6/1/2026,In Season,Early Season,1
-WTE6,Women's Tennis,9/16/2023,Abdomen,Torso,Left,Strain,,Returned To Play As Tolerated,Maia Nowicki,W Tennis,Spring,1/1/2023,6/1/2023,Out of Season,Late Offseason,1
+WBB21,Women's Basketball,10/14/2023,Knee,Lower Extremity,NA,Sprain,Anterior Cruciate Ligament,Limited Activity,Maeve Gaffney,W Basketball,Winter,9/15/2023,3/31/2024,In Season,Early Season,1
+BASEB43,Baseball,9/21/2024,Shoulder,Upper Extremity,Right,Shoulder pain (finding),NA,Returned To Play As Tolerated,Mahoney Daunic,Baseball,Spring,1/1/2024,6/1/2024,Out of Season,Late Offseason,1
+BASEB43,Baseball,2/4/2026,Elbow,Upper Extremity,Right,Inflammation,NA,Returned To Play As Tolerated,Mahoney Daunic,Baseball,Spring,1/1/2026,6/1/2026,In Season,Early Season,1
+WTE6,Women's Tennis,9/16/2023,Abdomen,Torso,Left,Strain,NA,Returned To Play As Tolerated,Maia Nowicki,W Tennis,Spring,1/1/2023,6/1/2023,Out of Season,Late Offseason,1
 WTE6,Women's Tennis,11/14/2023,Ankle,Lower Extremity,Right,Sprain,NA,-,Maia Nowicki,W Tennis,Spring,1/1/2023,6/1/2023,Out of Season,Late Offseason,1
-WTE6,Women's Tennis,2/19/2024,Hip,Lower Extremity,,Tightness,,Returned To Play and Closed,Maia Nowicki,W Tennis,Spring,1/1/2024,6/1/2024,In Season,Early-Mid,1
-G15,Golf,1/23/2024,Lower Back,Torso,Midline,Strain,,Returned To Play As Tolerated,Marcus Ying,Golf,Spring,1/1/2024,6/1/2024,In Season,Early Season,1
+WTE6,Women's Tennis,2/19/2024,Hip,Lower Extremity,NA,Tightness,NA,Returned To Play and Closed,Maia Nowicki,W Tennis,Spring,1/1/2024,6/1/2024,In Season,Early-Mid,1
+G15,Golf,1/23/2024,Lower Back,Torso,Midline,Strain,NA,Returned To Play As Tolerated,Marcus Ying,Golf,Spring,1/1/2024,6/1/2024,In Season,Early Season,1
 VB21,Volleyball,9/27/2025,Foot,Lower Extremity,Right,Stress Fracture,2nd Metatarsal,Limited Activity,Margot Lewis,Volleyball,Fall,8/1/2025,12/1/2025,In Season,Early-Mid,1
-WSD27,Women's Swimming & Diving,9/17/2024,Lumbar Spine,Torso,,Pain in lumbar spine (finding),,Limited Activity,Maria Mrosko,W Swim,Winter,9/15/2024,3/31/2025,In Season,Early Season,1
-MSD57,Men's Swimming & Diving,9/26/2024,Upper arm,Upper Extremity,Left,Pain in upper limb (finding),,Returned To Play As Tolerated,Mark Jacobi-Krohn,M Swim,Winter,9/15/2024,3/31/2025,In Season,Early Season,1
-MSD54,Men's Swimming & Diving,10/15/2024,Lower Back,Torso,Left,Discomfort (finding),,Returned To Play As Tolerated,Marshall Pifer,M Swim,Winter,9/15/2024,3/31/2025,In Season,Early Season,1
-MSD54,Men's Swimming & Diving,11/17/2025,Wrist,Upper Extremity,Right,Sprain,,Returned To Play As Tolerated,Marshall Pifer,M Swim,Winter,9/15/2025,3/31/2026,In Season,Early-Mid,1
-WLAX9,Women's Lacrosse,9/23/2024,Patella,Lower Extremity,Left,Dislocation,,Not Cleared,Mary Daniel,W Lacrosse,Spring,1/1/2024,6/1/2024,Out of Season,Late Offseason,1
+WSD27,Women's Swimming & Diving,9/17/2024,Lumbar Spine,Torso,NA,Pain in lumbar spine (finding),NA,Limited Activity,Maria Mrosko,W Swim,Winter,9/15/2024,3/31/2025,In Season,Early Season,1
+MSD57,Men's Swimming & Diving,9/26/2024,Upper arm,Upper Extremity,Left,Pain in upper limb (finding),NA,Returned To Play As Tolerated,Mark Jacobi-Krohn,M Swim,Winter,9/15/2024,3/31/2025,In Season,Early Season,1
+MSD54,Men's Swimming & Diving,10/15/2024,Lower Back,Torso,Left,Discomfort (finding),NA,Returned To Play As Tolerated,Marshall Pifer,M Swim,Winter,9/15/2024,3/31/2025,In Season,Early Season,1
+MSD54,Men's Swimming & Diving,11/17/2025,Wrist,Upper Extremity,Right,Sprain,NA,Returned To Play As Tolerated,Marshall Pifer,M Swim,Winter,9/15/2025,3/31/2026,In Season,Early-Mid,1
+WLAX9,Women's Lacrosse,9/23/2024,Patella,Lower Extremity,Left,Dislocation,NA,Not Cleared,Mary Daniel,W Lacrosse,Spring,1/1/2024,6/1/2024,Out of Season,Late Offseason,1
 WLAX9,Women's Lacrosse,3/17/2025,Ankle,Lower Extremity,Right,Sprain,"Anterior Talofibular, Post. Talofibular",Limited Activity,Mary Daniel,W Lacrosse,Spring,1/1/2025,6/1/2025,In Season,Early-Mid,0
 FB156,Football,8/26/2025,Toes,Lower Extremity,Left,Fracture,Great Toe,Not Cleared,Matt Gardere,Football,Fall,8/1/2025,12/1/2025,In Season,Early Season,0
-FB74,Football,8/12/2023,Elbow,Upper Extremity,Right,Entrapment Neuropathy (javelin elbow),,Limited Activity,Matt Russell,Football,Fall,8/1/2023,12/1/2023,In Season,Early Season,1
-FB74,Football,11/13/2024,Thumb,Upper Extremity,Right,Fracture,,Returned To Play As Tolerated,Matt Russell,Football,Fall,8/1/2024,12/1/2024,In Season,Late Season,1
-FB74,Football,1/23/2025,Ankle,Lower Extremity,Right,Fracture,,Not Cleared,Matt Russell,Football,Fall,8/1/2025,12/1/2025,Out of Season,Early Offseason,1
-MSD24,Men's Swimming & Diving,10/23/2023,Ankle,Lower Extremity,Left,Sprain,,Returned To Play As Tolerated,Matt Stankivicz,M Swim,Winter,9/15/2023,3/31/2024,In Season,Early Season,1
-WSOC6,Women's Soccer,8/18/2023,Knee,Lower Extremity,Left,Other Knee Injury,,Limited Activity,Mattie Mielke,W Soccer,Fall,8/1/2023,12/1/2023,In Season,Early Season,0
+FB74,Football,8/12/2023,Elbow,Upper Extremity,Right,Entrapment Neuropathy (javelin elbow),NA,Limited Activity,Matt Russell,Football,Fall,8/1/2023,12/1/2023,In Season,Early Season,1
+FB74,Football,11/13/2024,Thumb,Upper Extremity,Right,Fracture,NA,Returned To Play As Tolerated,Matt Russell,Football,Fall,8/1/2024,12/1/2024,In Season,Late Season,1
+FB74,Football,1/23/2025,Ankle,Lower Extremity,Right,Fracture,NA,Not Cleared,Matt Russell,Football,Fall,8/1/2025,12/1/2025,Out of Season,Early Offseason,1
+MSD24,Men's Swimming & Diving,10/23/2023,Ankle,Lower Extremity,Left,Sprain,NA,Returned To Play As Tolerated,Matt Stankivicz,M Swim,Winter,9/15/2023,3/31/2024,In Season,Early Season,1
+WSOC6,Women's Soccer,8/18/2023,Knee,Lower Extremity,Left,Other Knee Injury,NA,Limited Activity,Mattie Mielke,W Soccer,Fall,8/1/2023,12/1/2023,In Season,Early Season,0
 BASEB27,Baseball,2/2/2024,Shoulder,Upper Extremity,Right,Subluxation,"Glenohumeral, Posterior",Returned To Play As Tolerated,Max Fishbein,Baseball,Spring,1/1/2024,6/1/2024,In Season,Early Season,0
-BASEB27,Baseball,3/14/2024,Abdomen,Torso,Right,Inflammation,,Returned To Play As Tolerated,Max Fishbein,Baseball,Spring,1/1/2024,6/1/2024,In Season,Early-Mid,1
+BASEB27,Baseball,3/14/2024,Abdomen,Torso,Right,Inflammation,NA,Returned To Play As Tolerated,Max Fishbein,Baseball,Spring,1/1/2024,6/1/2024,In Season,Early-Mid,1
 BASEB27,Baseball,11/29/2023,Thigh,Lower Extremity,Left,Strain,Semimembranosus,Returned To Play As Tolerated,Max Fishbein,Baseball,Spring,1/1/2023,6/1/2023,Out of Season,Late Offseason,1
-BASEB27,Baseball,11/29/2023,Thigh,Lower Extremity,Left,Strain,Semitendinosus,Returned To Play As Tolerated,Max Fishbein,Baseball,Spring,1/1/2023,6/1/2023,Out of Season,Late Offseason,1
-BASEB27,Baseball,3/25/2025,Lower Back,Torso,Left,Strain,,Returned To Play As Tolerated,Max Fishbein,Baseball,Spring,1/1/2025,6/1/2025,In Season,Late-Mid,1
+BASEB27,Baseball,3/25/2025,Lower Back,Torso,Left,Strain,NA,Returned To Play As Tolerated,Max Fishbein,Baseball,Spring,1/1/2025,6/1/2025,In Season,Late-Mid,1
 BASEB27,Baseball,3/21/2025,Thigh,Lower Extremity,Left,Strain,Hamstring (partial tear),Returned To Play As Tolerated,Max Fishbein,Baseball,Spring,1/1/2025,6/1/2025,In Season,Late-Mid,0
-MSD25,Men's Swimming & Diving,10/22/2024,Ankle,Lower Extremity,Left,Ankle instability (finding),,Returned To Play As Tolerated,Max Hutson-Comeaux,M Swim,Winter,9/15/2024,3/31/2025,In Season,Early Season,0
-MSD25,Men's Swimming & Diving,11/11/2024,Lower Back,Torso,Bilateral,Chronic back pain (finding),,Returned To Play As Tolerated,Max Hutson-Comeaux,M Swim,Winter,9/15/2024,3/31/2025,In Season,Early-Mid,0
+MSD25,Men's Swimming & Diving,10/22/2024,Ankle,Lower Extremity,Left,Ankle instability (finding),NA,Returned To Play As Tolerated,Max Hutson-Comeaux,M Swim,Winter,9/15/2024,3/31/2025,In Season,Early Season,0
+MSD25,Men's Swimming & Diving,11/11/2024,Lower Back,Torso,Bilateral,Chronic back pain (finding),NA,Returned To Play As Tolerated,Max Hutson-Comeaux,M Swim,Winter,9/15/2024,3/31/2025,In Season,Early-Mid,0
 MSD26,Men's Swimming & Diving,10/18/2023,Thigh,Lower Extremity,Left,Strain,General Area,Returned To Play and Closed,Max Lough,M Swim,Winter,9/15/2023,3/31/2024,In Season,Early Season,0
-MSD26,Men's Swimming & Diving,9/19/2024,Shoulder,Upper Extremity,Right,Thoracic Outlet Syndrome,,Returned To Play As Tolerated,Max Lough,M Swim,Winter,9/15/2024,3/31/2025,In Season,Early Season,0
-BASEB28,Baseball,9/5/2023,Shoulder,Upper Extremity,Right,Shoulder pain (finding),,Returned To Play As Tolerated,Max Mullen,Baseball,Spring,1/1/2023,6/1/2023,Out of Season,Late Offseason,1
-MSD27,Men's Swimming & Diving,8/29/2023,Shoulder,Upper Extremity,Right,Shoulder pain (finding),,Returned To Play As Tolerated,Max Soja,M Swim,Winter,9/15/2023,3/31/2024,Out of Season,Early Offseason,1
-MSD27,Men's Swimming & Diving,1/10/2024,Elbow,Upper Extremity,Left,Pain in elbow (finding),,Returned To Play As Tolerated,Max Soja,M Swim,Winter,9/15/2023,3/31/2024,In Season,Late-Mid,1
-FH16,Field Hockey,8/17/2024,Brain,Head,,Other Injury to Head,,Returned To Play and Closed,Megan Edwards,Field Hockey,Fall,8/1/2024,12/1/2024,In Season,Early Season,1
-FH16,Field Hockey,2/12/2026,Hip,Lower Extremity,Right,Impingement,,Limited Activity,Megan Edwards,Field Hockey,Fall,8/1/2026,12/1/2026,Out of Season,Early Offseason,1
+MSD26,Men's Swimming & Diving,9/19/2024,Shoulder,Upper Extremity,Right,Thoracic Outlet Syndrome,NA,Returned To Play As Tolerated,Max Lough,M Swim,Winter,9/15/2024,3/31/2025,In Season,Early Season,0
+BASEB28,Baseball,9/5/2023,Shoulder,Upper Extremity,Right,Shoulder pain (finding),NA,Returned To Play As Tolerated,Max Mullen,Baseball,Spring,1/1/2023,6/1/2023,Out of Season,Late Offseason,1
+MSD27,Men's Swimming & Diving,8/29/2023,Shoulder,Upper Extremity,Right,Shoulder pain (finding),NA,Returned To Play As Tolerated,Max Soja,M Swim,Winter,9/15/2023,3/31/2024,Out of Season,Early Offseason,1
+MSD27,Men's Swimming & Diving,1/10/2024,Elbow,Upper Extremity,Left,Pain in elbow (finding),NA,Returned To Play As Tolerated,Max Soja,M Swim,Winter,9/15/2023,3/31/2024,In Season,Late-Mid,1
+FH16,Field Hockey,8/17/2024,Brain,Head,NA,Other Injury to Head,NA,Returned To Play and Closed,Megan Edwards,Field Hockey,Fall,8/1/2024,12/1/2024,In Season,Early Season,1
+FH16,Field Hockey,2/12/2026,Hip,Lower Extremity,Right,Impingement,NA,Limited Activity,Megan Edwards,Field Hockey,Fall,8/1/2026,12/1/2026,Out of Season,Early Offseason,1
 WSOC23,Women's Soccer,8/23/2023,Hip,Lower Extremity,Left,Piriformis Syndrome,Piriformis,Returned To Play and Closed,Megan Mulvey,W Soccer,Fall,8/1/2023,12/1/2023,In Season,Early Season,0
-WSOC23,Women's Soccer,10/11/2023,Knee,Lower Extremity,Right,Other Knee Injury,,Not Cleared,Megan Mulvey,W Soccer,Fall,8/1/2023,12/1/2023,In Season,Late-Mid,0
+WSOC23,Women's Soccer,10/11/2023,Knee,Lower Extremity,Right,Other Knee Injury,NA,Not Cleared,Megan Mulvey,W Soccer,Fall,8/1/2023,12/1/2023,In Season,Late-Mid,0
 FB38,Football,9/23/2023,Thigh,Lower Extremity,Left,Strain,Quadricep (partial tear),Returned To Play As Tolerated,Michael Ballenger,Football,Fall,8/1/2023,12/1/2023,In Season,Early-Mid,0
-FB38,Football,11/6/2024,Shoulder,Upper Extremity,Left,Sprain,,Returned To Play As Tolerated,Michael Ballenger,Football,Fall,8/1/2024,12/1/2024,In Season,Late Season,0
+FB38,Football,11/6/2024,Shoulder,Upper Extremity,Left,Sprain,NA,Returned To Play As Tolerated,Michael Ballenger,Football,Fall,8/1/2024,12/1/2024,In Season,Late Season,0
 MLAX50,Men's Lacrosse,3/29/2024,Lower Leg,Lower Extremity,Right,Strain,Gastrocnemius,Limited Activity,Michael Cassidy,M Lacrosse,Spring,1/1/2024,6/1/2024,In Season,Late-Mid,1
-MLAX50,Men's Lacrosse,3/29/2024,Lower Leg,Lower Extremity,Right,Strain,Soleus,Limited Activity,Michael Cassidy,M Lacrosse,Spring,1/1/2024,6/1/2024,In Season,Late-Mid,1
-MLAX50,Men's Lacrosse,4/30/2025,Brain,Head,Does Not Apply,Concussion,,Limited Activity,Michael Cassidy,M Lacrosse,Spring,1/1/2025,6/1/2025,In Season,Late Season,0
+MLAX50,Men's Lacrosse,4/30/2025,Brain,Head,Does Not Apply,Concussion,NA,Limited Activity,Michael Cassidy,M Lacrosse,Spring,1/1/2025,6/1/2025,In Season,Late Season,0
 MLAX50,Men's Lacrosse,10/20/2025,Thigh,Lower Extremity,Right,Strain,Biceps Femoris,Limited Activity,Michael Cassidy,M Lacrosse,Spring,1/1/2025,6/1/2025,Out of Season,Late Offseason,1
-MLAX50,Men's Lacrosse,2/21/2026,Lower Leg,Lower Extremity,Right,Stress Reaction,,Not Cleared,Michael Cassidy,M Lacrosse,Spring,1/1/2026,6/1/2026,In Season,Early-Mid,1
-FB104,Football,10/7/2023,Knee,Lower Extremity,Left,Hyperextension,,Returned To Play As Tolerated,Michael Mead,Football,Fall,8/1/2023,12/1/2023,In Season,Late-Mid,1
-FB27,Football,10/21/2023,Brain,Head,,Concussion,,Not Cleared,Michio Kamimura,Football,Fall,8/1/2023,12/1/2023,In Season,Late-Mid,1
-BASEB29,Baseball,9/6/2023,Abdomen,Torso,,Strain,,Returned To Play and Closed,Mikey Gray,Baseball,Spring,1/1/2023,6/1/2023,Out of Season,Late Offseason,1
-FH17,Field Hockey,8/19/2024,Lower Leg,Lower Extremity,Bilateral,Medial Tibial Stress Syndrome,,Returned To Play As Tolerated,Mila Elstgeest,Field Hockey,Fall,8/1/2024,12/1/2024,In Season,Early Season,0
-FH17,Field Hockey,9/16/2024,Nervous System,General Medical,,Other Nervous System Disorder,,Returned To Play As Tolerated,Mila Elstgeest,Field Hockey,Fall,8/1/2024,12/1/2024,In Season,Early-Mid,1
-MBB27,Men's Basketball,10/24/2025,Brain,Head,Does Not Apply,Concussion,,Not Cleared,Miles Barger,M Basketball,Winter,9/15/2025,3/31/2026,In Season,Early Season,1
-WLAX51,Women's Lacrosse,9/13/2024,Knee,Lower Extremity,Left,Other Knee Injury,,Limited Activity,MK Barnhart,W Lacrosse,Spring,1/1/2024,6/1/2024,Out of Season,Late Offseason,0
-WBB30,Women's Basketball,10/22/2025,Lower Leg,Lower Extremity,Bilateral,Medial Tibial Stress Syndrome,,Returned To Play As Tolerated,Molly Dorighi,W Basketball,Winter,9/15/2025,3/31/2026,In Season,Early Season,0
+MLAX50,Men's Lacrosse,2/21/2026,Lower Leg,Lower Extremity,Right,Stress Reaction,NA,Not Cleared,Michael Cassidy,M Lacrosse,Spring,1/1/2026,6/1/2026,In Season,Early-Mid,1
+FB104,Football,10/7/2023,Knee,Lower Extremity,Left,Hyperextension,NA,Returned To Play As Tolerated,Michael Mead,Football,Fall,8/1/2023,12/1/2023,In Season,Late-Mid,1
+FB27,Football,10/21/2023,Brain,Head,NA,Concussion,NA,Not Cleared,Michio Kamimura,Football,Fall,8/1/2023,12/1/2023,In Season,Late-Mid,1
+BASEB29,Baseball,9/6/2023,Abdomen,Torso,NA,Strain,NA,Returned To Play and Closed,Mikey Gray,Baseball,Spring,1/1/2023,6/1/2023,Out of Season,Late Offseason,1
+FH17,Field Hockey,8/19/2024,Lower Leg,Lower Extremity,Bilateral,Medial Tibial Stress Syndrome,NA,Returned To Play As Tolerated,Mila Elstgeest,Field Hockey,Fall,8/1/2024,12/1/2024,In Season,Early Season,0
+FH17,Field Hockey,9/16/2024,Nervous System,General Medical,NA,Other Nervous System Disorder,NA,Returned To Play As Tolerated,Mila Elstgeest,Field Hockey,Fall,8/1/2024,12/1/2024,In Season,Early-Mid,1
+MBB27,Men's Basketball,10/24/2025,Brain,Head,Does Not Apply,Concussion,NA,Not Cleared,Miles Barger,M Basketball,Winter,9/15/2025,3/31/2026,In Season,Early Season,1
+WLAX51,Women's Lacrosse,9/13/2024,Knee,Lower Extremity,Left,Other Knee Injury,NA,Limited Activity,MK Barnhart,W Lacrosse,Spring,1/1/2024,6/1/2024,Out of Season,Late Offseason,0
+WBB30,Women's Basketball,10/22/2025,Lower Leg,Lower Extremity,Bilateral,Medial Tibial Stress Syndrome,NA,Returned To Play As Tolerated,Molly Dorighi,W Basketball,Winter,9/15/2025,3/31/2026,In Season,Early Season,0
 WBB30,Women's Basketball,11/3/2025,Ankle,Lower Extremity,Right,Sprain,Anterior Tibiofibular Ligament,Returned To Play and Closed,Molly Dorighi,W Basketball,Winter,9/15/2025,3/31/2026,In Season,Early Season,0
-WBB30,Women's Basketball,12/28/2025,Knee,Lower Extremity,Left,Contusion,,Returned To Play As Tolerated,Molly Dorighi,W Basketball,Winter,9/15/2025,3/31/2026,In Season,Late-Mid,1
-WBB15,Women's Basketball,1/23/2024,Shoulder,Upper Extremity,Right,Multi-directional Instability,,Limited Activity,Molly Fisher,W Basketball,Winter,9/15/2023,3/31/2024,In Season,Late-Mid,0
-WBB15,Women's Basketball,1/5/2024,Knee,Lower Extremity,Right,Hyperextension,,Returned To Play As Tolerated,Molly Fisher,W Basketball,Winter,9/15/2023,3/31/2024,In Season,Late-Mid,1
-WBB15,Women's Basketball,10/20/2024,Brain,Head,,Concussion,,Returned To Play and Closed,Molly Fisher,W Basketball,Winter,9/15/2024,3/31/2025,In Season,Early Season,1
+WBB30,Women's Basketball,12/28/2025,Knee,Lower Extremity,Left,Contusion,NA,Returned To Play As Tolerated,Molly Dorighi,W Basketball,Winter,9/15/2025,3/31/2026,In Season,Late-Mid,1
+WBB15,Women's Basketball,1/23/2024,Shoulder,Upper Extremity,Right,Multi-directional Instability,NA,Limited Activity,Molly Fisher,W Basketball,Winter,9/15/2023,3/31/2024,In Season,Late-Mid,0
+WBB15,Women's Basketball,1/5/2024,Knee,Lower Extremity,Right,Hyperextension,NA,Returned To Play As Tolerated,Molly Fisher,W Basketball,Winter,9/15/2023,3/31/2024,In Season,Late-Mid,1
+WBB15,Women's Basketball,10/20/2024,Brain,Head,NA,Concussion,NA,Returned To Play and Closed,Molly Fisher,W Basketball,Winter,9/15/2024,3/31/2025,In Season,Early Season,1
 WBB15,Women's Basketball,11/7/2024,Knee,Lower Extremity,Right,Sprain,Medial Collateral Ligament,Returned To Play and Closed,Molly Fisher,W Basketball,Winter,9/15/2024,3/31/2025,In Season,Early-Mid,1
-WSD28,Women's Swimming & Diving,10/21/2024,Brain,Head,,Concussion,,Limited Activity,Molly MacIntyre,W Swim,Winter,9/15/2024,3/31/2025,In Season,Early Season,1
+WSD28,Women's Swimming & Diving,10/21/2024,Brain,Head,NA,Concussion,NA,Limited Activity,Molly MacIntyre,W Swim,Winter,9/15/2024,3/31/2025,In Season,Early Season,1
 WSOC8,Women's Soccer,8/22/2025,Thigh,Lower Extremity,Right,Strain,Rectus Femoris,Returned To Play As Tolerated,Molly Noga,W Soccer,Fall,8/1/2025,12/1/2025,In Season,Early Season,1
-G16,Golf,10/31/2023,Knee,Lower Extremity,Left,Knee pain (finding),,Limited Activity,Morgan Gilmore,Golf,Spring,1/1/2023,6/1/2023,Out of Season,Late Offseason,1
-WBB16,Women's Basketball,9/6/2023,Ankle,Lower Extremity,,Sprain,Anterior Talofibular,Returned To Play As Tolerated,Morgan Kress,W Basketball,Winter,9/15/2023,3/31/2024,Out of Season,Early Offseason,1
+G16,Golf,10/31/2023,Knee,Lower Extremity,Left,Knee pain (finding),NA,Limited Activity,Morgan Gilmore,Golf,Spring,1/1/2023,6/1/2023,Out of Season,Late Offseason,1
+WBB16,Women's Basketball,9/6/2023,Ankle,Lower Extremity,NA,Sprain,Anterior Talofibular,Returned To Play As Tolerated,Morgan Kress,W Basketball,Winter,9/15/2023,3/31/2024,Out of Season,Early Offseason,1
 WBB16,Women's Basketball,11/12/2023,Hand,Upper Extremity,Right,Sprain,NA,-,Morgan Kress,W Basketball,Winter,9/15/2023,3/31/2024,In Season,Early-Mid,1
-WBB16,Women's Basketball,2/7/2024,Shoulder,Upper Extremity,,Subluxation,,Returned To Play As Tolerated,Morgan Kress,W Basketball,Winter,9/15/2023,3/31/2024,In Season,Late-Mid,1
-WBB16,Women's Basketball,9/19/2024,Ankle,Lower Extremity,Bilateral,Ankle instability (finding),,Returned To Play As Tolerated,Morgan Kress,W Basketball,Winter,9/15/2024,3/31/2025,In Season,Early Season,1
-WBB16,Women's Basketball,10/1/2025,Lower Leg,Lower Extremity,Bilateral,Shin Splints,,Returned To Play As Tolerated,Morgan Kress,W Basketball,Winter,9/15/2025,3/31/2026,In Season,Early Season,1
-WSD29,Women's Swimming & Diving,12/5/2023,Knee,Lower Extremity,Left,Patellofemoral Pain Syndrome (PFPS),,Returned To Play As Tolerated,Natalie English,W Swim,Winter,9/15/2023,3/31/2024,In Season,Early-Mid,1
+WBB16,Women's Basketball,2/7/2024,Shoulder,Upper Extremity,NA,Subluxation,NA,Returned To Play As Tolerated,Morgan Kress,W Basketball,Winter,9/15/2023,3/31/2024,In Season,Late-Mid,1
+WBB16,Women's Basketball,9/19/2024,Ankle,Lower Extremity,Bilateral,Ankle instability (finding),NA,Returned To Play As Tolerated,Morgan Kress,W Basketball,Winter,9/15/2024,3/31/2025,In Season,Early Season,1
+WBB16,Women's Basketball,10/1/2025,Lower Leg,Lower Extremity,Bilateral,Shin Splints,NA,Returned To Play As Tolerated,Morgan Kress,W Basketball,Winter,9/15/2025,3/31/2026,In Season,Early Season,1
+WSD29,Women's Swimming & Diving,12/5/2023,Knee,Lower Extremity,Left,Patellofemoral Pain Syndrome (PFPS),NA,Returned To Play As Tolerated,Natalie English,W Swim,Winter,9/15/2023,3/31/2024,In Season,Early-Mid,1
 SB16,Softball,12/1/2025,Ankle,Lower Extremity,Left,Sprain,"Anterior Tibiofibular Ligament, Calcaneofibular",Limited Activity,Natalie Omahen,Softball,Spring,1/1/2025,6/1/2025,Out of Season,Late Offseason,1
 BASEB47,Baseball,2/6/2026,Thigh,Lower Extremity,Right,Strain,Hamstring (partial tear),Returned To Play As Tolerated,Nate Kush,Baseball,Spring,1/1/2026,6/1/2026,In Season,Early Season,1
 FB12,Football,4/16/2024,Knee,Lower Extremity,Left,Sprain,Posterior Cruciate Ligament,Returned To Play As Tolerated,Nathan Hallenbeck,Football,Fall,8/1/2024,12/1/2024,Out of Season,Early Offseason,1
 G21,Golf,8/17/2024,Wrist,Upper Extremity,Left,Strain,Flexor Carpi Ulnaris,Returned To Play As Tolerated,Neil Joon,Golf,Spring,1/1/2024,6/1/2024,Out of Season,Late Offseason,1
-G21,Golf,11/13/2024,Lower Back,Torso,Right,Strain,,Returned To Play As Tolerated,Neil Joon,Golf,Spring,1/1/2024,6/1/2024,Out of Season,Late Offseason,1
-MSD64,Men's Swimming & Diving,10/23/2025,Knee,Lower Extremity,Right,Strain,,Returned To Play As Tolerated,Nicholas Johnson,M Swim,Winter,9/15/2025,3/31/2026,In Season,Early Season,1
+G21,Golf,11/13/2024,Lower Back,Torso,Right,Strain,NA,Returned To Play As Tolerated,Neil Joon,Golf,Spring,1/1/2024,6/1/2024,Out of Season,Late Offseason,1
+MSD64,Men's Swimming & Diving,10/23/2025,Knee,Lower Extremity,Right,Strain,NA,Returned To Play As Tolerated,Nicholas Johnson,M Swim,Winter,9/15/2025,3/31/2026,In Season,Early Season,1
 BASEB31,Baseball,3/2/2024,Upper arm,Upper Extremity,Right,Strain,Biceps Brachii,Returned To Play As Tolerated,Nick Falter,Baseball,Spring,1/1/2024,6/1/2024,In Season,Early-Mid,1
-MSD28,Men's Swimming & Diving,9/3/2024,Lumbar Spine,Torso,Does Not Apply,Scheuermann's Disease,,Returned To Play As Tolerated,Nick Fogle,M Swim,Winter,9/15/2024,3/31/2025,Out of Season,Early Offseason,1
+MSD28,Men's Swimming & Diving,9/3/2024,Lumbar Spine,Torso,Does Not Apply,Scheuermann's Disease,NA,Returned To Play As Tolerated,Nick Fogle,M Swim,Winter,9/15/2024,3/31/2025,Out of Season,Early Offseason,1
 MBB11,Men's Basketball,10/28/2025,Hand,Upper Extremity,Left,Contusion,Soft Tissue,Limited Activity,Nick Heath,M Basketball,Winter,9/15/2025,3/31/2026,In Season,Early Season,1
-MBB11,Men's Basketball,10/17/2025,Brain,Head,Does Not Apply,Concussion,,Returned To Play and Closed,Nick Heath,M Basketball,Winter,9/15/2025,3/31/2026,In Season,Early Season,0
-MSD43,Men's Swimming & Diving,9/3/2024,Knee,Lower Extremity,Right,Hyperextension,,Returned To Play As Tolerated,Nick Hensel,M Swim,Winter,9/15/2024,3/31/2025,Out of Season,Early Offseason,0
-MTE5,Men's Tennis,2/19/2024,Forearm,Upper Extremity,Right,Inflammation,,Returned To Play As Tolerated,Nick Meyers,M Tennis,Spring,1/1/2024,6/1/2024,In Season,Early-Mid,0
+MBB11,Men's Basketball,10/17/2025,Brain,Head,Does Not Apply,Concussion,NA,Returned To Play and Closed,Nick Heath,M Basketball,Winter,9/15/2025,3/31/2026,In Season,Early Season,0
+MSD43,Men's Swimming & Diving,9/3/2024,Knee,Lower Extremity,Right,Hyperextension,NA,Returned To Play As Tolerated,Nick Hensel,M Swim,Winter,9/15/2024,3/31/2025,Out of Season,Early Offseason,0
+MTE5,Men's Tennis,2/19/2024,Forearm,Upper Extremity,Right,Inflammation,NA,Returned To Play As Tolerated,Nick Meyers,M Tennis,Spring,1/1/2024,6/1/2024,In Season,Early-Mid,0
 FB44,Football,12/6/2023,Shoulder,Upper Extremity,Left,Strain,Pectoralis Major,Limited Activity,Nick Pellicciotta,Football,Fall,8/1/2023,12/1/2023,Out of Season,Late Offseason,1
-FB44,Football,8/22/2024,Brain,Head,,Concussion,,Not Cleared,Nick Pellicciotta,Football,Fall,8/1/2024,12/1/2024,In Season,Early Season,1
-FB44,Football,11/2/2024,Brain,Head,,Concussion,,Not Cleared,Nick Pellicciotta,Football,Fall,8/1/2024,12/1/2024,In Season,Late Season,1
-FB44,Football,3/28/2025,Ankle,Lower Extremity,Left,Sprain,,Not Cleared,Nick Pellicciotta,Football,Fall,8/1/2025,12/1/2025,Out of Season,Early Offseason,1
-MTE6,Men's Tennis,2/21/2024,Forearm,Upper Extremity,Right,Other Forearm Injury,,Returned To Play As Tolerated,Nickawn Namdar,M Tennis,Spring,1/1/2024,6/1/2024,In Season,Early-Mid,1
-MTE6,Men's Tennis,9/5/2024,Lumbar Spine,Torso,Right,Spasm,,Returned To Play and Closed,Nickawn Namdar,M Tennis,Spring,1/1/2024,6/1/2024,Out of Season,Late Offseason,1
+FB44,Football,8/22/2024,Brain,Head,NA,Concussion,NA,Not Cleared,Nick Pellicciotta,Football,Fall,8/1/2024,12/1/2024,In Season,Early Season,1
+FB44,Football,11/2/2024,Brain,Head,NA,Concussion,NA,Not Cleared,Nick Pellicciotta,Football,Fall,8/1/2024,12/1/2024,In Season,Late Season,1
+FB44,Football,3/28/2025,Ankle,Lower Extremity,Left,Sprain,NA,Not Cleared,Nick Pellicciotta,Football,Fall,8/1/2025,12/1/2025,Out of Season,Early Offseason,1
+MTE6,Men's Tennis,2/21/2024,Forearm,Upper Extremity,Right,Other Forearm Injury,NA,Returned To Play As Tolerated,Nickawn Namdar,M Tennis,Spring,1/1/2024,6/1/2024,In Season,Early-Mid,1
+MTE6,Men's Tennis,9/5/2024,Lumbar Spine,Torso,Right,Spasm,NA,Returned To Play and Closed,Nickawn Namdar,M Tennis,Spring,1/1/2024,6/1/2024,Out of Season,Late Offseason,1
 MTE6,Men's Tennis,10/15/2024,Knee,Lower Extremity,Left,Contusion,Lat. Tibial Plateau,Limited Activity,Nickawn Namdar,M Tennis,Spring,1/1/2024,6/1/2024,Out of Season,Late Offseason,1
-MSOC38,Men's Soccer,8/28/2025,Brain,Head,,Concussion,,Returned To Play and Closed,Nico Malouin,M Soccer,Fall,8/1/2025,12/1/2025,In Season,Early Season,1
-FH10,Field Hockey,8/19/2024,Ankle,Lower Extremity,Right,Other,,Returned To Play As Tolerated,Nina Casingal,Field Hockey,Fall,8/1/2024,12/1/2024,In Season,Early Season,1
-FH10,Field Hockey,8/18/2025,Knee,Lower Extremity,Right,Patellofemoral Pain Syndrome (PFPS),,Returned To Play As Tolerated,Nina Casingal,Field Hockey,Fall,8/1/2025,12/1/2025,In Season,Early Season,1
+MSOC38,Men's Soccer,8/28/2025,Brain,Head,NA,Concussion,NA,Returned To Play and Closed,Nico Malouin,M Soccer,Fall,8/1/2025,12/1/2025,In Season,Early Season,1
+FH10,Field Hockey,8/19/2024,Ankle,Lower Extremity,Right,Other,NA,Returned To Play As Tolerated,Nina Casingal,Field Hockey,Fall,8/1/2024,12/1/2024,In Season,Early Season,1
+FH10,Field Hockey,8/18/2025,Knee,Lower Extremity,Right,Patellofemoral Pain Syndrome (PFPS),NA,Returned To Play As Tolerated,Nina Casingal,Field Hockey,Fall,8/1/2025,12/1/2025,In Season,Early Season,1
 BASEB46,Baseball,3/15/2025,Elbow,Upper Extremity,Left,Sprain,Ulnar Collateral Ligament (partial tear),Limited Activity,Noah Shapo,Baseball,Spring,1/1/2025,6/1/2025,In Season,Early-Mid,0
-FB4,Football,4/8/2025,Hip,Lower Extremity,Left,Strain,"Iliopsoas, Rectus Femoris ",Returned To Play As Tolerated,Nolan Holtz,Football,Fall,8/1/2025,12/1/2025,Out of Season,Early Offseason,1
+FB4,Football,4/8/2025,Hip,Lower Extremity,Left,Strain,"Iliopsoas, Rectus Femoris",Returned To Play As Tolerated,Nolan Holtz,Football,Fall,8/1/2025,12/1/2025,Out of Season,Early Offseason,1
 FB4,Football,10/14/2025,Ankle,Lower Extremity,Right,Sprain,Anterior Talofibular,Returned To Play As Tolerated,Nolan Holtz,Football,Fall,8/1/2025,12/1/2025,In Season,Late-Mid,1
-WSD32,Women's Swimming & Diving,4/1/2024,Knee,Lower Extremity,Left,Patellofemoral Pain Syndrome (PFPS),,Returned To Play As Tolerated,Olivia Morse,W Swim,Winter,9/15/2024,3/31/2025,Out of Season,Early Offseason,1
-G18,Golf,12/9/2025,Lower Back,Torso,Right,Discomfort (finding),,Returned To Play and Closed,Owen Blakely,Golf,Spring,1/1/2025,6/1/2025,Out of Season,Late Offseason,1
+WSD32,Women's Swimming & Diving,4/1/2024,Knee,Lower Extremity,Left,Patellofemoral Pain Syndrome (PFPS),NA,Returned To Play As Tolerated,Olivia Morse,W Swim,Winter,9/15/2024,3/31/2025,Out of Season,Early Offseason,1
+G18,Golf,12/9/2025,Lower Back,Torso,Right,Discomfort (finding),NA,Returned To Play and Closed,Owen Blakely,Golf,Spring,1/1/2025,6/1/2025,Out of Season,Late Offseason,1
 BASEB50,Baseball,10/21/2024,Knee,Lower Extremity,Right,Strain,Vastus Medialis,Returned To Play As Tolerated,Owen Miller,Baseball,Spring,1/1/2024,6/1/2024,Out of Season,Late Offseason,1
-BASEB50,Baseball,10/21/2024,Knee,Lower Extremity,Right,Strain,Quadriceps Group,Returned To Play As Tolerated,Owen Miller,Baseball,Spring,1/1/2024,6/1/2024,Out of Season,Late Offseason,1
-BASEB33,Baseball,3/15/2024,Lower Leg,Lower Extremity,Left,Medial Tibial Stress Syndrome,,Returned To Play As Tolerated,Owen Wilson,Baseball,Spring,1/1/2024,6/1/2024,In Season,Early-Mid,0
-MSD31,Men's Swimming & Diving,1/23/2024,Shoulder,Upper Extremity,Bilateral,Fatigue (finding),,Returned To Play As Tolerated,Patrick Daly,M Swim,Winter,9/15/2023,3/31/2024,In Season,Late-Mid,1
-MSD31,Men's Swimming & Diving,9/25/2024,Shoulder,Upper Extremity,Right,Scapulothoracic Dysfunction,,Returned To Play As Tolerated,Patrick Daly,M Swim,Winter,9/15/2024,3/31/2025,In Season,Early Season,1
-FB144,Football,9/7/2025,Brain,Head,Does Not Apply,Concussion,,Returned To Play and Closed,Patrick Heneghan,Football,Fall,8/1/2025,12/1/2025,In Season,Early-Mid,1
-WTE7,Women's Tennis,4/8/2024,Knee,Lower Extremity,,Contusion,General Area,Returned To Play As Tolerated,Peyton Oda,W Tennis,Spring,1/1/2024,6/1/2024,In Season,Late-Mid,1
-WTE7,Women's Tennis,1/24/2024,Shoulder,Upper Extremity,Right,Scapulothoracic Dysfunction,,Returned To Play As Tolerated,Peyton Oda,W Tennis,Spring,1/1/2024,6/1/2024,In Season,Early Season,1
-WTE7,Women's Tennis,1/18/2024,Lower Leg,Lower Extremity,Left,Pain in lower limb (finding),,Returned To Play As Tolerated,Peyton Oda,W Tennis,Spring,1/1/2024,6/1/2024,In Season,Early Season,1
+BASEB33,Baseball,3/15/2024,Lower Leg,Lower Extremity,Left,Medial Tibial Stress Syndrome,NA,Returned To Play As Tolerated,Owen Wilson,Baseball,Spring,1/1/2024,6/1/2024,In Season,Early-Mid,0
+MSD31,Men's Swimming & Diving,1/23/2024,Shoulder,Upper Extremity,Bilateral,Fatigue (finding),NA,Returned To Play As Tolerated,Patrick Daly,M Swim,Winter,9/15/2023,3/31/2024,In Season,Late-Mid,1
+MSD31,Men's Swimming & Diving,9/25/2024,Shoulder,Upper Extremity,Right,Scapulothoracic Dysfunction,NA,Returned To Play As Tolerated,Patrick Daly,M Swim,Winter,9/15/2024,3/31/2025,In Season,Early Season,1
+FB144,Football,9/7/2025,Brain,Head,Does Not Apply,Concussion,NA,Returned To Play and Closed,Patrick Heneghan,Football,Fall,8/1/2025,12/1/2025,In Season,Early-Mid,1
+WTE7,Women's Tennis,4/8/2024,Knee,Lower Extremity,NA,Contusion,General Area,Returned To Play As Tolerated,Peyton Oda,W Tennis,Spring,1/1/2024,6/1/2024,In Season,Late-Mid,1
+WTE7,Women's Tennis,1/24/2024,Shoulder,Upper Extremity,Right,Scapulothoracic Dysfunction,NA,Returned To Play As Tolerated,Peyton Oda,W Tennis,Spring,1/1/2024,6/1/2024,In Season,Early Season,1
+WTE7,Women's Tennis,1/18/2024,Lower Leg,Lower Extremity,Left,Pain in lower limb (finding),NA,Returned To Play As Tolerated,Peyton Oda,W Tennis,Spring,1/1/2024,6/1/2024,In Season,Early Season,1
 WTE7,Women's Tennis,9/24/2024,Thigh,Lower Extremity,Right,Strain,Adductor Longus,Returned To Play As Tolerated,Peyton Oda,W Tennis,Spring,1/1/2024,6/1/2024,Out of Season,Late Offseason,1
 WTE7,Women's Tennis,1/24/2025,Knee,Lower Extremity,Right,Tendinitis,Patella Tendon,Returned To Play As Tolerated,Peyton Oda,W Tennis,Spring,1/1/2025,6/1/2025,In Season,Early Season,1
 WTE7,Women's Tennis,3/31/2025,Lumbar Spine,Torso,Bilateral,Strain,General Area,Not Cleared,Peyton Oda,W Tennis,Spring,1/1/2025,6/1/2025,In Season,Late-Mid,0
-WTE7,Women's Tennis,10/22/2025,Foot,Lower Extremity,Left,Plantar Fasciitis,,Returned To Play As Tolerated,Peyton Oda,W Tennis,Spring,1/1/2025,6/1/2025,Out of Season,Late Offseason,0
-MSOC12,Men's Soccer,9/1/2023,Brain,Head,,Concussion,,Returned To Play and Closed,Phil Koutsaftis,M Soccer,Fall,8/1/2023,12/1/2023,In Season,Early-Mid,0
-MT&F43,Men's Tennis,2/27/2026,Lower Leg,Lower Extremity,Right,Medial Tibial Stress Syndrome,,Returned To Play As Tolerated,Phinnigan Spindler,M Tennis,Spring,1/1/2026,6/1/2026,In Season,Early-Mid,1
+WTE7,Women's Tennis,10/22/2025,Foot,Lower Extremity,Left,Plantar Fasciitis,NA,Returned To Play As Tolerated,Peyton Oda,W Tennis,Spring,1/1/2025,6/1/2025,Out of Season,Late Offseason,0
+MSOC12,Men's Soccer,9/1/2023,Brain,Head,NA,Concussion,NA,Returned To Play and Closed,Phil Koutsaftis,M Soccer,Fall,8/1/2023,12/1/2023,In Season,Early-Mid,0
+MT&F43,Men's Tennis,2/27/2026,Lower Leg,Lower Extremity,Right,Medial Tibial Stress Syndrome,NA,Returned To Play As Tolerated,Phinnigan Spindler,M Tennis,Spring,1/1/2026,6/1/2026,In Season,Early-Mid,1
 WSD33,Women's Swimming & Diving,9/19/2025,Thigh,Lower Extremity,Right,Strain,Biceps Femoris,Returned To Play As Tolerated,Phoebe Ferguson,W Swim,Winter,9/15/2025,3/31/2026,In Season,Early Season,1
 BASEB35,Baseball,12/8/2023,Thigh,Lower Extremity,Right,Strain,Hamstring (partial tear),Limited Activity,PJ Supps,Baseball,Spring,1/1/2023,6/1/2023,Out of Season,Late Offseason,1
-MLAX65,Men's Lacrosse,10/2/2025,Brain,Head,Does Not Apply,"Headache, Acute",,Returned To Play As Tolerated,Quinlan Toelke,M Lacrosse,Spring,1/1/2025,6/1/2025,Out of Season,Late Offseason,1
-MLAX65,Men's Lacrosse,2/16/2026,Brain,Head,,Concussion,,Returned To Play and Closed,Quinlan Toelke,M Lacrosse,Spring,1/1/2026,6/1/2026,In Season,Early-Mid,1
-MSOC40,Men's Soccer,9/30/2025,Respirology,General Medical,Right,Pneumothorax,,Not Cleared,Quinlin Hahn,M Soccer,Fall,8/1/2025,12/1/2025,In Season,Early-Mid,1
-WSD34,Women's Swimming & Diving,10/1/2024,Lumbar Spine,Torso,,Pain in lumbar spine (finding),,Returned To Play As Tolerated,Quinn Brown,W Swim,Winter,9/15/2024,3/31/2025,In Season,Early Season,1
-WSD34,Women's Swimming & Diving,1/29/2025,Wrist,Upper Extremity,Right,Sprain,,Returned To Play As Tolerated,Quinn Brown,W Swim,Winter,9/15/2024,3/31/2025,In Season,Late-Mid,0
-WSD34,Women's Swimming & Diving,11/17/2025,Psychological,General Medical,,Fatigue,,Returned To Play As Tolerated,Quinn Brown,W Swim,Winter,9/15/2025,3/31/2026,In Season,Early-Mid,0
-FB54,Football,9/19/2023,Brain,Head,Does Not Apply,Concussion,,Limited Activity,Quinn Stengrim,Football,Fall,8/1/2023,12/1/2023,In Season,Early-Mid,0
+MLAX65,Men's Lacrosse,10/2/2025,Brain,Head,Does Not Apply,"Headache, Acute",NA,Returned To Play As Tolerated,Quinlan Toelke,M Lacrosse,Spring,1/1/2025,6/1/2025,Out of Season,Late Offseason,1
+MLAX65,Men's Lacrosse,2/16/2026,Brain,Head,NA,Concussion,NA,Returned To Play and Closed,Quinlan Toelke,M Lacrosse,Spring,1/1/2026,6/1/2026,In Season,Early-Mid,1
+MSOC40,Men's Soccer,9/30/2025,Respirology,General Medical,Right,Pneumothorax,NA,Not Cleared,Quinlin Hahn,M Soccer,Fall,8/1/2025,12/1/2025,In Season,Early-Mid,1
+WSD34,Women's Swimming & Diving,10/1/2024,Lumbar Spine,Torso,NA,Pain in lumbar spine (finding),NA,Returned To Play As Tolerated,Quinn Brown,W Swim,Winter,9/15/2024,3/31/2025,In Season,Early Season,1
+WSD34,Women's Swimming & Diving,1/29/2025,Wrist,Upper Extremity,Right,Sprain,NA,Returned To Play As Tolerated,Quinn Brown,W Swim,Winter,9/15/2024,3/31/2025,In Season,Late-Mid,0
+WSD34,Women's Swimming & Diving,11/17/2025,Psychological,General Medical,NA,Fatigue,NA,Returned To Play As Tolerated,Quinn Brown,W Swim,Winter,9/15/2025,3/31/2026,In Season,Early-Mid,0
+FB54,Football,9/19/2023,Brain,Head,Does Not Apply,Concussion,NA,Limited Activity,Quinn Stengrim,Football,Fall,8/1/2023,12/1/2023,In Season,Early-Mid,0
 FB34,Football,12/2/2025,Shoulder,Upper Extremity,Left,Sprain,Acromioclavicular Ligament (I or II),Returned To Play As Tolerated,Quinton DeVault,Football,Fall,8/1/2025,12/1/2025,Out of Season,Late Offseason,1
-FH11,Field Hockey,9/29/2023,Brain,Head,,Concussion,,Returned To Play and Closed,Rachel Gilio,Field Hockey,Fall,8/1/2023,12/1/2023,In Season,Early-Mid,1
-FH11,Field Hockey,2/23/2024,Sacrum,Torso,Right,Other,,Returned To Play As Tolerated,Rachel Gilio,Field Hockey,Fall,8/1/2024,12/1/2024,Out of Season,Early Offseason,1
-FH11,Field Hockey,8/22/2024,Hip,Lower Extremity,Left,Tightness,,Returned To Play and Closed,Rachel Gilio,Field Hockey,Fall,8/1/2024,12/1/2024,In Season,Early Season,1
-FH11,Field Hockey,9/20/2024,Toes,Lower Extremity,Left,Turf Toe,,Returned To Play and Closed,Rachel Gilio,Field Hockey,Fall,8/1/2024,12/1/2024,In Season,Early-Mid,1
+FH11,Field Hockey,9/29/2023,Brain,Head,NA,Concussion,NA,Returned To Play and Closed,Rachel Gilio,Field Hockey,Fall,8/1/2023,12/1/2023,In Season,Early-Mid,1
+FH11,Field Hockey,2/23/2024,Sacrum,Torso,Right,Other,NA,Returned To Play As Tolerated,Rachel Gilio,Field Hockey,Fall,8/1/2024,12/1/2024,Out of Season,Early Offseason,1
+FH11,Field Hockey,8/22/2024,Hip,Lower Extremity,Left,Tightness,NA,Returned To Play and Closed,Rachel Gilio,Field Hockey,Fall,8/1/2024,12/1/2024,In Season,Early Season,1
+FH11,Field Hockey,9/20/2024,Toes,Lower Extremity,Left,Turf Toe,NA,Returned To Play and Closed,Rachel Gilio,Field Hockey,Fall,8/1/2024,12/1/2024,In Season,Early-Mid,1
 FH11,Field Hockey,8/18/2025,Lower Leg,Lower Extremity,Right,Tendinitis,Achilles Tendon,Returned To Play As Tolerated,Rachel Gilio,Field Hockey,Fall,8/1/2025,12/1/2025,In Season,Early Season,1
 FH11,Field Hockey,8/23/2025,Thigh,Lower Extremity,Left,Strain,Hamstring (partial tear),Returned To Play As Tolerated,Rachel Gilio,Field Hockey,Fall,8/1/2025,12/1/2025,In Season,Early Season,1
-WTE15,Women's Tennis,9/11/2025,Lumbar Spine,Torso,Left,Herniation,,Returned To Play As Tolerated,Rafaella Ramos,W Tennis,Spring,1/1/2025,6/1/2025,Out of Season,Late Offseason,1
-VB12,Volleyball,11/9/2024,Brain,Head,Does Not Apply,Concussion,,Returned To Play and Closed,Reagan Sass,Volleyball,Fall,8/1/2024,12/1/2024,In Season,Late Season,1
-VB12,Volleyball,4/8/2025,Elbow,Upper Extremity,Right,Hyperextension,,Returned To Play As Tolerated,Reagan Sass,Volleyball,Fall,8/1/2025,12/1/2025,Out of Season,Early Offseason,1
+WTE15,Women's Tennis,9/11/2025,Lumbar Spine,Torso,Left,Herniation,NA,Returned To Play As Tolerated,Rafaella Ramos,W Tennis,Spring,1/1/2025,6/1/2025,Out of Season,Late Offseason,1
+VB12,Volleyball,11/9/2024,Brain,Head,Does Not Apply,Concussion,NA,Returned To Play and Closed,Reagan Sass,Volleyball,Fall,8/1/2024,12/1/2024,In Season,Late Season,1
+VB12,Volleyball,4/8/2025,Elbow,Upper Extremity,Right,Hyperextension,NA,Returned To Play As Tolerated,Reagan Sass,Volleyball,Fall,8/1/2025,12/1/2025,Out of Season,Early Offseason,1
 MSD32,Men's Swimming & Diving,1/6/2024,Hip,Lower Extremity,Left,Strain,Adductor,Returned To Play As Tolerated,Red Ricciardi,M Swim,Winter,9/15/2023,3/31/2024,In Season,Late-Mid,0
-FH12,Field Hockey,2/26/2024,Ankle,Lower Extremity,Right,Bursitis,,Limited Activity,Reilly Desmond,Field Hockey,Fall,8/1/2024,12/1/2024,Out of Season,Early Offseason,1
-FH12,Field Hockey,1/29/2024,Thigh,Lower Extremity,Bilateral,Tightness,,Returned To Play As Tolerated,Reilly Desmond,Field Hockey,Fall,8/1/2024,12/1/2024,Out of Season,Early Offseason,0
-FH12,Field Hockey,9/9/2024,Wrist,Upper Extremity,Right,Sprain,,Returned To Play and Closed,Reilly Desmond,Field Hockey,Fall,8/1/2024,12/1/2024,In Season,Early-Mid,0
-FH12,Field Hockey,8/19/2025,Thigh,Lower Extremity,Left,Strain,,Returned To Play and Closed,Reilly Desmond,Field Hockey,Fall,8/1/2025,12/1/2025,In Season,Early Season,1
-FH12,Field Hockey,9/21/2025,Brain,Head,,Concussion,,Returned To Play and Closed,Reilly Desmond,Field Hockey,Fall,8/1/2025,12/1/2025,In Season,Early-Mid,1
+FH12,Field Hockey,2/26/2024,Ankle,Lower Extremity,Right,Bursitis,NA,Limited Activity,Reilly Desmond,Field Hockey,Fall,8/1/2024,12/1/2024,Out of Season,Early Offseason,1
+FH12,Field Hockey,1/29/2024,Thigh,Lower Extremity,Bilateral,Tightness,NA,Returned To Play As Tolerated,Reilly Desmond,Field Hockey,Fall,8/1/2024,12/1/2024,Out of Season,Early Offseason,0
+FH12,Field Hockey,9/9/2024,Wrist,Upper Extremity,Right,Sprain,NA,Returned To Play and Closed,Reilly Desmond,Field Hockey,Fall,8/1/2024,12/1/2024,In Season,Early-Mid,0
+FH12,Field Hockey,8/19/2025,Thigh,Lower Extremity,Left,Strain,NA,Returned To Play and Closed,Reilly Desmond,Field Hockey,Fall,8/1/2025,12/1/2025,In Season,Early Season,1
+FH12,Field Hockey,9/21/2025,Brain,Head,NA,Concussion,NA,Returned To Play and Closed,Reilly Desmond,Field Hockey,Fall,8/1/2025,12/1/2025,In Season,Early-Mid,1
 WSOC5,Women's Soccer,8/21/2023,Ankle,Lower Extremity,Left,Sprain,Anterior Talofibular,Returned To Play As Tolerated,Reily Brinley,W Soccer,Fall,8/1/2023,12/1/2023,In Season,Early Season,0
-FB112,Football,2/21/2024,Male,Genitals,,Other,,Limited Activity,Ricky Kampmann,Football,Fall,8/1/2024,12/1/2024,Out of Season,Early Offseason,1
-MBB12,Men's Basketball,1/30/2024,Foot,Lower Extremity,Left,Sprain,,Limited Activity,Ricky Radtke,M Basketball,Winter,9/15/2023,3/31/2024,In Season,Late-Mid,0
+FB112,Football,2/21/2024,Male,Genitals,NA,Other,NA,Limited Activity,Ricky Kampmann,Football,Fall,8/1/2024,12/1/2024,Out of Season,Early Offseason,1
+MBB12,Men's Basketball,1/30/2024,Foot,Lower Extremity,Left,Sprain,NA,Limited Activity,Ricky Radtke,M Basketball,Winter,9/15/2023,3/31/2024,In Season,Late-Mid,0
 MBB12,Men's Basketball,9/30/2024,Hip,Lower Extremity,Right,Strain,Iliopsoas,Returned To Play As Tolerated,Ricky Radtke,M Basketball,Winter,9/15/2024,3/31/2025,In Season,Early Season,0
-MBB12,Men's Basketball,3/3/2025,Foot,Lower Extremity,Left,Foot pain (finding),,Returned To Play As Tolerated,Ricky Radtke,M Basketball,Winter,9/15/2024,3/31/2025,In Season,Late Season,0
-WSD36,Women's Swimming & Diving,11/20/2024,Respirology,General Medical,,Pneumonia,,Limited Activity,Riley Tofflremire,W Swim,Winter,9/15/2024,3/31/2025,In Season,Early-Mid,0
-WSD53,Women's Swimming & Diving,9/19/2025,Brain,Head,,Concussion,,Not Cleared,Rinka Yoshida,W Swim,Winter,9/15/2025,3/31/2026,In Season,Early Season,0
-BASEB36,Baseball,9/2/2024,Elbow,Upper Extremity,Right,Inflammation,,Returned To Play As Tolerated,Robbie Lee,Baseball,Spring,1/1/2024,6/1/2024,Out of Season,Late Offseason,0
+MBB12,Men's Basketball,3/3/2025,Foot,Lower Extremity,Left,Foot pain (finding),NA,Returned To Play As Tolerated,Ricky Radtke,M Basketball,Winter,9/15/2024,3/31/2025,In Season,Late Season,0
+WSD36,Women's Swimming & Diving,11/20/2024,Respirology,General Medical,NA,Pneumonia,NA,Limited Activity,Riley Tofflremire,W Swim,Winter,9/15/2024,3/31/2025,In Season,Early-Mid,0
+WSD53,Women's Swimming & Diving,9/19/2025,Brain,Head,NA,Concussion,NA,Not Cleared,Rinka Yoshida,W Swim,Winter,9/15/2025,3/31/2026,In Season,Early Season,0
+BASEB36,Baseball,9/2/2024,Elbow,Upper Extremity,Right,Inflammation,NA,Returned To Play As Tolerated,Robbie Lee,Baseball,Spring,1/1/2024,6/1/2024,Out of Season,Late Offseason,0
 BASEB36,Baseball,9/13/2025,Ankle,Lower Extremity,Right,Sprain,"Anterior Talofibular, Calcaneofibular",Returned To Play As Tolerated,Robbie Lee,Baseball,Spring,1/1/2025,6/1/2025,Out of Season,Late Offseason,1
 FB142,Football,10/18/2025,Thigh,Lower Extremity,Right,Contusion,Quadriceps,Limited Activity,Robert Lucey,Football,Fall,8/1/2025,12/1/2025,In Season,Late-Mid,1
-MSOC26,Men's Soccer,4/20/2024,Lower Leg,Lower Extremity,Right,Fracture,,Not Cleared,Ronan Kiter,M Soccer,Fall,8/1/2024,12/1/2024,Out of Season,Early Offseason,1
-MSOC26,Men's Soccer,3/3/2024,Lower Back,Torso,Left,Strain,,Returned To Play As Tolerated,Ronan Kiter,M Soccer,Fall,8/1/2024,12/1/2024,Out of Season,Early Offseason,0
-FB135,Football,9/27/2025,Brain,Head,Does Not Apply,Concussion,,Not Cleared,Rory Ralston,Football,Fall,8/1/2025,12/1/2025,In Season,Early-Mid,1
+MSOC26,Men's Soccer,4/20/2024,Lower Leg,Lower Extremity,Right,Fracture,NA,Not Cleared,Ronan Kiter,M Soccer,Fall,8/1/2024,12/1/2024,Out of Season,Early Offseason,1
+MSOC26,Men's Soccer,3/3/2024,Lower Back,Torso,Left,Strain,NA,Returned To Play As Tolerated,Ronan Kiter,M Soccer,Fall,8/1/2024,12/1/2024,Out of Season,Early Offseason,0
+FB135,Football,9/27/2025,Brain,Head,Does Not Apply,Concussion,NA,Not Cleared,Rory Ralston,Football,Fall,8/1/2025,12/1/2025,In Season,Early-Mid,1
 FB135,Football,12/4/2025,Ankle,Lower Extremity,Right,Tendinitis,Plantar Flexors,Long Term Injury/Status Unknown - Closed,Rory Ralston,Football,Fall,8/1/2025,12/1/2025,Out of Season,Late Offseason,1
 VB10,Volleyball,9/17/2024,Shoulder,Upper Extremity,Right,Tendinitis,General Rotator Cuff,Returned To Play As Tolerated,Ryan Kotalik,Volleyball,Fall,8/1/2024,12/1/2024,In Season,Early-Mid,1
-VB10,Volleyball,9/10/2024,Gastrointestinal,General Medical,Midline,Other Gastrointestinal Disorder,,Returned To Play and Closed,Ryan Kotalik,Volleyball,Fall,8/1/2024,12/1/2024,In Season,Early-Mid,1
+VB10,Volleyball,9/10/2024,Gastrointestinal,General Medical,Midline,Other Gastrointestinal Disorder,NA,Returned To Play and Closed,Ryan Kotalik,Volleyball,Fall,8/1/2024,12/1/2024,In Season,Early-Mid,1
 VB10,Volleyball,9/6/2025,Knee,Lower Extremity,Right,Sprain,Medial Collateral Ligament,Returned To Play As Tolerated,Ryan Kotalik,Volleyball,Fall,8/1/2025,12/1/2025,In Season,Early-Mid,0
-MTE9,Men's Tennis,9/9/2024,Abdomen,Torso,,Strain,Internal Oblique,Returned To Play and Closed,Ryan Patrick,M Tennis,Spring,1/1/2024,6/1/2024,Out of Season,Late Offseason,1
-BASEB38,Baseball,9/5/2023,Lumbar Spine,Torso,Bilateral,Other Lumbar Injury,,Returned To Play and Closed,Ryan Starr,Baseball,Spring,1/1/2023,6/1/2023,Out of Season,Late Offseason,0
+MTE9,Men's Tennis,9/9/2024,Abdomen,Torso,NA,Strain,Internal Oblique,Returned To Play and Closed,Ryan Patrick,M Tennis,Spring,1/1/2024,6/1/2024,Out of Season,Late Offseason,1
+BASEB38,Baseball,9/5/2023,Lumbar Spine,Torso,Bilateral,Other Lumbar Injury,NA,Returned To Play and Closed,Ryan Starr,Baseball,Spring,1/1/2023,6/1/2023,Out of Season,Late Offseason,0
 VB3,Volleyball,8/25/2023,Shoulder,Upper Extremity,Left,Subluxation,"Glenohumeral, Posterior",Returned To Play As Tolerated,Sadie Habeeb,Volleyball,Fall,8/1/2023,12/1/2023,In Season,Early Season,0
-VB3,Volleyball,10/20/2024,Lower Back,Torso,Bilateral,Sprain,,Returned To Play As Tolerated,Sadie Habeeb,Volleyball,Fall,8/1/2024,12/1/2024,In Season,Late-Mid,0
-BASEB39,Baseball,9/3/2024,Shoulder,Upper Extremity,Right,Inflammation,,Returned To Play As Tolerated,Sam Larson,Baseball,Spring,1/1/2024,6/1/2024,Out of Season,Late Offseason,0
+VB3,Volleyball,10/20/2024,Lower Back,Torso,Bilateral,Sprain,NA,Returned To Play As Tolerated,Sadie Habeeb,Volleyball,Fall,8/1/2024,12/1/2024,In Season,Late-Mid,0
+BASEB39,Baseball,9/3/2024,Shoulder,Upper Extremity,Right,Inflammation,NA,Returned To Play As Tolerated,Sam Larson,Baseball,Spring,1/1/2024,6/1/2024,Out of Season,Late Offseason,0
 WSOC10,Women's Soccer,8/22/2024,Knee,Lower Extremity,Left,Chondromalacia,Patellafemoral,Returned To Play As Tolerated,Sarah Sollinger,W Soccer,Fall,8/1/2024,12/1/2024,In Season,Early Season,1
-SB1,Softball,1/15/2024,Knee,Lower Extremity,,Knee pain (finding),,Returned To Play As Tolerated,Sasa Groome,Softball,Spring,1/1/2024,6/1/2024,In Season,Early Season,0
+SB1,Softball,1/15/2024,Knee,Lower Extremity,NA,Knee pain (finding),NA,Returned To Play As Tolerated,Sasa Groome,Softball,Spring,1/1/2024,6/1/2024,In Season,Early Season,0
 BASEB59,Baseball,9/8/2025,Patella,Lower Extremity,Right,Chondromalacia,Articulating Surface,Returned To Play As Tolerated,Shane McKenna,Baseball,Spring,1/1/2025,6/1/2025,Out of Season,Late Offseason,1
 WLAX37,Women's Lacrosse,11/6/2023,Knee,Lower Extremity,Right,Other Knee Injury,NA,-,Shapard Croft,W Lacrosse,Spring,1/1/2023,6/1/2023,Out of Season,Late Offseason,1
-FB107,Football,9/23/2024,Shoulder,Upper Extremity,,Sprain,,Active,Shawn Ugbana,Football,Fall,8/1/2024,12/1/2024,In Season,Early-Mid,1
-FB107,Football,9/23/2024,Shoulder,Upper Extremity,,Sprain,,Active,Shawn Ugbana,Football,Fall,8/1/2024,12/1/2024,In Season,Early-Mid,1
-FB107,Football,10/19/2024,Ankle,Lower Extremity,Right,Sprain,,Returned To Play As Tolerated,Shawn Ugbana,Football,Fall,8/1/2024,12/1/2024,In Season,Late-Mid,1
-MSD36,Men's Swimming & Diving,1/19/2024,Ankle,Lower Extremity,Left,Tendinosis (finding),,Returned To Play As Tolerated,Shea Card,M Swim,Winter,9/15/2023,3/31/2024,In Season,Late-Mid,1
+FB107,Football,9/23/2024,Shoulder,Upper Extremity,NA,Sprain,NA,Active,Shawn Ugbana,Football,Fall,8/1/2024,12/1/2024,In Season,Early-Mid,1
+FB107,Football,10/19/2024,Ankle,Lower Extremity,Right,Sprain,NA,Returned To Play As Tolerated,Shawn Ugbana,Football,Fall,8/1/2024,12/1/2024,In Season,Late-Mid,1
+MSD36,Men's Swimming & Diving,1/19/2024,Ankle,Lower Extremity,Left,Tendinosis (finding),NA,Returned To Play As Tolerated,Shea Card,M Swim,Winter,9/15/2023,3/31/2024,In Season,Late-Mid,1
 G24,Golf,10/9/2024,Hip,Lower Extremity,Right,Strain,Iliopsoas,Returned To Play As Tolerated,Siena Maschke,Golf,Spring,1/1/2024,6/1/2024,Out of Season,Late Offseason,1
-G24,Golf,10/9/2024,Hip,Lower Extremity,Right,Strain,Rectus Femoris ,Returned To Play As Tolerated,Siena Maschke,Golf,Spring,1/1/2024,6/1/2024,Out of Season,Late Offseason,1
 G24,Golf,4/17/2025,Ankle,Lower Extremity,Left,Tendinitis,Peroneus Longus,Returned To Play As Tolerated,Siena Maschke,Golf,Spring,1/1/2025,6/1/2025,In Season,Late-Mid,1
-G24,Golf,9/18/2025,Lower Back,Torso,Bilateral,Other,,Returned To Play As Tolerated,Siena Maschke,Golf,Spring,1/1/2025,6/1/2025,Out of Season,Late Offseason,1
-WSOC20,Women's Soccer,8/18/2024,Wrist,Upper Extremity,Left,Pain in wrist (finding),,Returned To Play As Tolerated,Sophia Connell,W Soccer,Fall,8/1/2024,12/1/2024,In Season,Early Season,1
-WTE13,Women's Tennis,9/11/2025,Abdomen,Torso,Left,Other,,Not Cleared,Sophia Gallagher,W Tennis,Spring,1/1/2025,6/1/2025,Out of Season,Late Offseason,1
-WTE13,Women's Tennis,12/5/2025,Infectious Disease,General Medical,,Mononucleosis,,Returned To Play and Closed,Sophia Gallagher,W Tennis,Spring,1/1/2025,6/1/2025,Out of Season,Late Offseason,1
+G24,Golf,9/18/2025,Lower Back,Torso,Bilateral,Other,NA,Returned To Play As Tolerated,Siena Maschke,Golf,Spring,1/1/2025,6/1/2025,Out of Season,Late Offseason,1
+WSOC20,Women's Soccer,8/18/2024,Wrist,Upper Extremity,Left,Pain in wrist (finding),NA,Returned To Play As Tolerated,Sophia Connell,W Soccer,Fall,8/1/2024,12/1/2024,In Season,Early Season,1
+WTE13,Women's Tennis,9/11/2025,Abdomen,Torso,Left,Other,NA,Not Cleared,Sophia Gallagher,W Tennis,Spring,1/1/2025,6/1/2025,Out of Season,Late Offseason,1
+WTE13,Women's Tennis,12/5/2025,Infectious Disease,General Medical,NA,Mononucleosis,NA,Returned To Play and Closed,Sophia Gallagher,W Tennis,Spring,1/1/2025,6/1/2025,Out of Season,Late Offseason,1
 SB17,Softball,11/7/2024,Ankle,Lower Extremity,Right,Sprain,Anterior Talofibular,Returned To Play and Closed,Sophia Rowan,Softball,Spring,1/1/2024,6/1/2024,Out of Season,Late Offseason,0
-WLAX38,Women's Lacrosse,12/4/2023,Hip,Lower Extremity,Left,Tightness,,Returned To Play As Tolerated,Sophie Davenport,W Lacrosse,Spring,1/1/2023,6/1/2023,Out of Season,Late Offseason,0
+WLAX38,Women's Lacrosse,12/4/2023,Hip,Lower Extremity,Left,Tightness,NA,Returned To Play As Tolerated,Sophie Davenport,W Lacrosse,Spring,1/1/2023,6/1/2023,Out of Season,Late Offseason,0
 WSD37,Women's Swimming & Diving,1/14/2025,Toes,Lower Extremity,Left,Fracture,5th Phalange,Returned To Play As Tolerated,Sophie Kannee,W Swim,Winter,9/15/2024,3/31/2025,In Season,Late-Mid,1
 SB30,Softball,2/3/2026,Ankle,Lower Extremity,Right,Ankle instability (finding),Anterior Tibiofibular Ligament,Returned To Play As Tolerated,Stella Mix,Softball,Spring,1/1/2026,6/1/2026,In Season,Early Season,0
-SB18,Softball,4/12/2024,Thigh,Lower Extremity,Left,Strain,,Returned To Play As Tolerated,Sydney Silverstein,Softball,Spring,1/1/2024,6/1/2024,In Season,Late-Mid,1
-SB18,Softball,4/3/2024,Hip,Lower Extremity,Left,Discomfort (finding),,Returned To Play As Tolerated,Sydney Silverstein,Softball,Spring,1/1/2024,6/1/2024,In Season,Late-Mid,1
-SB18,Softball,10/2/2023,Hip,Lower Extremity,Right,Other Hip Injury,,Limited Activity,Sydney Silverstein,Softball,Spring,1/1/2023,6/1/2023,Out of Season,Late Offseason,1
-SB18,Softball,2/11/2024,Shoulder,Upper Extremity,Right,Sprain,,Returned To Play As Tolerated,Sydney Silverstein,Softball,Spring,1/1/2024,6/1/2024,In Season,Early-Mid,1
-FH13,Field Hockey,10/14/2024,Knee,Lower Extremity,Right,Knee pain (finding),,Returned To Play As Tolerated,Tabitha Chandler,Field Hockey,Fall,8/1/2024,12/1/2024,In Season,Late-Mid,0
-WSD39,Women's Swimming & Diving,12/12/2023,Lower Back,Torso,Bilateral,Discomfort (finding),,Returned To Play As Tolerated,Taryn Wisner,W Swim,Winter,9/15/2023,3/31/2024,In Season,Early-Mid,0
-WSOC13,Women's Soccer,8/23/2023,Shoulder,Upper Extremity,Right,Subluxation,,Not Cleared,Tate Lucas,W Soccer,Fall,8/1/2023,12/1/2023,In Season,Early Season,0
+SB18,Softball,4/12/2024,Thigh,Lower Extremity,Left,Strain,NA,Returned To Play As Tolerated,Sydney Silverstein,Softball,Spring,1/1/2024,6/1/2024,In Season,Late-Mid,1
+SB18,Softball,4/3/2024,Hip,Lower Extremity,Left,Discomfort (finding),NA,Returned To Play As Tolerated,Sydney Silverstein,Softball,Spring,1/1/2024,6/1/2024,In Season,Late-Mid,1
+SB18,Softball,10/2/2023,Hip,Lower Extremity,Right,Other Hip Injury,NA,Limited Activity,Sydney Silverstein,Softball,Spring,1/1/2023,6/1/2023,Out of Season,Late Offseason,1
+SB18,Softball,2/11/2024,Shoulder,Upper Extremity,Right,Sprain,NA,Returned To Play As Tolerated,Sydney Silverstein,Softball,Spring,1/1/2024,6/1/2024,In Season,Early-Mid,1
+FH13,Field Hockey,10/14/2024,Knee,Lower Extremity,Right,Knee pain (finding),NA,Returned To Play As Tolerated,Tabitha Chandler,Field Hockey,Fall,8/1/2024,12/1/2024,In Season,Late-Mid,0
+WSD39,Women's Swimming & Diving,12/12/2023,Lower Back,Torso,Bilateral,Discomfort (finding),NA,Returned To Play As Tolerated,Taryn Wisner,W Swim,Winter,9/15/2023,3/31/2024,In Season,Early-Mid,0
+WSOC13,Women's Soccer,8/23/2023,Shoulder,Upper Extremity,Right,Subluxation,NA,Not Cleared,Tate Lucas,W Soccer,Fall,8/1/2023,12/1/2023,In Season,Early Season,0
 WSOC13,Women's Soccer,8/19/2025,Knee,Lower Extremity,Right,Rupture,Anterior Cruciate Ligament,Not Cleared,Tate Lucas,W Soccer,Fall,8/1/2025,12/1/2025,In Season,Early Season,1
-MSD37,Men's Swimming & Diving,4/4/2024,Infectious Disease,General Medical,,Mononucleosis,,Limited Activity,Teak Rommaneekochchakorn,M Swim,Winter,9/15/2024,3/31/2025,Out of Season,Early Offseason,0
-MSD37,Men's Swimming & Diving,9/12/2023,Lower Back,Torso,Left,Strain,,Returned To Play As Tolerated,Teak Rommaneekochchakorn,M Swim,Winter,9/15/2023,3/31/2024,Out of Season,Early Offseason,0
+MSD37,Men's Swimming & Diving,4/4/2024,Infectious Disease,General Medical,NA,Mononucleosis,NA,Limited Activity,Teak Rommaneekochchakorn,M Swim,Winter,9/15/2024,3/31/2025,Out of Season,Early Offseason,0
+MSD37,Men's Swimming & Diving,9/12/2023,Lower Back,Torso,Left,Strain,NA,Returned To Play As Tolerated,Teak Rommaneekochchakorn,M Swim,Winter,9/15/2023,3/31/2024,Out of Season,Early Offseason,0
 MSD37,Men's Swimming & Diving,1/23/2024,Hip,Lower Extremity,Bilateral,Strain,Adductor,Returned To Play As Tolerated,Teak Rommaneekochchakorn,M Swim,Winter,9/15/2023,3/31/2024,In Season,Late-Mid,1
 WSOC26,Women's Soccer,10/7/2024,Hip,Lower Extremity,Right,Strain,Iliopsoas,Limited Activity,Tessa Bensley,W Soccer,Fall,8/1/2024,12/1/2024,In Season,Late-Mid,1
 FB169,Football,10/18/2025,Ankle,Lower Extremity,Right,Sprain,"Anterior Talofibular, Calcaneofibular",Returned To Play As Tolerated,Theophanis Koulianos,Football,Fall,8/1/2025,12/1/2025,In Season,Late-Mid,1
 BASEB56,Baseball,1/29/2025,Shoulder,Upper Extremity,Right,Tendinitis,"Infraspinatus, Subscapularis, Teres Minor",Returned To Play As Tolerated,Thomas Antonpillai,Baseball,Spring,1/1/2025,6/1/2025,In Season,Early Season,1
 FB154,Football,8/16/2025,Thigh,Lower Extremity,Right,Strain,Biceps Femoris,Returned To Play As Tolerated,Thomas Whiteside,Football,Fall,8/1/2025,12/1/2025,In Season,Early Season,1
-G22,Golf,10/18/2025,Forearm,Upper Extremity,Left,Tendinitis,,Returned To Play As Tolerated,Timothy Moriarty,Golf,Spring,1/1/2025,6/1/2025,Out of Season,Late Offseason,1
-G22,Golf,10/22/2025,Forearm,Upper Extremity,Left,Tendinitis,,Returned To Play As Tolerated,Timothy Moriarty,Golf,Spring,1/1/2025,6/1/2025,Out of Season,Late Offseason,1
+G22,Golf,10/18/2025,Forearm,Upper Extremity,Left,Tendinitis,NA,Returned To Play As Tolerated,Timothy Moriarty,Golf,Spring,1/1/2025,6/1/2025,Out of Season,Late Offseason,1
+G22,Golf,10/22/2025,Forearm,Upper Extremity,Left,Tendinitis,NA,Returned To Play As Tolerated,Timothy Moriarty,Golf,Spring,1/1/2025,6/1/2025,Out of Season,Late Offseason,1
 MTE22,Men's Tennis,9/1/2025,Ankle,Lower Extremity,Right,Sprain,Post. Talofibular,Returned To Play As Tolerated,Tom Suedmeyer,M Tennis,Spring,1/1/2025,6/1/2025,Out of Season,Late Offseason,1
-MTE22,Men's Tennis,10/31/2025,Respirology,General Medical,,Pneumonia,,Not Cleared,Tom Suedmeyer,M Tennis,Spring,1/1/2025,6/1/2025,Out of Season,Late Offseason,0
-MTE7,Men's Tennis,9/9/2024,Upper arm,Upper Extremity,Left,Other Arm Injury,,Long Term Injury/Status Unknown - Closed,Tomer Ozmo,M Tennis,Spring,1/1/2024,6/1/2024,Out of Season,Late Offseason,1
+MTE22,Men's Tennis,10/31/2025,Respirology,General Medical,NA,Pneumonia,NA,Not Cleared,Tom Suedmeyer,M Tennis,Spring,1/1/2025,6/1/2025,Out of Season,Late Offseason,0
+MTE7,Men's Tennis,9/9/2024,Upper arm,Upper Extremity,Left,Other Arm Injury,NA,Long Term Injury/Status Unknown - Closed,Tomer Ozmo,M Tennis,Spring,1/1/2024,6/1/2024,Out of Season,Late Offseason,1
 FB97,Football,9/9/2023,Shoulder,Upper Extremity,Right,Sprain,Acromioclavicular Ligament (III or greater),Returned To Play As Tolerated,Tommy Asleson,Football,Fall,8/1/2023,12/1/2023,In Season,Early-Mid,1
-MSOC42,Men's Soccer,9/1/2025,Respirology,General Medical,Does Not Apply,Upper Respiratory Infection,,Returned To Play As Tolerated,Tommy Hoskins,M Soccer,Fall,8/1/2025,12/1/2025,In Season,Early-Mid,0
-MLAX46,Men's Lacrosse,4/12/2025,Rib,Torso,Left,Contusion,,Returned To Play As Tolerated,Tommy Quinson,M Lacrosse,Spring,1/1/2025,6/1/2025,In Season,Late-Mid,0
-FB115,Football,8/14/2025,Environmental,General Medical,Does Not Apply,Dehydration,,Returned To Play and Closed,Trent Salyards,Football,Fall,8/1/2025,12/1/2025,In Season,Early Season,0
-FB115,Football,10/14/2025,Abdomen,Torso,Right,Spasm,,Returned To Play and Closed,Trent Salyards,Football,Fall,8/1/2025,12/1/2025,In Season,Late-Mid,0
+MSOC42,Men's Soccer,9/1/2025,Respirology,General Medical,Does Not Apply,Upper Respiratory Infection,NA,Returned To Play As Tolerated,Tommy Hoskins,M Soccer,Fall,8/1/2025,12/1/2025,In Season,Early-Mid,0
+MLAX46,Men's Lacrosse,4/12/2025,Rib,Torso,Left,Contusion,NA,Returned To Play As Tolerated,Tommy Quinson,M Lacrosse,Spring,1/1/2025,6/1/2025,In Season,Late-Mid,0
+FB115,Football,8/14/2025,Environmental,General Medical,Does Not Apply,Dehydration,NA,Returned To Play and Closed,Trent Salyards,Football,Fall,8/1/2025,12/1/2025,In Season,Early Season,0
+FB115,Football,10/14/2025,Abdomen,Torso,Right,Spasm,NA,Returned To Play and Closed,Trent Salyards,Football,Fall,8/1/2025,12/1/2025,In Season,Late-Mid,0
 MBB14,Men's Basketball,2/15/2024,Ankle,Lower Extremity,Right,Sprain,Anterior Talofibular,Returned To Play As Tolerated,Trevor Reed,M Basketball,Winter,9/15/2023,3/31/2024,In Season,Late Season,0
 MBB14,Men's Basketball,12/6/2025,Knee,Lower Extremity,Left,Sprain,Anterior Cruciate Ligament,Not Cleared,Trevor Reed,M Basketball,Winter,9/15/2025,3/31/2026,In Season,Early-Mid,0
 FB29,Football,8/11/2023,Thigh,Lower Extremity,Left,Strain,Hamstring (partial tear),Limited Activity,Trey Fabrocini,Football,Fall,8/1/2023,12/1/2023,In Season,Early Season,1
 FB29,Football,9/30/2023,Lower Leg,Lower Extremity,Right,Strain,Gastrocsoleus Complex (partial tear),Not Cleared,Trey Fabrocini,Football,Fall,8/1/2023,12/1/2023,In Season,Early-Mid,1
-MLAX45,Men's Lacrosse,1/25/2025,Brain,Head,,Concussion,,Not Cleared,Tristan Moss,M Lacrosse,Spring,1/1/2025,6/1/2025,In Season,Early Season,
-MLAX76,Men's Lacrosse,10/6/2025,Brain,Head,Does Not Apply,Concussion,,Limited Activity,Tucker Paxson,M Lacrosse,Spring,1/1/2025,6/1/2025,Out of Season,Late Offseason,
-FB66,Football,3/26/2024,Brain,Head,,Concussion,,Not Cleared,Ty Belville,Football,Fall,8/1/2024,12/1/2024,Out of Season,Early Offseason,
-MSD39,Men's Swimming & Diving,1/9/2024,Hip,Lower Extremity,Right,Hip pain (finding),,Returned To Play As Tolerated,Tyler Distenfeld,M Swim,Winter,9/15/2023,3/31/2024,In Season,Late-Mid,
-MSOC6,Men's Soccer,11/29/2023,Lumbar Spine,Torso,Bilateral,Tightness,,Returned To Play As Tolerated,Tyler Weiss,M Soccer,Fall,8/1/2023,12/1/2023,In Season,Late Season,
-MSOC6,Men's Soccer,8/17/2024,Thigh,Lower Extremity,Right,Strain,Hamstring (partial tear),Not Cleared,Tyler Weiss,M Soccer,Fall,8/1/2024,12/1/2024,In Season,Early Season,
-MSOC6,Men's Soccer,8/30/2025,Thigh,Lower Extremity,Left,Strain,Biceps Femoris,Returned To Play As Tolerated,Tyler Weiss,M Soccer,Fall,8/1/2025,12/1/2025,In Season,Early Season,
-FB8,Football,9/12/2024,Knee,Lower Extremity,Right,Sprain,Anterior Cruciate Ligament,Not Cleared,Vincent Cognetta,Football,Fall,8/1/2024,12/1/2024,In Season,Early-Mid,
-FB8,Football,9/12/2024,Knee,Lower Extremity,Right,Sprain,Medial Collateral Ligament,Not Cleared,Vincent Cognetta,Football,Fall,8/1/2024,12/1/2024,In Season,Early-Mid,
-WBB19,Women's Basketball,2/20/2024,Larynx,Neck,,Other,,Returned To Play and Closed,Violet Mitchell,W Basketball,Winter,9/15/2023,3/31/2024,In Season,Late Season,
-WBB19,Women's Basketball,9/6/2024,Ankle,Lower Extremity,,Sprain,,Returned To Play As Tolerated,Violet Mitchell,W Basketball,Winter,9/15/2024,3/31/2025,Out of Season,Early Offseason,
-WBB19,Women's Basketball,3/2/2025,Foot,Lower Extremity,,Stress Fracture,,Not Cleared,Violet Mitchell,W Basketball,Winter,9/15/2024,3/31/2025,In Season,Late Season,
-G20,Golf,3/20/2025,Thoracic Spine,Torso,Bilateral,Strain,Longissimus Thoracis,Limited Activity,Walker Grelle,Golf,Spring,1/1/2025,6/1/2025,In Season,Late-Mid,
-MSOC2,Men's Soccer,8/17/2024,Hip,Lower Extremity,Right,Strain,Iliopsoas,Limited Activity,Wesley Bruner,M Soccer,Fall,8/1/2024,12/1/2024,In Season,Early Season,
-MTE19,Men's Tennis,9/22/2025,Shoulder,Upper Extremity,Right,Tendinitis,Rotator Cuff,Returned To Play As Tolerated,Wesley Huang,M Tennis,Spring,1/1/2025,6/1/2025,Out of Season,Late Offseason,
-MSOC30,Men's Soccer,11/16/2025,Mouth,Head,Midline,Fracture,Tooth,Returned To Play As Tolerated,Will Fullerton,M Soccer,Fall,8/1/2025,12/1/2025,In Season,Late Season,
-FB46,Football,8/14/2023,Thigh,Lower Extremity,Left,Strain,Hamstring (partial tear),Limited Activity,Will Solis,Football,Fall,8/1/2023,12/1/2023,In Season,Early Season,
-FB83,Football,10/22/2023,Shoulder,Upper Extremity,Left,Other Shoulder Injury,,Not Cleared,Wills Forman,Football,Fall,8/1/2023,12/1/2023,In Season,Late-Mid,
-FB83,Football,8/19/2024,Shoulder,Upper Extremity,,Glenoid Labrum Tear (SLAP),,Not Cleared,Wills Forman,Football,Fall,8/1/2024,12/1/2024,In Season,Early Season,
-WSOC16,Women's Soccer,8/28/2023,Knee,Lower Extremity,Right,Sprain,Anterior Cruciate Ligament,Not Cleared,Wynne Hague,W Soccer,Fall,8/1/2023,12/1/2023,In Season,Early Season,
-MSOC17,Men's Soccer,10/31/2023,Brain,Head,,Concussion,,Not Cleared,Zach Barr,M Soccer,Fall,8/1/2023,12/1/2023,In Season,Late-Mid,
-MSOC17,Men's Soccer,12/4/2023,Rib,Torso,Bilateral,Other,,Returned To Play As Tolerated,Zach Barr,M Soccer,Fall,8/1/2023,12/1/2023,Out of Season,Late Offseason,
-FB170,Football,8/16/2025,Brain,Head,,Concussion,,Returned To Play and Closed,Zach Moose,Football,Fall,8/1/2025,12/1/2025,In Season,Early Season,
-MSOC10,Men's Soccer,11/2/2024,Knee,Lower Extremity,Left,Sprain,Medial Collateral Ligament,Returned To Play As Tolerated,Zarius Eusebe,M Soccer,Fall,8/1/2024,12/1/2024,In Season,Late Season,
+MLAX45,Men's Lacrosse,1/25/2025,Brain,Head,NA,Concussion,NA,Not Cleared,Tristan Moss,M Lacrosse,Spring,1/1/2025,6/1/2025,In Season,Early Season,NA
+MLAX76,Men's Lacrosse,10/6/2025,Brain,Head,Does Not Apply,Concussion,NA,Limited Activity,Tucker Paxson,M Lacrosse,Spring,1/1/2025,6/1/2025,Out of Season,Late Offseason,NA
+FB66,Football,3/26/2024,Brain,Head,NA,Concussion,NA,Not Cleared,Ty Belville,Football,Fall,8/1/2024,12/1/2024,Out of Season,Early Offseason,NA
+MSD39,Men's Swimming & Diving,1/9/2024,Hip,Lower Extremity,Right,Hip pain (finding),NA,Returned To Play As Tolerated,Tyler Distenfeld,M Swim,Winter,9/15/2023,3/31/2024,In Season,Late-Mid,NA
+MSOC6,Men's Soccer,11/29/2023,Lumbar Spine,Torso,Bilateral,Tightness,NA,Returned To Play As Tolerated,Tyler Weiss,M Soccer,Fall,8/1/2023,12/1/2023,In Season,Late Season,NA
+MSOC6,Men's Soccer,8/17/2024,Thigh,Lower Extremity,Right,Strain,Hamstring (partial tear),Not Cleared,Tyler Weiss,M Soccer,Fall,8/1/2024,12/1/2024,In Season,Early Season,NA
+MSOC6,Men's Soccer,8/30/2025,Thigh,Lower Extremity,Left,Strain,Biceps Femoris,Returned To Play As Tolerated,Tyler Weiss,M Soccer,Fall,8/1/2025,12/1/2025,In Season,Early Season,NA
+FB8,Football,9/12/2024,Knee,Lower Extremity,Right,Sprain,Anterior Cruciate Ligament,Not Cleared,Vincent Cognetta,Football,Fall,8/1/2024,12/1/2024,In Season,Early-Mid,NA
+WBB19,Women's Basketball,2/20/2024,Larynx,Neck,NA,Other,NA,Returned To Play and Closed,Violet Mitchell,W Basketball,Winter,9/15/2023,3/31/2024,In Season,Late Season,NA
+WBB19,Women's Basketball,9/6/2024,Ankle,Lower Extremity,NA,Sprain,NA,Returned To Play As Tolerated,Violet Mitchell,W Basketball,Winter,9/15/2024,3/31/2025,Out of Season,Early Offseason,NA
+WBB19,Women's Basketball,3/2/2025,Foot,Lower Extremity,NA,Stress Fracture,NA,Not Cleared,Violet Mitchell,W Basketball,Winter,9/15/2024,3/31/2025,In Season,Late Season,NA
+G20,Golf,3/20/2025,Thoracic Spine,Torso,Bilateral,Strain,Longissimus Thoracis,Limited Activity,Walker Grelle,Golf,Spring,1/1/2025,6/1/2025,In Season,Late-Mid,NA
+MSOC2,Men's Soccer,8/17/2024,Hip,Lower Extremity,Right,Strain,Iliopsoas,Limited Activity,Wesley Bruner,M Soccer,Fall,8/1/2024,12/1/2024,In Season,Early Season,NA
+MTE19,Men's Tennis,9/22/2025,Shoulder,Upper Extremity,Right,Tendinitis,Rotator Cuff,Returned To Play As Tolerated,Wesley Huang,M Tennis,Spring,1/1/2025,6/1/2025,Out of Season,Late Offseason,NA
+MSOC30,Men's Soccer,11/16/2025,Mouth,Head,Midline,Fracture,Tooth,Returned To Play As Tolerated,Will Fullerton,M Soccer,Fall,8/1/2025,12/1/2025,In Season,Late Season,NA
+FB46,Football,8/14/2023,Thigh,Lower Extremity,Left,Strain,Hamstring (partial tear),Limited Activity,Will Solis,Football,Fall,8/1/2023,12/1/2023,In Season,Early Season,NA
+FB83,Football,10/22/2023,Shoulder,Upper Extremity,Left,Other Shoulder Injury,NA,Not Cleared,Wills Forman,Football,Fall,8/1/2023,12/1/2023,In Season,Late-Mid,NA
+FB83,Football,8/19/2024,Shoulder,Upper Extremity,NA,Glenoid Labrum Tear (SLAP),NA,Not Cleared,Wills Forman,Football,Fall,8/1/2024,12/1/2024,In Season,Early Season,NA
+WSOC16,Women's Soccer,8/28/2023,Knee,Lower Extremity,Right,Sprain,Anterior Cruciate Ligament,Not Cleared,Wynne Hague,W Soccer,Fall,8/1/2023,12/1/2023,In Season,Early Season,NA
+MSOC17,Men's Soccer,10/31/2023,Brain,Head,NA,Concussion,NA,Not Cleared,Zach Barr,M Soccer,Fall,8/1/2023,12/1/2023,In Season,Late-Mid,NA
+MSOC17,Men's Soccer,12/4/2023,Rib,Torso,Bilateral,Other,NA,Returned To Play As Tolerated,Zach Barr,M Soccer,Fall,8/1/2023,12/1/2023,Out of Season,Late Offseason,NA
+FB170,Football,8/16/2025,Brain,Head,NA,Concussion,NA,Returned To Play and Closed,Zach Moose,Football,Fall,8/1/2025,12/1/2025,In Season,Early Season,NA
+MSOC10,Men's Soccer,11/2/2024,Knee,Lower Extremity,Left,Sprain,Medial Collateral Ligament,Returned To Play As Tolerated,Zarius Eusebe,M Soccer,Fall,8/1/2024,12/1/2024,In Season,Late Season,NA
